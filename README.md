@@ -1,1 +1,2 @@
-# jjintokyo.github.io
+# ArduiPi Radio!
+FM / DAB+ / INTERNET (40 Presets + Random Mode) and MP3 Player...
