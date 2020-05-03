@@ -1,0 +1,14 @@
+#!/bin/bash
+
+############################
+# RADIO / JJR / APRIL 2018 #
+#--------------------------#
+# killemall - Kill 'Em All #
+############################
+
+sudo pkill vlc
+sudo pkill softfm
+sudo pkill dab-rtlsdr
+sudo pkill google
+sudo pkill SampleApp
+sudo pkill spyserver
