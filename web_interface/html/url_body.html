@@ -1,0 +1,639 @@
+	<html>
+	<head>
+		<title>Update URLs</title>
+	</head>
+	<body BGCOLOR="Beige" TEXT="Black">
+	<FORM action="cgi-bin/url_save.sh" method="POST" target="url_status">
+	<HR>
+	<div align="center">
+	<table border="0" cellspacing="22" cellpadding="0">
+		<tr align="center">
+			<td width="22" align="center"><img src="warn.gif" alt="warn"></td>
+			<td width="222" align="center">
+				<input type="submit" value="Click here to save your change(s)" 
+				style="background-color:LightGreen;">
+			</td>
+			<td width="22" align="center"><img src="warn.gif" alt="warn"></td>
+		</tr>
+	</table>
+	<table border="3" cellspacing="3" cellpadding="3">
+	<tr align="center">
+		<td width="10%" align="center"><b>01</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="01" id="01" value="http://direct.franceinfo.fr/live/franceinfo-midfi.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?0" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?0" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>02</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="02" id="02" value="http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?1" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?1" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>03</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="03" id="03" value="http://streaming.radio.rtl.fr/rtl-1-48-72.aac" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?2" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?2" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>04</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="04" id="04" value="http://rmc.bfmtv.com/rmcinfo-mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?3" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?3" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>05</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="05" id="05" value="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?4" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?4" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>06</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="06" id="06" value="http://stream.srg-ssr.ch/m/option-musique/mp3_128" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?5" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?5" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>07</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="07" id="07" value="http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?6" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?6" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>08</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="08" id="08" value="http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3?origine=fluxradios" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?7" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?7" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>09</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="09" id="09" value="http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3?origine=fluxradios" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?8" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?8" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>10</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="10" id="10" value="http://cdn.nrjaudio.fm/adwz1/fr/55206/mp3_128.mp3?origine=fluxradios" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?9" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?9" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>11</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="11" id="11" value="http://streaming-ent.shoutcast.com/foxnews" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?10" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?10" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>12</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="12" id="12" value="http://npr-ice.streamguys1.com/live.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?11" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?11" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>13</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="13" id="13" value="http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?12" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?12" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>14</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="14" id="14" value="http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?13" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?13" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>15</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="15" id="15" value="http://radio74.ice.infomaniak.ch/radio74-high.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?14" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?14" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>16</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="16" id="16" value="http://allzic50.ice.infomaniak.ch/allzic50.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?15" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?15" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>17</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="17" id="17" value="http://stream.srg-ssr.ch/m/rsp/mp3_128" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?16" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?16" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>18</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="18" id="18" value="http://stream.srg-ssr.ch/m/rsc_fr/mp3_128" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?17" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?17" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>19</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="19" id="19" value="http://hdv3.nkansai.tv/chofu" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?18" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?18" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>20</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="20" id="20" value="http://hdv3.nkansai.tv/katsushika" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?19" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?19" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>21</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="21" id="21" value="http://113fm.cdnstream1.com/1719_128" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?20" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?20" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>22</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="22" id="22" value="http://113fm.cdnstream1.com/1720_128" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?21" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?21" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>23</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="23" id="23" value="http://113fm.cdnstream1.com/1721_128" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?22" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?22" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>24</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="24" id="24" value="http://113fm.cdnstream1.com/1722_128" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?23" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?23" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>25</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="25" id="25" value="http://listen.181fm.com/181-awesome80s_128k.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?24" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?24" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>26</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="26" id="26" value="http://listen.181fm.com/181-eagle_128k.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?25" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?25" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>27</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="27" id="27" value="http://listen.181fm.com/181-highway_128k.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?26" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?26" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>28</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="28" id="28" value="http://listen.181fm.com/181-greatoldies_128k.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?27" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?27" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>29</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="29" id="29" value="http://listen.181fm.com/181-70s_128k.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?28" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?28" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>30</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="30" id="30" value="http://listen.181fm.com/181-90salt_128k.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?29" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?29" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>31</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="31" id="31" value="http://streaming.radio.rtl2.fr/rtl2-1-48-192" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?30" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?30" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>32</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="32" id="32" value="http://direct.fipradio.fr/live/fip-midfi.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?31" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?31" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>33</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="33" id="33" value="http://media-ice.musicradio.com/GoldMP3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?32" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?32" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>34</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="34" id="34" value="http://tx.planetradio.co.uk/icecast.php?i=absolute70s.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?33" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?33" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>35</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="35" id="35" value="http://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?34" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?34" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>36</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="36" id="36" value="http://playerservices.streamtheworld.com/api/livestream-redirect/977_90.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?35" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?35" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>37</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="37" id="37" value="http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?36" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?36" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>38</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="38" id="38" value="http://streaming211.radionomy.com:80/Radio-Tijdloos" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?37" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?37" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>39</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="39" id="39" value="http://streaming211.radionomy.com:80/1Oldies" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?38" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?38" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>40</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="40" id="40" value="http://66.70.187.44:9127/autodj" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?39" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?39" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	<tr align="center">
+		<td width="10%" align="center"><b>SP</b></td>
+		<td width="60%" align="left">
+			<input type="url" name="SP" id="SP" value="http://onair-ha1.krone.at/kronehit-event.mp3" 
+			pattern="http://.*" size="80" required>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_check.sh?40" 
+			formmethod="POST" formtarget="url_status" style=background-color:LightBlue;>Check</button>
+		</td>
+		<td width="15%" align="center">
+			<button type="submit" formaction="cgi-bin/url_play.sh?40" 
+			formmethod="POST" formtarget="url_status" style=background-color:Yellow;>Play</button>
+		</td>
+	</tr>
+	</table>
+	</div>
+	</FORM>
+	</body>
+	</html>

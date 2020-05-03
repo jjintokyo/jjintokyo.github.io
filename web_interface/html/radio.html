@@ -1,0 +1,487 @@
+<html>
+<head>
+  <title>Internet Radio</title>
+</head>
+
+<body BGCOLOR=Beige TEXT=Black>
+
+<table border="0">
+<TR>
+<td width=15%></td>
+<td width=10% align=center><img src="star.gif" alt="star"></td>
+<td width=60% align=center><h1>JJ's Internet Radio Interface</h1></td>
+<td width=10% align=center><img src="star.gif" alt="star"></td>
+</tr>
+</table>
+
+<HR>
+
+<table border="0">
+<TR>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh" method="POST" target=status>
+<input type="submit" value="Play" style="background-color:LightGreen;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/next.sh" method="POST" target=status>
+<input type="submit" value="Next" style="background-color:Yellow;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/prev.sh" method="POST" target=status>
+<input type="submit" value="Previous" style="background-color:LightBlue;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/stop2.sh" method="POST" target=status>
+<input type="submit" value="Stop" style="background-color:LightPink;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/volumeup.sh" method="POST" target=status>
+<input type="submit" value="Volume +" style="background-color:Gold;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/volumedown.sh" method="POST" target=status>
+<input type="submit" value="Volume -" style="background-color:AquaMarine;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/equalizeron.sh" method="POST" target=status>
+<input type="submit" value="Equalizer ON" style="background-color:Plum;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/equalizeroff.sh" method="POST" target=status>
+<input type="submit" value="Equalizer OFF" style="background-color:Tan;">
+</FORM>
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table border="0">
+<TR>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?1" method="POST" target=status>
+<input type="submit" value="01" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?2" method="POST" target=status>
+<input type="submit" value="02" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?3" method="POST" target=status>
+<input type="submit" value="03" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?4" method="POST" target=status>
+<input type="submit" value="04" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?5" method="POST" target=status>
+<input type="submit" value="05" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?6" method="POST" target=status>
+<input type="submit" value="06" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?7" method="POST" target=status>
+<input type="submit" value="07" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?8" method="POST" target=status>
+<input type="submit" value="08" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?9" method="POST" target=status>
+<input type="submit" value="09" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?10" method="POST" target=status>
+<input type="submit" value="10" style="background-color:Bisque;">
+</FORM>
+</td>
+</tr>
+<TR>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?11" method="POST" target=status>
+<input type="submit" value="11" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?12" method="POST" target=status>
+<input type="submit" value="12" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?13" method="POST" target=status>
+<input type="submit" value="13" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?14" method="POST" target=status>
+<input type="submit" value="14" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?15" method="POST" target=status>
+<input type="submit" value="15" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?16" method="POST" target=status>
+<input type="submit" value="16" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?17" method="POST" target=status>
+<input type="submit" value="17" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?18" method="POST" target=status>
+<input type="submit" value="18" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?19" method="POST" target=status>
+<input type="submit" value="19" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?20" method="POST" target=status>
+<input type="submit" value="20" style="background-color:Bisque;">
+</FORM>
+</td>
+</tr>
+<TR>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?21" method="POST" target=status>
+<input type="submit" value="21" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?22" method="POST" target=status>
+<input type="submit" value="22" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?23" method="POST" target=status>
+<input type="submit" value="23" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?24" method="POST" target=status>
+<input type="submit" value="24" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?25" method="POST" target=status>
+<input type="submit" value="25" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?26" method="POST" target=status>
+<input type="submit" value="26" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?27" method="POST" target=status>
+<input type="submit" value="27" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?28" method="POST" target=status>
+<input type="submit" value="28" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?29" method="POST" target=status>
+<input type="submit" value="29" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?30" method="POST" target=status>
+<input type="submit" value="30" style="background-color:Bisque;">
+</FORM>
+</td>
+</tr>
+<TR>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?31" method="POST" target=status>
+<input type="submit" value="31" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?32" method="POST" target=status>
+<input type="submit" value="32" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?33" method="POST" target=status>
+<input type="submit" value="33" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?34" method="POST" target=status>
+<input type="submit" value="34" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?35" method="POST" target=status>
+<input type="submit" value="35" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?36" method="POST" target=status>
+<input type="submit" value="36" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?37" method="POST" target=status>
+<input type="submit" value="37" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?38" method="POST" target=status>
+<input type="submit" value="38" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?39" method="POST" target=status>
+<input type="submit" value="39" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/play.sh?40" method="POST" target=status>
+<input type="submit" value="40" style="background-color:Bisque;">
+</FORM>
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table border="0">
+<TR>
+<td width=130 align=center>
+<FORM action="cgi-bin/what.sh" method="POST" target=status>
+<input type="submit" value="What is playing?" style="background-color:LightGreen;">
+</FORM>
+</td>
+<td width=130 align=center>
+<FORM action="cgi-bin/stations.sh" method="POST" target=status>
+<input type="submit" value="Available Stations" style="background-color:Yellow;">
+</FORM>
+</td>
+<td width=130 align=center>
+<FORM action="cgi-bin/shutdown.sh" method="POST" target=status>
+<input type="submit" value="Turn OFF Radio" style="background-color:LightPink;">
+</FORM>
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table border="0">
+<TR>
+<td width=100 align=center>
+<FONT SIZE=3 COLOR="Black">
+<B>FM RADIO</B>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?0" method="POST" target=status>
+<input type="submit" value="01" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?1" method="POST" target=status>
+<input type="submit" value="02" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?2" method="POST" target=status>
+<input type="submit" value="03" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?3" method="POST" target=status>
+<input type="submit" value="04" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?4" method="POST" target=status>
+<input type="submit" value="05" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?5" method="POST" target=status>
+<input type="submit" value="06" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?6" method="POST" target=status>
+<input type="submit" value="07" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?7" method="POST" target=status>
+<input type="submit" value="08" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?8" method="POST" target=status>
+<input type="submit" value="09" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/fm.sh?9" method="POST" target=status>
+<input type="submit" value="10" style="background-color:Bisque;">
+</FORM>
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table border="0">
+<TR>
+<td width=100 align=center>
+<FONT SIZE=3 COLOR="Black">
+<B>DAB+ RADIO</B>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?0" method="POST" target=status>
+<input type="submit" value="01" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?1" method="POST" target=status>
+<input type="submit" value="02" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?2" method="POST" target=status>
+<input type="submit" value="03" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?3" method="POST" target=status>
+<input type="submit" value="04" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?4" method="POST" target=status>
+<input type="submit" value="05" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?5" method="POST" target=status>
+<input type="submit" value="06" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?6" method="POST" target=status>
+<input type="submit" value="07" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?7" method="POST" target=status>
+<input type="submit" value="08" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?8" method="POST" target=status>
+<input type="submit" value="09" style="background-color:Bisque;">
+</FORM>
+</td>
+<td width=100 align=center>
+<FORM action="cgi-bin/dab.sh?9" method="POST" target=status>
+<input type="submit" value="10" style="background-color:Bisque;">
+</FORM>
+</td>
+</tr>
+</table>
+
+<HR>
+
+<table border="0">
+<TR>
+<td width='40%' align=left>
+<FORM action="cgi-bin/mp3.sh" method="POST" target=status>
+<input type="submit" value="MP3 PLAYER / Play Random MP3" style="background-color:LightSalmon;">
+</FORM>
+</td>
+<td width='20%' align=left>
+<FORM METHOD="GET" ACTION="cgi-bin/go_v-l-c.sh" target=status>
+<select name="mySelection2" id="mySelection2" style="background-color:DarkKhaki;">
+  <option value="01">01</option>
+  <option value="02">02</option>
+  <option value="03">03</option>
+  <option value="04">04</option>
+  <option value="05">05</option>
+  <option value="06">06</option>
+  <option value="07">07</option>
+  <option value="08">08</option>
+  <option value="09">09</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+  <option value="13">13</option>
+  <option value="14">14</option>
+  <option value="15">15</option>
+  <option value="16">16</option>
+  <option value="17">17</option>
+  <option value="18">18</option>
+  <option value="19">19</option>
+  <option value="20">20</option>
+  <option value="21">21</option>
+  <option value="22">22</option>
+  <option value="23">23</option>
+  <option value="24">24</option>
+  <option value="25">25</option>
+  <option value="26">26</option>
+  <option value="27">27</option>
+  <option value="28">28</option>
+  <option value="29">29</option>
+  <option value="30">30</option>
+  <option value="31">31</option>
+  <option value="32">32</option>
+  <option value="33">33</option>
+  <option value="34">34</option>
+  <option value="35">35</option>
+  <option value="36">36</option>
+  <option value="37">37</option>
+  <option value="38">38</option>
+  <option value="39">39</option>
+  <option value="40">40</option>
+</select>
+&nbsp;&nbsp;&nbsp;
+<input type="submit" value="GO VLC!" style="background-color:DarkKhaki;">
+</FORM>
+</td>
+<td width='20%' align=right>
+<FORM METHOD="POST" ACTION="cgi-bin/special.sh" target="status">
+<INPUT TYPE="image" SRC="special.gif" ALT="special" BORDER=0>
+</FORM>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

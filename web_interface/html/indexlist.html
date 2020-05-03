@@ -1,0 +1,86 @@
+<HTML>
+<SCRIPT Language="JavaScript">
+function startDateTime() {
+    var today = new Date();
+	document.getElementById("theDate").innerHTML = today.toDateString();
+    var h = today.getHours();
+    var m = today.getMinutes();
+    var s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById("theTime").innerHTML = h + ":" + m + ":" + s;
+    var t = setTimeout(startDateTime, 500);
+}
+function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+}
+</SCRIPT>
+
+<BODY BGCOLOR=Seagreen TEXT=white link=white vlink=lightblue onload="startDateTime()">
+
+<DIV ALIGN="center">
+<FORM METHOD="GET" ACTION="cgi-bin/random.sh" target="status">
+<INPUT TYPE="image" SRC="randomwebradio.gif" ALT="random web radio" BORDER=0>
+<BR>
+<FONT SIZE=2 COLOR="DarkKhaki">
+<B>Random!</B>
+<BR><BR>
+<select name="mySelection" id="mySelection" style="background-color:YellowGreen;">
+  <option value="Everything">Everything</option>
+  <option value="Talk">Talk</option>
+  <option value="Classical">Classical</option>
+  <option value="Alternative">Alternative</option>
+  <option value="Country">Country</option>
+  <option value="Oldies">Oldies</option>
+  <option value="50s">50s</option>
+  <option value="60s">60s</option>
+  <option value="70s">70s</option>
+  <option value="80s">80s</option>
+  <option value="90s">90s</option>
+  <option value="Christmas">Christmas</option>
+  <option value="Disco">Disco</option>
+  <option value="Jazz">Jazz</option>
+  <option value="Pop">Pop</option>
+  <option value="Rock">Rock</option>
+  <option value="News">News</option>
+  <option value="Easy">Easy</option>
+  <option value="Indie">Indie</option>
+  <option value="Top40">Top40</option>
+  <option value="Generaliste">Generaliste</option>
+  <option value="Ambient">Ambient</option>
+  <option value="Scanner">Scanner</option>
+</select>
+</FORM>
+
+<BR><BR><BR>
+<FORM action="cgi-bin/details.sh" method="POST" target="status">
+<input type="submit" value="Details?" style="background-color:YellowGreen;">
+</FORM>
+
+<BR>
+<FONT SIZE=3 COLOR="DarkBlue">
+<B><div id="theDate" ALIGN="center"></div></B>
+<B><div id="theTime" ALIGN="center"></div></B>
+
+<BR>
+<FORM METHOD="POST" ACTION="cgi-bin/stop.sh" target="status">
+<INPUT TYPE="image" SRC="stop.gif" ALT="stop" BORDER=0>
+<BR>
+<FONT SIZE=2 COLOR="DarkKhaki">
+<B>Stop!</B>
+</FORM>
+
+<BR><BR><BR><BR>
+<FORM action="cgi-bin/pi.sh" method="GET" target="blank">
+<input type="submit" value="&pi;" style="background-color: YellowGreen; font-family: serif; font-size: 25px;">
+</FORM>
+
+<BR><BR>
+<FORM action="cgi-bin/url.sh" method="GET" target="blank">
+<input type="submit" value="URLs" style="background-color: YellowGreen;">
+</FORM>
+
+</DIV>
+</BODY>
+</HTML>
