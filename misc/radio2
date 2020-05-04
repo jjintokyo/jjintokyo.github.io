@@ -1,0 +1,69 @@
+#!/bin/bash
+
+#############################
+# RADIO2 / JJR / APRIL 2018 #
+#---------------------------#
+# PLAY                      #
+#############################
+
+r1="talk"; r2="classical"; r3="alternative"; r4="country"; r5="scanner"; r6="60s"; r7="70s"; r8="80s"; r9="90s";
+
+if [ "$1" -eq 1 ]; then # (1)=FM RADIO
+  case "$2" in
+    (0 | $'\e[2~') softfm -t rtlsdr -c freq=101100000,srate=300000,gain=19.7,agc -M -Pequal </dev/null &>/dev/null &;;
+    (1 | $'\e[4~') softfm -t rtlsdr -c freq=107600000,srate=300000               -M -Pequal </dev/null &>/dev/null &;;
+    (2 | $'\e[B')  softfm -t rtlsdr -c freq=98100000,srate=300000                   -Pequal </dev/null &>/dev/null &;; # NOSTALGIE Léman
+    (3 | $'\e[6~') softfm -t rtlsdr -c freq=93000000,srate=300000,gain=15.7         -Pequal </dev/null &>/dev/null &;;
+    (4 | $'\e[D')  softfm -t rtlsdr -c freq=104000000,srate=300000                  -Pequal </dev/null &>/dev/null &;;
+    (5 | $'\e[G')  softfm -t rtlsdr -c freq=106500000,srate=300000,gain=49.6        -Pequal </dev/null &>/dev/null &;;
+    (6 | $'\e[C')  softfm -t rtlsdr -c freq=107200000,srate=300000                  -Pequal </dev/null &>/dev/null &;;
+    (7 | $'\e[1~') softfm -t rtlsdr -c freq=102100000,srate=300000                  -Pequal </dev/null &>/dev/null &;;
+    (8 | $'\e[A')  softfm -t rtlsdr -c freq=94700000,srate=300000,gain=49.6      -M -Pequal </dev/null &>/dev/null &;;
+    (9 | $'\e[5~') softfm -t rtlsdr -c freq=88100000,srate=300000,gain=49.6         -Pequal </dev/null &>/dev/null &;;
+  esac
+fi
+
+if [ "$1" -eq 2 ]; then # (2)=DAB+ RADIO
+  case "$2" in
+    (0 | $'\e[2~') dab-rtlsdr-2 -M 1 -B "BAND III" -C 8C  -P "PIRATE"    -Q -A equal </dev/null &>/dev/null &;;
+    (1 | $'\e[4~') dab-rtlsdr-2 -M 1 -B "BAND III" -C 8C  -P "BANANE"    -Q -A equal </dev/null &>/dev/null &;;
+    (2 | $'\e[B')  dab-rtlsdr-2 -M 1 -B "BAND III" -C 8C  -P "SPOON"     -Q -A equal </dev/null &>/dev/null &;;
+    (3 | $'\e[6~') dab-rtlsdr-2 -M 1 -B "BAND III" -C 8C  -P "WRS"       -Q -A equal </dev/null &>/dev/null &;;
+    (4 | $'\e[D')  dab-rtlsdr-2 -M 1 -B "BAND III" -C 8C  -P "RADIO 74"  -Q -A equal </dev/null &>/dev/null &;;
+    (5 | $'\e[G')  dab-rtlsdr-2 -M 1 -B "BAND III" -C 8C  -P "RadioBus"  -Q -A equal </dev/null &>/dev/null &;;
+    (6 | $'\e[C')  dab-rtlsdr-2 -M 1 -B "BAND III" -C 12A -P "RTS"       -Q -A equal </dev/null &>/dev/null &;;
+    (7 | $'\e[1~') dab-rtlsdr-2 -M 1 -B "BAND III" -C 12A -P "OPTION"    -Q -A equal </dev/null &>/dev/null &;;
+    (8 | $'\e[A')  dab-rtlsdr-2 -M 1 -B "BAND III" -C 12A -P "Swiss Pop" -Q -A equal </dev/null &>/dev/null &;;
+    (9 | $'\e[5~') dab-rtlsdr-2 -M 1 -B "BAND III" -C 12A -P "SRF Musik" -Q -A equal </dev/null &>/dev/null &;;
+  esac
+fi
+
+if [ "$1" -eq 3 ] || # (3)=INTERNET RADIO #1
+   [ "$1" -eq 4 ] || # (4)=INTERNET RADIO #2
+   [ "$1" -eq 5 ] || # (5)=INTERNET RADIO #3
+   [ "$1" -eq 6 ] || # (6)=INTERNET RADIO #4
+   [ "$1" -eq 9 ]    # (9)=SPECIAL
+then
+	if [ ! -z "$3" ]; then
+		vlc -I dummy --alsa-audio-device equal "$3" </dev/null &>/dev/null &
+	fi
+fi
+
+if [ "$1" -eq 7 ]; then # (7)=RANDOM INTERNET RADIO
+  case "$2" in
+    (0 | $'\e[2~') /home/pi/icecast_play/icecast.py &>/dev/null &;;
+    (1 | $'\e[4~') /home/pi/icecast_play/icecast.py "$r1" &>/dev/null &;;
+    (2 | $'\e[B')  /home/pi/icecast_play/icecast.py "$r2" &>/dev/null &;;
+    (3 | $'\e[6~') /home/pi/icecast_play/icecast.py "$r3" &>/dev/null &;;
+    (4 | $'\e[D')  /home/pi/icecast_play/icecast.py "$r4" &>/dev/null &;;
+    (5 | $'\e[G')  /home/pi/icecast_play/icecast.py "$r5" &>/dev/null &;;
+    (6 | $'\e[C')  /home/pi/icecast_play/icecast.py "$r6" &>/dev/null &;;
+    (7 | $'\e[1~') /home/pi/icecast_play/icecast.py "$r7" &>/dev/null &;;
+    (8 | $'\e[A')  /home/pi/icecast_play/icecast.py "$r8" &>/dev/null &;;
+    (9 | $'\e[5~') /home/pi/icecast_play/icecast.py "$r9" &>/dev/null &;;
+  esac
+fi
+
+if [ "$1" -eq 8 ]; then # (8)=MP3 PLAYER
+	vlc -I dummy --alsa-audio-device equal -LZ "/home/pi/mp3" </dev/null &>/dev/null &
+fi
