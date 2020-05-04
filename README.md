@@ -1,7 +1,7 @@
 # ArduiPi Radio!
 ## FM / DAB+ / INTERNET (40 Presets + Random Mode) and MP3 Player...
 <I>Powered by an Arduino Nano and a Raspberry Pi 3 Model B+</I>
-<BR><BR><BR>
+
 
 <TABLE BORDER=0>
 <TR ALIGN="center">
