@@ -1,0 +1,83 @@
+#!/bin/bash
+
+#############################
+# Skip OS upgrade for now!  #
+#---------------------------#
+# sudo apt-get update       #
+# sudo apt-get upgrade      #
+# sudo apt-get dist-upgrade #
+#############################
+
+setup=( 
+"sudo cp /usr/bin/vlc /usr/bin/vlc2                            " 
+"sudo sed -i 's/geteuid/getppid/' /usr/bin/vlc2                " 
+"sudo rm -f /var/www/html/*                                    " 
+"sudo cp html/* /var/www/html/                                 " 
+"sudo rm -f /usr/lib/cgi-bin/*                                 " 
+"sudo cp cgi-bin/* /usr/lib/cgi-bin/                           " 
+"sudo chmod +x /usr/lib/cgi-bin/*                              " 
+"cp radio/radio /home/pi/                                      " 
+"chmod +x /home/pi/radio                                       " 
+"cp radio/radio2 /home/pi/                                     " 
+"chmod +x /home/pi/radio2                                      " 
+"cp radio/killemall /home/pi/                                  " 
+"chmod +x /home/pi/killemall                                   " 
+"cp radio/presets /home/pi/                                    " 
+"chmod +x /home/pi/presets                                     " 
+"sudo cp radio/playlist.db /home/pi/temp/                      " 
+"sudo cp radio/special.db /home/pi/temp/                       " 
+"cp icecast_play/init.sh /home/pi/icecast_play/                " 
+"chmod +x /home/pi/icecast_play/init.sh                        " 
+"cp icecast_play/icecast.py /home/pi/icecast_play/             " 
+"chmod +x /home/pi/icecast_play/icecast.py                     " 
+"cp icecast_play/icecast_http.py /home/pi/icecast_play/        " 
+"chmod +x /home/pi/icecast_play/icecast_http.py                " 
+"cp icecast_play/get_the_stream_title.py /home/pi/icecast_play/" 
+"chmod +x /home/pi/icecast_play/get_the_stream_title.py        " 
+);
+
+done=( 
+"Done!                                                                 " 
+);
+
+R='\033[0;31m'
+G='\033[0;32m'
+B='\033[1;34m'
+Y='\033[0;33m'
+N='\033[0m'
+
+sleepy=1
+clear
+
+echo ""
+echo -e " ${Y}                                    ${B}         ██╗ ${R}                         ██╗         "
+echo -e " ${Y}                                    ${B}         ╚═╝ ${R}                         ╚═╝         "
+echo -e " ${Y} ██╗     ███████╗ ██████╗  ██████╗  ${B} ██████╗ ██╗ ${R} ██████╗  █████╗ ██████╗ ██╗ ██████╗ "
+echo -e " ${Y} ██║     ██╔════╝██╔════╝ ██╔═══██╗ ${B} ██╔══██╗██║ ${R} ██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗"
+echo -e " ${Y} ██║     █████╗  ██║  ███╗██║   ██║ ${B} ██████╔╝██║ ${R} ██████╔╝███████║██║  ██║██║██║   ██║"
+echo -e " ${Y} ██║     ██╔══╝  ██║   ██║██║   ██║ ${B} ██╔═══╝ ██║ ${R} ██╔══██╗██╔══██║██║  ██║██║██║   ██║"
+echo -e " ${Y} ███████╗███████╗╚██████╔╝╚██████╔╝ ${B} ██║     ██║ ${R} ██║  ██║██║  ██║██████╔╝██║╚██████╔╝"
+echo -e " ${Y} ╚══════╝╚══════╝ ╚═════╝  ╚═════╝  ${B} ╚═╝     ╚═╝ ${R} ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ "
+echo ""
+echo ""
+echo ""
+echo -e "${G}  Installing, please wait..."
+echo ""
+echo ""
+echo ""
+
+cd "/home/pi/Lego Pi Radio"
+
+for i in "${!setup[@]}"; do
+	cmd="${setup[$i]}"
+	x=$(("${i}" + 1))
+	y="${#setup[@]}"
+	printf "\r  ${G}$cmd   ${N}$x/$y  "
+	eval "$cmd"
+	sleep "$sleepy"
+done
+
+printf "\r  ${G}${done}${N}"
+echo ""
+echo ""
+echo ""
