@@ -11,7 +11,7 @@
 </TD>
 
 <TD>
-<A HREF="jjintokyo.github.io"><B><FONT SIZE=7 COLOR="blue">jjintokyo.github.io</B></A>
+<A HREF="https://jjintokyo.github.io"><B><FONT SIZE=7 COLOR="blue">https://jjintokyo.github.io</B></A>
 </TD>
 </TR>
 </TABLE>
