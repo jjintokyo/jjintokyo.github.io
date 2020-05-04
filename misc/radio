@@ -1,0 +1,76 @@
+#!/bin/bash
+
+############################
+# RADIO / JJR / APRIL 2018 #
+#--------------------------#
+# CONTROL                  #
+############################
+
+IFS=$'\n' read -d '' -r -a lines < /home/pi/temp/playlist.db
+lines[40]=$(cat /home/pi/temp/special.db)
+
+mute=0; volume=66; adjust=0; sleepy=0.1;
+mode=1 # (1)=FM RADIO, (2)=DAB+ RADIO,
+       # (3)=INTERNET RADIO #1, (4)=INTERNET RADIO #2, (5)=INTERNET RADIO #3, (6)=INTERNET RADIO #4,
+       # (7)=RANDOM INTERNET RADIO, (8)=MP3 PLAYER.
+
+shout0="the radio is on"; shout1="fm radio"; shout2="internet radio number one"; shout3="internet radio number two"; shout4="mp3 player"; shout5="volume down"; shout6="volume up"; shout7="percent";
+shout8="mute"; shout9="unmute"; shout10="random mp3"; shout11="shutting down the radio"; shout12="unknown key pressed"; shout13="volume is"; shout14="random internet radio"; shout15="internet radio number three"; shout16="dab+ radio"; shout17="internet radio number four";
+ps="preset"; p0="zero"; p1="one"; p2="two"; p3="three"; p4="four"; p5="five"; p6="six"; p7="seven"; p8="eight"; p9="nine";
+rd="random"; r0="everything"; r1="talk"; r2="classical"; r3="alternative"; r4="country"; r5="scanner"; r6="60s"; r7="70s"; r8="80s"; r9="90s";
+google=0; shout61="google assistant is on"; shout62="google assistant is off";
+alexa=0; shout71="amazon alexa is on"; shout72="amazon alexa is off";
+spyserver=0; shout81="spy server is on"; shout82="spy server is off";
+equal=1; shout91="equalizer is on"; shout92="equalizer is off";
+/home/pi/presets jj &>/dev/null &
+
+ReadKey() {
+  # wait for first character
+  if read -sN1 _REPLY; then
+    # then read rest of characters if any
+    while read -sN1 -t 0.001 ; do
+      _REPLY+="${REPLY}"
+    done
+  fi
+}
+
+SoundOn()   { amixer cset numid=2 on &>/dev/null; }
+SoundOff()  { amixer cset numid=2 off &>/dev/null; }
+SetVolume() { amixer cset numid=1 "$1"% &>/dev/null; }
+SayMode()   { if [ "$mode" -eq 1 ]; then shout="$shout1"; elif [ "$mode" -eq 2 ]; then shout="$shout16"; elif [ "$mode" -eq 3 ]; then shout="$shout2"; adjust=0; elif [ "$mode" -eq 4 ]; then shout="$shout3"; adjust=10; elif [ "$mode" -eq 5 ]; then shout="$shout15"; adjust=20; elif [ "$mode" -eq 6 ]; then shout="$shout17"; adjust=30; elif [ "$mode" -eq 7 ]; then shout="$shout14"; elif [ "$mode" -eq 8 ]; then shout="$shout4"; fi; }
+Talk2Me()   { flite -t "$1" -voice slt --setf duration_stretch=.9 --setf int_f0_target_mean=237 &>/dev/null; }
+# Talk2Me() { flite -t "$1" -voice slt --setf duration_stretch=1.3 --setf int_f0_target_mean=222 &>/dev/null; }
+# Talk2Me() { flite "$1" -voice rms &>/dev/null; }
+
+/home/pi/icecast_play/init.sh &>/dev/null &
+SoundOn; SetVolume "$volume"; Talk2Me "$shout0"; sleep "$sleepy"; /home/pi/radio2 "$mode" 2 "";
+# read -t 0.1 -n 100 ignore_keys_while_command_completes
+
+while ReadKey ; do
+  # echo -n "value=" >/home/pi/temp/key; printf "\\\x%s" $(printf "${_REPLY}"|xxd -p -c1 -u) >>/home/pi/temp/key;
+  case "${_REPLY}" in
+    -)             if [ "$mute" -eq 0 ]; then ((volume-=3)); if [ "$volume" -lt 0 ]; then volume=0; fi; SetVolume "$volume"; Talk2Me "$shout5 $volume $shout7"; fi;;
+    +)             if [ "$mute" -eq 0 ]; then ((volume+=3)); if [ "$volume" -gt 100 ]; then volume=100; fi; SetVolume "$volume"; Talk2Me "$shout6 $volume $shout7"; fi;;
+    /)             if [ "$mute" -eq 0 ]; then mute=1; SayMode; Talk2Me "$shout8 $shout"; SoundOff; else mute=0; SoundOn; SayMode; Talk2Me "$shout9 $shout $shout13 $volume $shout7"; fi;;
+    (0 | $'\e[2~') if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r0"; else Talk2Me "$ps $p0"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (1 | $'\e[4~') if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r1"; else Talk2Me "$ps $p1"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (2 | $'\e[B')  if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r2"; else Talk2Me "$ps $p2"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (3 | $'\e[6~') if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r3"; else Talk2Me "$ps $p3"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (4 | $'\e[D')  if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r4"; else Talk2Me "$ps $p4"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (5 | $'\e[G')  if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r5"; else Talk2Me "$ps $p5"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (6 | $'\e[C')  if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r6"; else Talk2Me "$ps $p6"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (7 | $'\e[1~') if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r7"; else Talk2Me "$ps $p7"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (8 | $'\e[A')  if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r8"; else Talk2Me "$ps $p8"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    (9 | $'\e[5~') if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$mode" -eq 8 ]; then Talk2Me "$shout10"; elif [ "$mode" -eq 7 ]; then Talk2Me "$rd $r9"; else Talk2Me "$ps $p9"; fi; sleep "$sleepy"; /home/pi/radio2 "$mode" "${_REPLY}" "${lines[((${_REPLY}+$adjust))]}"; fi;;
+    $'\x09')       if [ "$mute" -eq 0 ]; then /home/pi/killemall; ((mode--)); if [ "$mode" -eq 0 ]; then mode=8; fi; SayMode; Talk2Me "$shout"; fi;;
+    $'\x0a')       if [ "$mute" -eq 0 ]; then /home/pi/killemall; ((mode++)); if [ "$mode" -eq 9 ]; then mode=1; fi; SayMode; Talk2Me "$shout"; fi;;
+    $'\x7F')       if [ "$mute" -eq 0 ]; then /home/pi/killemall; /home/pi/icecast_play/icecast.py &>/dev/null & fi;;
+    $'\x20')       if [ "$mute" -eq 0 ]; then /home/pi/killemall; /home/pi/radio2 9 0 "${lines[40]}"; fi;;
+    $'\x2A')       if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$google" -eq 0 ]; then google=1; Talk2Me "$shout61"; /home/pi/google_assistant &>/dev/null & else google=0; Talk2Me "$shout62"; fi; fi;;
+    $'\x3D')       if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$alexa" -eq 0 ]; then alexa=1; Talk2Me "$shout71"; /home/pi/alexa &>/dev/null & else alexa=0; Talk2Me "$shout72"; fi; fi;;
+    $'\x1B')       if [ "$mute" -eq 0 ]; then /home/pi/killemall; if [ "$spyserver" -eq 0 ]; then spyserver=1; Talk2Me "$shout81"; /home/pi/spyserver &>/dev/null & else spyserver=0; Talk2Me "$shout82"; fi; fi;;
+    (. | $'\e[3~') if [ "$mute" -eq 1 ]; then /home/pi/killemall; sleep 0.5; SoundOn; Talk2Me "$shout11"; SoundOff; sudo shutdown now; elif [ "$equal" -eq 0 ]; then equal=1; Talk2Me "$shout91"; /home/pi/presets jj &>/dev/null & else equal=0; Talk2Me "$shout92"; /home/pi/presets &>/dev/null & fi;;
+    *)             if [ "$mute" -eq 0 ]; then Talk2Me "$shout12"; fi;;
+  esac
+  # read -t 0.1 -n 100 ignore_keys_while_command_completes
+done
