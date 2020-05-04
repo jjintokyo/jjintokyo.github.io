@@ -3,7 +3,7 @@
 <I>Powered by an Arduino Nano and a Raspberry Pi 3 Model B+</I>
 
 
-<TABLE BORDER=0>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
 <TR ALIGN="center">
 
 <TD>
@@ -11,9 +11,8 @@
 </TD>
 
 <TD>
-<A HREF="https://jjintokyo.github.io"><B><FONT SIZE=7 COLOR="blue">https://jjintokyo.github.io</B></A>
+<A HREF="https://jjintokyo.github.io"><B><FONT SIZE=7 COLOR="blue"><H1>https://jjintokyo.github.io</H1></B></A>
 </TD>
 </TR>
 </TABLE>
-
 
