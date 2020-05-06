@@ -9,7 +9,7 @@
          ALT="ArduiPi Radio!" WIDTH=320 HEIGHT=240 BORDER=0></A>
       </TD>
       <TD>
-         <A HREF="https://jjintokyo.github.io"><B><FONT SIZE=7 COLOR="blue">
+         <A HREF="https://jjintokyo.github.io"><B><FONT SIZE=7 COLOR="Blue">
          <H1>https://jjintokyo.github.io</H1></B></A>
       </TD>
    </TR>
