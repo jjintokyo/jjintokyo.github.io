@@ -11,9 +11,9 @@
 -->
 <HTML>
 <HEAD>
-<TITLE>JJ's ArduiPi Radio!</TITLE>
-<META name="description" content="JJ's ArduiPi Radio!">
-<META name="keywords" content="JJ, ArduiPi, Radio, Arduino, Raspberry Pi, RTL-SDR">
+   <TITLE>JJ's ArduiPi Radio!</TITLE>
+   <META name="description" content="JJ's ArduiPi Radio!">
+   <META name="keywords" content="JJ, ArduiPi, Radio, Arduino, Raspberry Pi, RTL-SDR">
 </HEAD>
 <BODY BGCOLOR="Lavender" TEXT="Black">
 <DIV ALIGN="center">
@@ -25,16 +25,16 @@
    <TR ALIGN="center">
       <TD WIDTH=33%>
          <A HREF="pix/radio.jpg">
-         <IMG SRC="pix/radio_small.jpg"
-         ALT="radio" WIDTH=320 HEIGHT=240 BORDER=1></A>
+         <IMG SRC="pix/radio_small.jpg" ALT="radio" WIDTH=320 HEIGHT=240 BORDER=1></A>
       </TD>
       <TD WIDTH=66%>
          <B><FONT SIZE=6 COLOR="Black">FM / DAB+ / INTERNET / MP3 Player<BR><BR>
-         <FONT SIZE=4><I>Powered by an Arduino Nano and a Raspberry Pi 3 Model B+</I><BR><BR><BR>Full source code available here:&nbsp;&nbsp;&nbsp;
-<IMG SRC="pix/YES.gif" ALT="YES" BORDER=0>
-<A HREF="https://github.com/jjintokyo/jjintokyo.github.io">
-<FONT COLOR="Blue"><H1>https://github.com/jjintokyo</H1></A></B>
-     </TD>
+         <FONT SIZE=4><I>Powered by an Arduino Nano and a Raspberry Pi 3 Model B+</I>
+         <BR><BR><BR>Full source code available here:&nbsp;&nbsp;&nbsp;
+         <IMG SRC="pix/YES.gif" ALT="YES" BORDER=0>
+         <A HREF="https://github.com/jjintokyo/jjintokyo.github.io">
+         <FONT COLOR="Blue"><H1>https://github.com/jjintokyo</H1></A></B>
+      </TD>
    </TR>
 </TABLE>
 
@@ -43,8 +43,7 @@
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
    <TR ALIGN="center">
       <TD WIDTH=56%>
-         <FONT SIZE=4 COLOR="Black"><B>Make your very own <FONT COLOR="Green">Ardui<FONT COLOR="Fuchsia">Pi <FONT COLOR="Red">Radio<FONT COLOR="Black">, it's fun and you'll be pleased with the result!<BR><BR>This amazing little box has 40 internet radio presets and a random mode (random everything or by genre) that allows you to find and listen to new stations.<BR><BR>
-To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Black">Nano or equivalent (+ breadboard, leds, wires, IR receiver and a 4x20 I2C LCD), a <FONT COLOR="Fuchsia">Raspberry Pi <FONT COLOR="Black">3 Model B+ (regular Pi 3 is fine too), an <FONT COLOR="Red">RTL-SDR <FONT COLOR="Black">dongle for FM / DAB modes, a USB memory key to store your MP3 files, and some good sounding USB powered speakers...</B>
+         <FONT SIZE=4 COLOR="Black"><B>Make your very own <FONT COLOR="Green">Ardui<FONT COLOR="Fuchsia">Pi <FONT COLOR="Red">Radio<FONT COLOR="Black">, it's fun and you'll be pleased with the result!<BR><BR>This amazing little box has 40 internet radio presets and a random mode (random everything or by genre) that allows you to find and listen to new stations.<BR><BR>To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Black">Nano or equivalent (+ breadboard, leds, wires, IR receiver and a 4x20 I2C LCD), a <FONT COLOR="Fuchsia">Raspberry Pi <FONT COLOR="Black">3 Model B+ (regular Pi 3 is fine too), an <FONT COLOR="Red">RTL-SDR <FONT COLOR="Black">dongle for FM / DAB modes, a USB memory key to store your MP3 files, and some good sounding USB powered speakers...</B>
       </TD>
       <TD WIDTH=22%>
          <A HREF="pix/Bits & Pieces.jpg">
@@ -56,23 +55,20 @@ To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Bl
       </TD>
    </TR>
    <TR ALIGN="center">
-      <TD WIDTH=56%>
+      <TD WIDTH=56%></TD>
+      <TD WIDTH=22%>
+         <FONT SIZE=4 COLOR="Black"><B>All the Bits & Pieces!</B>
       </TD>
       <TD WIDTH=22%>
-           <FONT SIZE=4 COLOR="Black"><B>All the Bits & Pieces!</B>
-      </TD>
-      <TD WIDTH=22%>
-           <FONT SIZE=4 COLOR="Black"><B>debugging...</B>
+         <FONT SIZE=4 COLOR="Black"><B>debugging...</B>
       </TD>
    </TR>
-
 </TABLE>
 
 <HR>
 
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
    <TR ALIGN="center">
-      
       <TD WIDTH=22%>
          <A HREF="pix/LCD1.jpg">
          <IMG SRC="pix/LCD1_small.jpg" ALT="LCD1" WIDTH=200 HEIGHT=150 BORDER=1></A>
@@ -110,58 +106,47 @@ To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Bl
          <A HREF="pix/Avermedia RM-KS.jpg">
          <IMG SRC="pix/Avermedia RM-KS (small).jpg" ALT="Avermedia RM-KS" WIDTH=150 HEIGHT=150 BORDER=1></A>
       </TD>
-    </TR>
+   </TR>
 </TABLE>
 
-<TABLE BORDER=0 CELLSPACING=10 CELLPADDING=10>
+<TABLE BORDER=0 CELLSPACING=5 CELLPADDING=5>
    <TR ALIGN="left">
-      <TD WIDTH=45%>
+      <TD WIDTH=40%>
          <FONT SIZE=4 COLOR="Blue">Then install & configure in your Raspberry Pi:<BR><BR>
-<A HREF="https://github.com/f4exb/ngsoftfm">
-<FONT COLOR="Blue">NGSoftFM - https://github.com/f4exb/ngsoftfm</A>
-<BR>
-<A HREF="https://github.com/JvanKatwijk/dab-cmdline">
-<FONT COLOR="Blue">dab-cmdline - https://github.com/JvanKatwijk/dab-cmdline</A>
-<BR><BR>
-VLC (sudo apt-get install vlc)
-<BR>
-MPC / MPD (sudo apt-get install mpc mpd)
-<BR>
-APACHE (sudo apt-get install apache2)
-<BR>
-ALSA equalizer (sudo apt-get install libasound2-plugin-equal)
-<BR><BR>
+         <A HREF="https://github.com/f4exb/ngsoftfm">
+         <FONT COLOR="Blue">NGSoftFM - https://github.com/f4exb/ngsoftfm</A><BR>
+         <A HREF="https://github.com/JvanKatwijk/dab-cmdline">
+         <FONT COLOR="Blue">dab-cmdline - https://github.com/JvanKatwijk/dab-cmdline</A>
+         <BR><BR>VLC (sudo apt-get install vlc)
+         <BR>MPC / MPD (sudo apt-get install mpc mpd)
+         <BR>APACHE (sudo apt-get install apache2)
+         <BR>ALSA equalizer (sudo apt-get install libasound2-plugin-equal)
       </TD>
-      <TD WIDTH=10%>
+      <TD WIDTH=15%></TD>
+      <TD WIDTH=40%>
+         <FONT SIZE=4 COLOR="Red">Finally, make the <FONT COLOR="Fuchsia"><B>radio.sh</B>
+         <FONT COLOR="Red"> script automatically run at boot time:
+         <BR><BR>nano .bashrc (then add those 4 lines at the end)<BR>
+         <PRE>
+         ### RADIO ###
+         if [ $(tty) == /dev/tty1 ]; then
+           /home/pi/radio.sh &
+         fi
+         </PRE>
       </TD>
-      <TD WIDTH=45%>
-<FONT SIZE=4 COLOR="Red">Finally, make the <FONT COLOR="Fuchsia"><B>radio.sh</B><FONT COLOR="Red"> script automatically run at boot time:
-<BR><BR>
-nano .bashrc (then add those 4 lines at the end)
-<BR>
-<PRE>
-### RADIO ###
-if [ $(tty) == /dev/tty1 ]; then
-  /home/pi/radio.sh &
-fi
-</PRE>
-
-      </TD>
-    </TR>
+   </TR>
 </TABLE>
 
 <HR>
 
 <TABLE BORDER=0 CELLSPACING=10 CELLPADDING=10>
    <TR ALIGN="center">
-      <TD WIDTH=33%>
-      </TD>
+      <TD WIDTH=33%></TD>
       <TD WIDTH=33%>
          <A HREF="pix/top.jpg">
          <IMG SRC="pix/top_small.jpg" ALT="top" WIDTH=200 HEIGHT=150 BORDER=1></A>
       </TD>
-      <TD WIDTH=33%>
-      </TD>
+      <TD WIDTH=33%></TD>
    </TR>
    <TR ALIGN="center">
       <TD WIDTH=33%>
@@ -178,35 +163,33 @@ fi
       </TD>
    </TR>
    <TR ALIGN="center">
-      <TD WIDTH=33%>
-      </TD>
+      <TD WIDTH=33%></TD>
       <TD WIDTH=33%>
          <A HREF="pix/back.jpg">
          <IMG SRC="pix/back_small.jpg" ALT="back" WIDTH=200 HEIGHT=150 BORDER=1></A>
       </TD>
-      <TD WIDTH=33%>
-      </TD>
+      <TD WIDTH=33%></TD>
    </TR>
 </TABLE>
 
 <HR>
 
 <TABLE BORDER=0 CELLSPACING=5 CELLPADDING=5>
-<TR ALIGN="center">
+   <TR ALIGN="center">
       <TD WIDTH=40%>
-<video width="400" controls>
-  <source src="video/ArduiPi Radio! Quick Overview - The Box.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+         <video width="400" controls>
+            <source src="video/ArduiPi Radio! Quick Overview - The Box.mp4" type="video/mp4">
+            Your browser does not support HTML video.
+         </video>
       </TD>
       <TD WIDTH=40%>
-<video width="400" controls>
-  <source src="video/ArduiPi Radio! Quick Overview - The Features.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+         <video width="400" controls>
+            <source src="video/ArduiPi Radio! Quick Overview - The Features.mp4" type="video/mp4">
+            Your browser does not support HTML video.
+         </video>
       </TD>
    </TR>
-<TR ALIGN="center">
+   <TR ALIGN="center">
       <TD WIDTH=40%>
          <FONT SIZE=4 COLOR="Black"><B>ArduiPi Radio! Quick Overview - The Box</B>
       </TD>
@@ -216,19 +199,19 @@ fi
    </TR>
    <TR ALIGN="center">
       <TD WIDTH=40%>
-<video width="400" controls>
-  <source src="video/Bits%20&%20Pieces%20Test%20%231.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+         <video width="400" controls>
+            <source src="video/Bits%20&%20Pieces%20Test%20%231.mp4" type="video/mp4">
+            Your browser does not support HTML video.
+         </video>
       </TD>
       <TD WIDTH=40%>
-<video width="400" controls>
-  <source src="video/smooth scrolling!.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+         <video width="400" controls>
+            <source src="video/smooth scrolling!.mp4" type="video/mp4">
+            Your browser does not support HTML video.
+         </video>
       </TD>
    </TR>
-<TR ALIGN="center">
+   <TR ALIGN="center">
       <TD WIDTH=40%>
          <FONT SIZE=4 COLOR="Black"><B>Bits & Pieces Test #1</B>
       </TD>
@@ -241,7 +224,7 @@ fi
 <HR>
 
 <TABLE BORDER=0 CELLSPACING=10 CELLPADDING=10>
-<TR ALIGN="center">
+   <TR ALIGN="center">
       <TD WIDTH=33%>
          <A HREF="pix/Internet Radio Interface.jpg">
          <IMG SRC="pix/Internet Radio Interface (small).jpg" ALT="Internet Radio Interface" WIDTH=200 HEIGHT=110 BORDER=1></A>
@@ -256,20 +239,16 @@ fi
       </TD>
    </TR>
 </TABLE>
+
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
    <TR ALIGN="center">
-<TD WIDTH=5%>
-</TD>
-      		<TD WIDTH=90%>
-         <FONT SIZE=4 COLOR="Black"><B>Last but no least, I made a web interface to fully control the radio from a smartphone, tablet or PC.<BR>You will need to configure a web
-server + cgi-bin on your Rasbperry Pi to enable this feature (I'm using APACHE).<BR><BR>
-With the web interface, you can easily update the 40 internet radio links and watch over your Raspberry Pi's health :-) so definitely nice to have.<BR><BR>
-Enjoy, have fun and please e-mail me some feedback!
-<A HREF="mailto:jjintokyo@hotmail.com"><IMG SRC="pix/E-MAIL.gif" ALT="E-MAIL" BORDER=0 ALIGN="right"></A>
-</B>
+      <TD WIDTH=5%></TD>
+      <TD WIDTH=90%>
+         <FONT SIZE=4 COLOR="Black"><B>Last but no least, I made a web interface to fully control the radio from a smartphone, tablet or PC.<BR>You will need to configure a web server + cgi-bin on your Rasbperry Pi to enable this feature (I'm using APACHE).<BR><BR>With the web interface, you can easily update the 40 internet radio links and watch over your Raspberry Pi's health :-) so definitely nice to have.<BR><BR>Enjoy, have fun and please e-mail me some feedback!</B>
+         <A HREF="mailto:jjintokyo@hotmail.com">
+         <IMG SRC="pix/E-MAIL.gif" ALT="E-MAIL" BORDER=0 ALIGN="right"></A>
       </TD>
-<TD WIDTH=5%>
-</TD>
+      <TD WIDTH=5%></TD>
    </TR>
 </TABLE>
 </DIV>
