@@ -5,7 +5,7 @@
 | FM / DAB+ / INTERNET (40 Presets + Random Mode) and MP3 Player... |
 | Powered by an Arduino Nano and a Raspberry Pi 3 Model B+          |
 |                                                                   |
-| JJR / APRIL 2020                     https://github.com/jjintokyo |
+| JJR / APRIL 2020                     https://jjintokyo.github.io/ |
 |___________________________________________________________________|
 
 -->
@@ -13,7 +13,7 @@
 <HEAD>
 <TITLE>JJ's ArduiPi Radio!</TITLE>
 <META name="description" content="JJ's ArduiPi Radio!">
-<META name="keywords" content="JJ, ArduiPi, Radio, Arduino, Raspberry Pi">
+<META name="keywords" content="JJ, ArduiPi, Radio, Arduino, Raspberry Pi, RTL-SDR">
 </HEAD>
 <BODY BGCOLOR="Lavender" TEXT="Black">
 <DIV ALIGN="center">
@@ -43,7 +43,7 @@
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
    <TR ALIGN="center">
       <TD WIDTH=56%>
-         <FONT SIZE=4 COLOR="Black"><B>Make your very own <FONT COLOR="Green">Ardui<FONT COLOR="Fuchsia">Pi <FONT COLOR="Red">Radio<FONT COLOR="Black">, it's fun and you'll be pleased with the result!<BR>The radio has 40 internet radio presets and a random mode (random everything or by genre) that allows you to find and listen to new stations.<BR><BR>
+         <FONT SIZE=4 COLOR="Black"><B>Make your very own <FONT COLOR="Green">Ardui<FONT COLOR="Fuchsia">Pi <FONT COLOR="Red">Radio<FONT COLOR="Black">, it's fun and you'll be pleased with the result!<BR><BR>This amazing little box has 40 internet radio presets and a random mode (random everything or by genre) that allows you to find and listen to new stations.<BR><BR>
 To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Black">Nano or equivalent (+ breadboard, leds, wires, IR receiver and a 4x20 I2C LCD), a <FONT COLOR="Fuchsia">Raspberry Pi <FONT COLOR="Black">3 Model B+ (regular Pi 3 is fine too), an <FONT COLOR="Red">RTL-SDR <FONT COLOR="Black">dongle for FM / DAB modes, a USB memory key to store your MP3 files, and some good sounding USB powered speakers...</B>
       </TD>
       <TD WIDTH=22%>
@@ -94,7 +94,7 @@ To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Bl
 <TABLE BORDER=0 CELLSPACING=10 CELLPADDING=10>
    <TR ALIGN="center">
       <TD>
-         <FONT SIZE=4 COLOR="Black"><B>Basically the Arduino (program radio.ino) handles the remote, the leds and the LCD then sends commands through serial communication to the Raspberry Pi (program radio.sh). The Pi then execute the command. If asked for, the Pi will return some data to the Arduino, like title being played and URL being played.<BR><BR>An application on the Pi, <A HREF="https://github.com/f4exb/ngsoftfm">NGSoftFM</A>, handles the FM mode thanks to the RTL-SDR dongle. And another application, <A HREF="https://github.com/JvanKatwijk/dab-cmdline">dab-cmdline</A>, handles the DAB+ mode, again with the RTL-SDR dongle. For the internet radio mode, including the random mode and of course playing the MP3s, I am using VLC. It plays pretty much everything you throw at it!<BR><BR>In the web interface, the 40 presets buttons are handled by MPC / MPD, instead of VLC. This is great because it uses very little CPU resources, so your Raspberry Pi stays cool. Unfortunately it doesn't play all the links so this would not be appropriate for random play mode.</B>
+         <FONT SIZE=4 COLOR="Black"><B>Basically the Arduino (program <FONT COLOR="Green">radio.ino<FONT COLOR="Black">) handles the remote, the leds and the LCD screen then sends commands through serial communication to the Raspberry Pi (program <FONT COLOR="Fuchsia">radio.sh<FONT COLOR="Black">). The Pi then executes the command. If requested, the Pi will return some data to the Arduino, like title being played and URL being played.<BR><BR>An application on the Pi, <A HREF="https://github.com/f4exb/ngsoftfm">NGSoftFM</A>, handles the FM mode thanks to the <FONT COLOR="Red">RTL-SDR<FONT COLOR="Black"> dongle. And another application, <A HREF="https://github.com/JvanKatwijk/dab-cmdline">dab-cmdline</A>, handles the DAB mode, again with the <FONT COLOR="Red">RTL-SDR<FONT COLOR="Black"> dongle. For the internet radio mode, including the random mode and of course playing MP3s, I am using VLC. It's a robust / mature software that plays pretty much everything you throw at it!<BR><BR>In the web interface, the 40 presets buttons are handled by MPC / MPD, instead of VLC. This is great because it uses very little CPU resources, so your Raspberry Pi stays cool. Unfortunately it doesn't play all the links so this would not be appropriate for random play mode.</B>
       </TD>
    </TR>
 </TABLE>
@@ -104,7 +104,7 @@ To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Bl
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
    <TR ALIGN="center">
       <TD WIDTH=78%>
-         <FONT SIZE=4 COLOR="Black"><B>You will have to update in radio.ino sketch, the codes to match your own remote. The Arduino IDE has a built-in example to help you displaying remote control codes.</B>
+         <FONT SIZE=4 COLOR="Black"><B>You will have to update in <FONT COLOR="Green">radio.ino<FONT COLOR="Black"> sketch, the codes to match your own remote. The Arduino IDE has a built-in example to help you displaying your remote control codes.</B>
       </TD>
       <TD WIDTH=22%>
          <A HREF="pix/Avermedia RM-KS.jpg">
@@ -113,10 +113,10 @@ To build this radio you will need an <FONT COLOR="Green">Arduino <FONT COLOR="Bl
     </TR>
 </TABLE>
 
-<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TABLE BORDER=0 CELLSPACING=10 CELLPADDING=10>
    <TR ALIGN="left">
-      <TD>
-         <FONT SIZE=4 COLOR="Blue"><B>Then install & configure in your Raspberry Pi:<BR><BR>
+      <TD WIDTH=45%>
+         <FONT SIZE=4 COLOR="Blue">Then install & configure in your Raspberry Pi:<BR><BR>
 <A HREF="https://github.com/f4exb/ngsoftfm">
 <FONT COLOR="Blue">NGSoftFM - https://github.com/f4exb/ngsoftfm</A>
 <BR>
@@ -130,9 +130,12 @@ MPC / MPD (sudo apt-get install mpc mpd)
 APACHE (sudo apt-get install apache2)
 <BR>
 ALSA equalizer (sudo apt-get install libasound2-plugin-equal)
-<BR><BR></B>
-
-<FONT SIZE=4 COLOR="Red"><B>Last but not least, make the radio.sh script automatically run at boot time:
+<BR><BR>
+      </TD>
+      <TD WIDTH=10%>
+      </TD>
+      <TD WIDTH=45%>
+<FONT SIZE=4 COLOR="Red">Finally, make the <FONT COLOR="Fuchsia"><B>radio.sh</B><FONT COLOR="Red"> script automatically run at boot time:
 <BR><BR>
 nano .bashrc (then add those 4 lines at the end)
 <BR>
@@ -142,11 +145,10 @@ if [ $(tty) == /dev/tty1 ]; then
   /home/pi/radio.sh &
 fi
 </PRE>
-</B>
+
       </TD>
     </TR>
 </TABLE>
-
 
 <HR>
 
@@ -260,8 +262,8 @@ fi
 </TD>
       		<TD WIDTH=90%>
          <FONT SIZE=4 COLOR="Black"><B>Last but no least, I made a web interface to fully control the radio from a smartphone, tablet or PC.<BR>You will need to configure a web
-server + cgi-bin on your Rasbperry Pi (I used Apache) to enable this feature.<BR>
-Also the web interface allows you to easily update the 40 Internet Radio links and<BR>watch over your Raspberry Pi's health :-)<BR><BR>
+server + cgi-bin on your Rasbperry Pi to enable this feature (I'm using APACHE).<BR><BR>
+With the web interface, you can easily update the 40 internet radio links and watch over your Raspberry Pi's health :-) so definitely nice to have.<BR><BR>
 Enjoy, have fun and please e-mail me some feedback!
 <A HREF="mailto:jjintokyo@hotmail.com"><IMG SRC="pix/E-MAIL.gif" ALT="E-MAIL" BORDER=0 ALIGN="right"></A>
 </B>
