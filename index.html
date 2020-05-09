@@ -122,17 +122,16 @@
          <BR>APACHE (sudo apt-get install apache2)
          <BR>ALSA equalizer (sudo apt-get install libasound2-plugin-equal)
       </TD>
-      <TD WIDTH=15%></TD>
       <TD WIDTH=40%>
          <FONT SIZE=4 COLOR="Red">Finally, make the <FONT COLOR="Fuchsia"><B>radio.sh</B>
          <FONT COLOR="Red"> script automatically run at boot time:
          <BR><BR>nano .bashrc (then add those 4 lines at the end)<BR>
-         <PRE>
-         ### RADIO ###
-         if [ $(tty) == /dev/tty1 ]; then
-           /home/pi/radio.sh &
-         fi
-         </PRE>
+<PRE>
+### RADIO ###
+if [ $(tty) == /dev/tty1 ]; then
+  /home/pi/radio.sh &
+fi
+</PRE>
       </TD>
    </TR>
 </TABLE>
