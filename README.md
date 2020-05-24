@@ -11,8 +11,8 @@
       <TD>
 <FONT SIZE=4 COLOR="Black"><B>Explanations, pictures & videos:<BR>
 <A HREF="https://jjintokyo.github.io"><FONT SIZE=7 COLOR="Blue">
-<H1>https://jjintokyo.github.io</H1></A><BR><BR>
-<FONT SIZE=7 COLOR="Red">:-)</B>
+<H1>https://jjintokyo.github.io</A><BR><BR>
+<FONT SIZE=7 COLOR="Red">:-)</H1></B>
 </TD>
    </TR>
 </TABLE>
