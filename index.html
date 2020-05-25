@@ -90,40 +90,32 @@
 <TABLE BORDER=0 CELLSPACING=10 CELLPADDING=10>
    <TR ALIGN="left">
       <TD>
-         <FONT SIZE=4 COLOR="Black"><B>Basically the Arduino (program <FONT SIZE=5 COLOR="Green">radio.ino<FONT SIZE=4 COLOR="Black">) handles the remote, the leds and the LCD screen then sends commands through serial communication to the Raspberry Pi (program <FONT SIZE=5 COLOR="Fuchsia">radio.sh<FONT SIZE=4 COLOR="Black">). The Pi then executes the commands. Then if requested, the Pi will return some data to the Arduino, like title being played and URL being played.<BR><BR>An application on the Pi, <A HREF="https://github.com/f4exb/ngsoftfm">NGSoftFM</A>, handles the FM mode thanks to the <FONT SIZE=5 COLOR="Red">RTL-SDR<FONT SIZE=4 COLOR="Black"> dongle. And another application, <A HREF="https://github.com/JvanKatwijk/dab-cmdline">dab-cmdline</A>, handles the DAB mode, again with the <FONT SIZE=5 COLOR="Red">RTL-SDR<FONT SIZE=4 COLOR="Black"> dongle. For the internet radio mode, including the random mode and of course playing MP3s, I am using VLC. It's a robust / mature software that plays pretty much everything you throw at it!<BR><BR>In the web interface, the 40 presets buttons are handled by MPC / MPD, instead of VLC. This is great because it uses very little CPU resources, so your Raspberry Pi stays cool. Unfortunately it doesn't play all the links so this would not be appropriate at all for random play mode.</B>
+         <FONT SIZE=4 COLOR="Black"><B>Basically the Arduino (program <FONT SIZE=5 COLOR="Green">radio.ino<FONT SIZE=4 COLOR="Black">) handles the remote, the leds and the LCD screen then sends commands through serial communication to the Raspberry Pi (program <FONT SIZE=5 COLOR="Fuchsia">radio.sh<FONT SIZE=4 COLOR="Black">). The Pi then executes the commands. Then if requested, the Pi will return some data to the Arduino, like title being played and URL being played.<BR><BR>An application on the Pi, <A HREF="https://github.com/f4exb/ngsoftfm">NGSoftFM</A>, handles the FM mode thanks to the <FONT SIZE=5 COLOR="Red">RTL-SDR<FONT SIZE=4 COLOR="Black"> dongle. And another application, <A HREF="https://github.com/JvanKatwijk/dab-cmdline">dab-cmdline</A>, handles the DAB mode, again with the <FONT SIZE=5 COLOR="Red">RTL-SDR<FONT SIZE=4 COLOR="Black"> dongle. For the internet radio mode, including the random mode and of course playing MP3s, I am using VLC.
+         It's a robust / mature software that plays pretty much anything you throw at it!<BR><BR>In the web interface, the 40 presets buttons are handled by MPC / MPD, instead of VLC. This is great because it uses very little CPU resources, so your Raspberry Pi stays cool. Unfortunately it doesn't play all the links so this would not be appropriate at all for random play mode.</B>
       </TD>
    </TR>
 </TABLE>
 
 <HR>
-
 
 <TABLE BORDER=0 CELLSPACING=10 CELLPADDING=10>
    <TR ALIGN="center">
       <TD>
-<FONT SIZE=4 COLOR="Black"><B>Couple of other important files:&nbsp;&nbsp;&nbsp;<IMG SRC="pix/warn.gif" ALT="warn" BORDER=0></B>
+         <FONT SIZE=4 COLOR="Black"><B>Couple of other important files:&nbsp;&nbsp;&nbsp;
+         <IMG SRC="pix/warn.gif" ALT="warn" BORDER=0></B>
       </TD>
    </TR>
-
    <TR ALIGN="left">
       <TD>
-         <B>
-<FONT SIZE=5 COLOR="Maroon">playlist.db<FONT SIZE=4 COLOR="Black"> is the file that contains the 40 internet presets. It's a text file so you can edit it directly on your Raspberry Pi. One URL per line! Use SSH to login to your pi, or better use the web interface to update the links very easily (see bottom of this page for a screenshot).<BR><BR>
-
-<FONT SIZE=5 COLOR="Purple">special.db<FONT SIZE=4 COLOR="Black"> is another text file with just ONE internet radio link. A special / seasonal / favorite radio that can be activated with the push of just one key on the remote, regardless of the mode you're in.<BR><BR>
-
-<FONT SIZE=5 COLOR="Olive">presets<FONT SIZE=4 COLOR="Black"> is a bash script to handle the ALSA equalizer. You should edit it and enter you own values to match your speakers / preferences and enhance the sound.<BR><BR>
-
-<FONT SIZE=5 COLOR="Royalblue">init.sh<FONT SIZE=4 COLOR="Black"> is another bash script, launched once and automatically, every time you power the radio on. It will download the icecast data from the internet and populate a small SQL database on the Pi for the random internet radio mode to function. The script runs in the background at boot time and will take anywhere between 2 to 10 minutes to complete, depending on the speed of your micro SD card.
-</B>
+         <FONT SIZE=5 COLOR="Maroon"><B>playlist.db<FONT SIZE=4 COLOR="Black"> is the file that contains the 40 internet presets. It's a text file so you can edit it directly on your Raspberry Pi. One URL per line! Use SSH to login to your pi, or better use the web interface to update the links very easily (see bottom of this page for a screenshot).<BR><BR>
+         <FONT SIZE=5 COLOR="Purple">special.db<FONT SIZE=4 COLOR="Black"> is another text file with just ONE internet radio link. A special / seasonal / favorite radio that can be activated with the push of just one key on the remote, regardless of the mode you're in.<BR><BR>
+         <FONT SIZE=5 COLOR="Olive">presets<FONT SIZE=4 COLOR="Black"> is a bash script to handle the ALSA equalizer. You should edit it and enter you own values to match your speakers / preferences and enhance the sound.<BR><BR>
+         <FONT SIZE=5 COLOR="Royalblue">init.sh<FONT SIZE=4 COLOR="Black"> is another bash script and takes care of the random internet radio. It is launched once and automatically, every time you power the radio on. It will download the icecast data from the internet (yp.xml) and populate a small SQL database on the Pi (channels.db) for the random internet radio mode to function. The script runs in the background at boot time and will take anywhere between 2 to 12 minutes to complete, depending on the speed of your micro SD card.</B>
       </TD>
    </TR>
 </TABLE>
 
-
 <HR>
-
-
 
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
    <TR ALIGN="center">
@@ -254,15 +246,15 @@ fi
    <TR ALIGN="center">
       <TD WIDTH=33%>
          <A HREF="pix/Internet Radio Interface.jpg">
-         <IMG SRC="pix/Internet Radio Interface (small).jpg" ALT="Internet Radio Interface" WIDTH=200 HEIGHT=110 BORDER=1></A>
+         <IMG SRC="pix/Internet Radio Interface (small).jpg" ALT="Internet Radio Interface" WIDTH=200 HEIGHT=110 BORDER=2></A>
       </TD>
       <TD WIDTH=33%>
          <A HREF="pix/Update URLs.jpg">
-         <IMG SRC="pix/Update URLs (small).jpg" ALT="Update URLs" WIDTH=200 HEIGHT=110 BORDER=1></A>
+         <IMG SRC="pix/Update URLs (small).jpg" ALT="Update URLs" WIDTH=200 HEIGHT=110 BORDER=2></A>
       </TD>
       <TD WIDTH=33%>
          <A HREF="pix/Raspberry Pi.jpg">
-         <IMG SRC="pix/Raspberry Pi (small).jpg" ALT="Raspberry Pi" WIDTH=200 HEIGHT=110 BORDER=1></A>
+         <IMG SRC="pix/Raspberry Pi (small).jpg" ALT="Raspberry Pi" WIDTH=200 HEIGHT=110 BORDER=2></A>
       </TD>
    </TR>
 </TABLE>
@@ -271,8 +263,7 @@ fi
    <TR ALIGN="center">
       <TD WIDTH=5%></TD>
       <TD WIDTH=90%>
-         <FONT SIZE=4 COLOR="Black"><B>Last but no least, I made a web interface to fully control the radio from a smartphone, tablet or PC.<BR>You will need to configure a 
-<FONT SIZE=5 COLOR="Orange">web server + cgi-bin<FONT SIZE=4 COLOR="Black"> on your Rasbperry Pi to enable this feature.<BR>I'm using APACHE, so search the web for plenty of good tutorials!<BR><BR>Also with the web interface, you can easily update the 40 + 1 internet radio links and watch over your Raspberry Pi's health :-) so definitely nice to have.</B><BR><BR>
+         <FONT SIZE=4 COLOR="Black"><B>Last but no least, I made a web interface to fully control the radio from a smartphone, tablet or PC.<BR>You will need to configure a <FONT SIZE=5 COLOR="Orange">web server + cgi-bin<FONT SIZE=4 COLOR="Black"> on your Raspberry Pi to enable this feature.<BR>I'm using APACHE, so search the web for plenty of good tutorials!<BR><BR>Also with the web interface, you can easily update the 40 + 1 internet radio links and watch over your Raspberry Pi's health :-) so definitely nice to have.</B><BR><BR>
          <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits" ALIGN="left">
          <B>Enjoy, have fun and please e-mail me some feedback!</B>
          <A HREF="mailto:jjintokyo@hotmail.com">
