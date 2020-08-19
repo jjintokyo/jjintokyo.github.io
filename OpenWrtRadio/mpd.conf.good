@@ -1,0 +1,19 @@
+# An example configuration file for MPD.
+# Read the user manual for documentation: http://www.musicpd.org/doc/user/
+# Run interactively: mpd --stdout --no-daemon --verbose
+
+playlist_directory		"/tmp/ubi1/.mpd/playlists"
+log_file			"/tmp/ubi1/.mpd/log"
+log_level			"verbose"
+
+audio_output {
+		type		"alsa"
+		name		"USB Soundcard"
+		device		"hw:0,0"
+		format		"44100:16:2"
+		mixer_type	"hardware"
+		mixer_control	"Speaker"
+}
+
+### volume_normalization	"yes"
+filesystem_charset		"UTF-8"

@@ -1,0 +1,19 @@
+# Put your custom commands here that should be executed once
+# the system init finished. By default this file does nothing.
+
+/bin/sleep 20
+
+export PATH=$PATH:/tmp/ubi1/packages/usr/bin/
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/tmp/ubi1/packages/usr/lib/
+
+/etc/init.d/firewall disable
+/etc/init.d/pulseaudio disable
+/etc/init.d/triggerhappy disable
+/etc/init.d/mpd enable
+
+/usr/bin/amixer sset 'Speaker' 10%
+/tmp/ubi1/random/random_set.sh &
+/root/input.sh &
+/root/playlist.sh
+
+exit 0

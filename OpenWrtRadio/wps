@@ -1,0 +1,9 @@
+#!/bin/sh
+
+### /etc/rc.button/
+
+if [ "$ACTION" = "pressed" -a "$BUTTON" = "wps" ]; then
+  /usr/bin/mpc next
+fi
+
+return 0

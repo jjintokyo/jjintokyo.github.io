@@ -1,0 +1,9 @@
+#!/bin/sh
+
+### /etc/rc.button/
+
+if [ "$ACTION" = "pressed" -a "$BUTTON" = "rfkill" ]; then
+  /usr/bin/mpc prev
+fi
+
+return 0
