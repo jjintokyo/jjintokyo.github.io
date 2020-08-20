@@ -8,7 +8,9 @@
          <A HREF="https://jjintokyo.github.io">
          <IMG SRC="pix/ArduiPi Radio! [ CLEAR ].jpg"
          ALT="ArduiPi Radio! [ CLEAR ]" WIDTH=200 HEIGHT=150 BORDER=0></A>
-         <A HREF="https://jjintokyo.github.io">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+     <A HREF="https://jjintokyo.github.io">
          <IMG SRC="pix/ArduiPi Radio! [ LEGO ].jpg"
          ALT="ArduiPi Radio! [ LEGO ]" WIDTH=200 HEIGHT=150 BORDER=0></A>
       </TD>
