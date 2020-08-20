@@ -1,3 +1,4 @@
+
 # ArduiPi Radio!
 ## FM / DAB+ / INTERNET (40 Presets + Random Mode) and MP3 Player...
 <I>Powered by an Arduino Nano and a Raspberry Pi 3 Model B+</I>
@@ -7,9 +8,6 @@
          <A HREF="https://jjintokyo.github.io">
          <IMG SRC="pix/ArduiPi Radio! [ CLEAR ].jpg"
          ALT="ArduiPi Radio! [ CLEAR ]" WIDTH=200 HEIGHT=150 BORDER=0></A>
-      </TD>
-
-	<TD>
          <A HREF="https://jjintokyo.github.io">
          <IMG SRC="pix/ArduiPi Radio! [ LEGO ].jpg"
          ALT="ArduiPi Radio! [ LEGO ]" WIDTH=200 HEIGHT=150 BORDER=0></A>
