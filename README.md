@@ -4,10 +4,18 @@
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
    <TR ALIGN="center">
       <TD>
-         <A HREF="pix/ArduiPi Radio!.jpg">
-         <IMG SRC="pix/ArduiPi Radio! (small).jpg"
-         ALT="ArduiPi Radio!" WIDTH=320 HEIGHT=240 BORDER=0></A>
+         <A HREF="https://jjintokyo.github.io">
+         <IMG SRC="pix/ArduiPi Radio! [ CLEAR ].jpg"
+         ALT="ArduiPi Radio! [ CLEAR ]" WIDTH=200 HEIGHT=150 BORDER=0></A>
       </TD>
+
+	<TD>
+         <A HREF="https://jjintokyo.github.io">
+         <IMG SRC="pix/ArduiPi Radio! [ LEGO ].jpg"
+         ALT="ArduiPi Radio! [ LEGO ]" WIDTH=200 HEIGHT=150 BORDER=0></A>
+      </TD>
+  </TR>
+ <TR ALIGN="center">
       <TD>
          <FONT SIZE=4><B>Explanations, pictures & videos:<BR>
          <A HREF="https://jjintokyo.github.io"><FONT SIZE=7 COLOR="Blue">
