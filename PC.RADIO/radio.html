@@ -1,0 +1,431 @@
+<html>
+<head><title>PC.RADIO &mdash; Internet Radio</title></head>
+
+<script>
+    var auto_random_var = false;
+    var duration = 0;
+    var timeleft = 0;
+    var do_random_var;
+    var do_count_down_var;
+    var random_number;
+
+    function auto_random() {
+        if (auto_random_var == false) {
+            auto_random_var = true;
+            duration = document.getElementById("myDuration").value;
+            timeleft = duration;
+            document.getElementById("count_down_timer").textContent = timeleft;
+            document.getElementById("count_down_timer").style.visibility="visible";
+            switch_auto_random_gif();
+            document.getElementById("do_random").click();
+            count_down();
+            do_random_var = setInterval(function(){ document.getElementById("do_random").click(); count_down(); }, duration * 1000 + 1000);
+        }
+        else {
+            auto_random_var = false;
+            clearInterval(do_random_var);
+            clearInterval(do_count_down_var);
+            document.getElementById("count_down_timer").style.visibility="hidden";
+            document.getElementById("auto_random_gif").style.visibility="hidden";
+        }
+    }
+
+    function count_down() {
+        clearInterval(do_count_down_var);
+        timeleft = duration;
+        document.getElementById("count_down_timer").textContent = timeleft;
+        do_count_down_var = setInterval(function(){ timeleft--; document.getElementById("count_down_timer").textContent = timeleft; if (timeleft <= 0) clearInterval(do_count_down_var); }, 1000);
+    }
+
+    function switch_auto_random_gif() {
+        var previous_number = random_number;
+        while (previous_number == random_number) { random_number = Math.floor(Math.random() * 16) + 1; }
+        if (random_number == 1)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_01.gif";
+        if (random_number == 2)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_02.gif";
+        if (random_number == 3)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_03.gif";
+        if (random_number == 4)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_04.gif";
+        if (random_number == 5)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_05.gif";
+        if (random_number == 6)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_06.gif";
+        if (random_number == 7)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_07.gif";
+        if (random_number == 8)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_08.gif";
+        if (random_number == 9)  document.getElementById("auto_random_gif").src = "auto_random/auto_random_09.gif";
+        if (random_number == 10) document.getElementById("auto_random_gif").src = "auto_random/auto_random_10.gif";
+        if (random_number == 11) document.getElementById("auto_random_gif").src = "auto_random/auto_random_11.gif";
+        if (random_number == 12) document.getElementById("auto_random_gif").src = "auto_random/auto_random_12.gif";
+        if (random_number == 13) document.getElementById("auto_random_gif").src = "auto_random/auto_random_13.gif";
+        if (random_number == 14) document.getElementById("auto_random_gif").src = "auto_random/auto_random_14.gif";
+        if (random_number == 15) document.getElementById("auto_random_gif").src = "auto_random/auto_random_15.gif";
+        if (random_number == 16) document.getElementById("auto_random_gif").src = "auto_random/auto_random_16.gif";
+        document.getElementById("auto_random_gif").style.visibility="visible";
+    }
+
+    function power_down_system() {
+        var reply = confirm("Power Down System...   Really?");
+        return reply;
+    }
+</script>
+
+<body bgcolor="Beige" text="Black">
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align:bottom">
+        <td width=10% align="left">
+            <img src="PC.RADIO2.png" alt="PC.RADIO2">
+        </td>
+        <td width=10% align="center">
+            <h1><span name="count_down_timer" id="count_down_timer" style="visibility:hidden;">0</span></h1>
+        </td>
+        <td width=5% align="center" style="vertical-align:middle">
+            <img src="star.gif" alt="star">
+        </td>
+        <td width=30% align="center">
+            <h1>PC.RADIO &mdash; Internet Radio</h1>
+        </td>
+        <td width=5% align="center" style="vertical-align:middle">
+            <img src="star.gif" alt="star">
+        </td>
+        <td width=10% align="center" style="vertical-align:middle">
+            <img src="" name="auto_random_gif" id="auto_random_gif" width="64" height="64" style="visibility:hidden;">
+        </td>
+        <td width=10% align="right">
+            <img src="PC.RADIO1.png" alt="PC.RADIO1">
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<hr>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align:top">
+        <td width=70 align="center">
+            <form action="cgi-bin/play.py" method="POST" target=status>
+                <input type="submit" value="Play" style="background-color:LightGreen;">
+            </form>
+        </td>
+        <td width=70 align="center">
+            <form action="cgi-bin/next.py" method="POST" target=status>
+                <input type="submit" value="Next" style="background-color:Yellow;">
+            </form>
+        </td>
+        <td width=115 align="center">
+            <form action="cgi-bin/prev.py" method="POST" target=status>
+                <input type="submit" value="Previous" style="background-color:LightBlue;">
+            </form>
+        </td>
+        <td width=70 align="center">
+            <form action="cgi-bin/stop.py" method="POST" target=status>
+                <input type="submit" value="Stop" style="background-color:LightPink;">
+            </form>
+        </td>
+        <td width=120 align="center">
+            <form action="cgi-bin/volume_up.py" method="POST" target=status>
+                <input type="submit" value="Volume +" style="background-color:Gold;">
+            </form>
+        </td>
+        <td width=120 align="center">
+            <form action="cgi-bin/volume_down.py" method="POST" target=status>
+                <input type="submit" value="Volume -" style="background-color:AquaMarine;">
+            </form>
+        </td>
+        <td width=160 align="center">
+            <form action="cgi-bin/what.py" method="POST" target=status>
+                <input type="submit" value="What is playing?" style="background-color:Plum;">
+            </form>
+        </td>
+        <td width=180 align="center">
+            <form action="cgi-bin/stations.py" method="POST" target=status>
+                <input type="submit" value="Available Stations" style="background-color:Tan;">
+            </form>
+        </td>
+        <td width=190 align="center">
+            <form action="cgi-bin/shutdown.py" method="POST" target=status>
+                <input type="submit" onclick="return power_down_system()" value="Power Down System!" style="background-color:LightSalmon;">
+            </form>
+        </td>
+    </tr>
+</table>
+
+<hr>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align:top">
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=1" method="POST" target=status>
+                <input type="submit" value="01" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=2" method="POST" target=status>
+                <input type="submit" value="02" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=3" method="POST" target=status>
+                <input type="submit" value="03" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=4" method="POST" target=status>
+                <input type="submit" value="04" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=5" method="POST" target=status>
+                <input type="submit" value="05" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=6" method="POST" target=status>
+                <input type="submit" value="06" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=7" method="POST" target=status>
+                <input type="submit" value="07" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=8" method="POST" target=status>
+                <input type="submit" value="08" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=9" method="POST" target=status>
+                <input type="submit" value="09" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=10" method="POST" target=status>
+                <input type="submit" value="10" style="background-color:Bisque;">
+            </form>
+        </td>
+    </tr>
+    <tr style="vertical-align:top">
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=11" method="POST" target=status>
+                <input type="submit" value="11" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=12" method="POST" target=status>
+                <input type="submit" value="12" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=13" method="POST" target=status>
+                <input type="submit" value="13" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=14" method="POST" target=status>
+                <input type="submit" value="14" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=15" method="POST" target=status>
+                <input type="submit" value="15" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=16" method="POST" target=status>
+                <input type="submit" value="16" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=17" method="POST" target=status>
+                <input type="submit" value="17" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=18" method="POST" target=status>
+                <input type="submit" value="18" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=19" method="POST" target=status>
+                <input type="submit" value="19" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=20" method="POST" target=status>
+                <input type="submit" value="20" style="background-color:Bisque;">
+            </form>
+        </td>
+    </tr>
+    <tr style="vertical-align:top">
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=21" method="POST" target=status>
+                <input type="submit" value="21" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=22" method="POST" target=status>
+                <input type="submit" value="22" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=23" method="POST" target=status>
+                <input type="submit" value="23" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=24" method="POST" target=status>
+                <input type="submit" value="24" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=25" method="POST" target=status>
+                <input type="submit" value="25" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=26" method="POST" target=status>
+                <input type="submit" value="26" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=27" method="POST" target=status>
+                <input type="submit" value="27" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=28" method="POST" target=status>
+                <input type="submit" value="28" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=29" method="POST" target=status>
+                <input type="submit" value="29" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=30" method="POST" target=status>
+                <input type="submit" value="30" style="background-color:Bisque;">
+            </form>
+        </td>
+    </tr>
+    <tr style="vertical-align:top">
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=31" method="POST" target=status>
+                <input type="submit" value="31" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=32" method="POST" target=status>
+                <input type="submit" value="32" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=33" method="POST" target=status>
+                <input type="submit" value="33" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=34" method="POST" target=status>
+                <input type="submit" value="34" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=35" method="POST" target=status>
+                <input type="submit" value="35" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=36" method="POST" target=status>
+                <input type="submit" value="36" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=37" method="POST" target=status>
+                <input type="submit" value="37" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=38" method="POST" target=status>
+                <input type="submit" value="38" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=39" method="POST" target=status>
+                <input type="submit" value="39" style="background-color:Bisque;">
+            </form>
+        </td>
+        <td width=100 align="center">
+            <form action="cgi-bin/play.py?preset=40" method="POST" target=status>
+                <input type="submit" value="40" style="background-color:Bisque;">
+            </form>
+        </td>
+    </tr>
+</table>
+
+<hr>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align:top">
+        <td>
+            <form method="GET" action="cgi-bin/do_random.py" target="status">
+                <input type="submit" name="do_random" id="do_random" value="Random!" style="background-color:Lime;">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <select name="mySelection" id="mySelection" style="background-color:RosyBrown;">
+                    <option value="Everything" selected>Everything</option>
+                    <option value="Talk">Talk</option>
+                    <option value="Classical">Classical</option>
+                    <option value="Alternative">Alternative</option>
+                    <option value="Country">Country</option>
+                    <option value="Oldies">Oldies</option>
+                    <option value="50s">50s</option>
+                    <option value="60s">60s</option>
+                    <option value="70s">70s</option>
+                    <option value="80s">80s</option>
+                    <option value="90s">90s</option>
+                    <option value="Christmas">Christmas</option>
+                    <option value="Disco">Disco</option>
+                    <option value="Jazz">Jazz</option>
+                    <option value="Pop">Pop</option>
+                    <option value="Rock">Rock</option>
+                    <option value="News">News</option>
+                    <option value="Easy">Easy</option>
+                    <option value="Indie">Indie</option>
+                    <option value="Top40">Top40</option>
+                    <option value="Generaliste">Generaliste</option>
+                    <option value="Ambient">Ambient</option>
+                    <option value="Scanner">Scanner</option>
+                    <option value="Dummy">Dummy</option>
+                </select>
+            </form>
+        </td>
+        <td width="6%"></td>
+        <td>
+            <form action="cgi-bin/get_details.py" method="POST" target="status">
+                <input type="submit" value="Details?" style="background-color:PaleVioletRed;">
+            </form>
+        </td>
+        <td width="6%"></td>
+        <td>
+            <input type="submit" onclick="auto_random()" value="Auto-Random" style="background-color:DarkKhaki;">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <select name="myDuration" id="myDuration" style="background-color:YellowGreen;">
+                <option value="5">5 seconds</option>
+                <option value="10" selected>10 seconds</option>
+                <option value="20">20 seconds</option>
+                <option value="30">30 seconds</option>
+                <option value="60">60 seconds</option>
+                <option value="90">90 seconds</option>
+                <option value="120">120 seconds</option>
+                <option value="180">180 seconds</option>
+                <option value="240">240 seconds</option>
+                <option value="300">300 seconds</option>
+                <option value="600">600 seconds</option>
+            </select>
+        </td>
+    </tr>
+</table>
+
+<hr>
+
+</div>
+</body>
+</html>

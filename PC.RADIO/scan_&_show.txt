@@ -1,0 +1,2334 @@
+#1    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Static-Punk
+GENRE = rickman 70s rock 80s punk
+TITLE = The Meteors - Psycho For Your Love
+
+#2    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/4u-80s
+GENRE = 80s
+TITLE = Glenn Frey - The Heat Is On
+
+#3    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmdab
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#4    Random 80   (467 records found)
+URL   = http://s37.derstream.net:80/96.mp3
+GENRE = Schlager Oldies Decades Rock Pop 80s
+TITLE = Rheingold - Dreiklangdimensionen
+
+#5    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Surf-Radio-80
+GENRE = 80's
+TITLE = ABC - The Look of Love
+
+#6    Random 80   (467 records found)
+URL   = http://cafe80s.eu:8000/mobile.aac
+GENRE = 80s
+TITLE = VERY 80s - KW 3718b
+
+#7    Random 80   (467 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2281_128.mp3
+GENRE = 80s
+TITLE = Paul Simon - You Can Call Me Al 
+
+#8    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80sCR
+GENRE = 80scr
+TITLE = Tom Petty - Free Fallin'
+
+#9    Random 80   (467 records found)
+URL   = http://stream.diamondstation.live:2086/streamhq.mp3
+GENRE = Disco 90s 80s
+TITLE = No Details Available!
+
+#10    Random 80   (467 records found)
+URL   = http://151-80-38-142.caramania.net:7004/
+GENRE = sur 80 une seule radio Les années
+TITLE = Kasso - Walkman
+
+#11    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/S-LiveMontlucon
+GENRE = 80's
+TITLE = Rihanna - Rude Boy
+
+#12    Random 80   (467 records found)
+URL   = http://radiostreamserver.de:80/wunschradio-80er.mp3
+GENRE = Eighties 80er Rock Pop 80s
+TITLE = Prince - When Doves Cry
+
+#13    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/BDJItaloDisco_64.aac
+GENRE = 80´s
+TITLE = No Details Available!
+
+#14    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1751_128
+GENRE = 80s
+TITLE = Madonna - Papa Don't Preach
+
+#15    Random 80   (467 records found)
+URL   = http://stmbr.com.br:8888/stream
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#16    Random 80   (467 records found)
+URL   = http://stream.lolliradio.net:80/lolli_oldies.mp3
+GENRE = 70s Disco Pop 80s
+TITLE = Chris Rea - Josephine
+
+#17    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Vintage-Radio
+GENRE = 80
+TITLE = Bruce Springsteen - Born To Run
+
+#18    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90ssuperdance_64.aac
+GENRE = 80sdance
+TITLE = Take That - Pray
+
+#19    Random 80   (467 records found)
+URL   = http://ingest.a3.stream24.net:80/radio8-in.mp3
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Loona - Bailando
+
+#20    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Jeff Laurence - Continuous Music The Lynx Classic Hits
+
+#21    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/180
+GENRE = 80s
+TITLE = Ivan - Fotonovela
+
+#22    Random 80   (467 records found)
+URL   = http://s5.radionetz.de:80/0n-disco_app.mp3
+GENRE = 70s 70er Oldies Funk Disco Soul 80er Pop 80s
+TITLE = Four Tops - Loco In Acapulco 
+
+#23    Random 80   (467 records found)
+URL   = http://wisesoft.ddns.net:8000/live80_00
+GENRE = 00 Classics JTR 80 Decades mp3 RBPI2 90 Rock
+TITLE = Pixies - Here Comes Your Man
+
+#24    Random 80   (467 records found)
+URL   = http://eu10.fastcast4u.com:9170/stream
+GENRE = Garage Oldskool Rnb House Dance Ukg 90s Drum N Bass 80s
+TITLE = Dj Online
+
+#25    Random 80   (467 records found)
+URL   = http://atlantis.shoutcast-stream.net:8600/live
+GENRE = 80s
+TITLE = Carpenters - Rainy Days And Mondays
+
+#26    Random 80   (467 records found)
+URL   = http://ascl.denial.cl:8014/stream
+GENRE = 2000s 70s 90s 80s
+TITLE = No Title Found!
+
+#27    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80sCR
+GENRE = 80scr
+TITLE = CuÃ±a  - 2
+
+#28    Random 80   (467 records found)
+URL   = http://manager3.streamradio.fr:2490/stream
+GENRE = les années 80 funk soul
+TITLE = fan de funk
+
+#29    Random 80   (467 records found)
+URL   = http://www1.c1hundred.co.uk:7146/C100
+GENRE = 80s
+TITLE = The Late Show - The Bristol Stomp 1979
+
+#30    Random 80   (467 records found)
+URL   = http://s2.stationplaylist.com:9440/listen.aac
+GENRE = 40s 60s 70s 50s Jazz Country 80s
+TITLE = No Title Found!
+
+#31    Random 80   (467 records found)
+URL   = http://stream.fcons.net:80/WDON-MFM-128.aac
+GENRE = Hits Radio 90s Epic 80s
+TITLE = Janet Jackson - Miss You Much
+
+#32    Random 80   (467 records found)
+URL   = http://larry.torontocast.com:1790/stream
+GENRE = 60s 70s 90s 80s
+TITLE = Procol Harum - A Whiter Shade Of Pale
+
+#33    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmvs
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#34    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxRetro80s
+GENRE = Oldies Pop 80s
+TITLE = Paul McCartney - Arrow Through Me
+
+#35    Random 80   (467 records found)
+URL   = http://manager3.streamradio.fr:1360/stream
+GENRE = pop 80 hits 2000 Rap
+TITLE = Taio Cruz, Ludacris - Break Your Heart
+
+#36    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90ssuperpophits_64.aac
+GENRE = pop80s&90s
+TITLE = Targetspot - TargetSpot
+
+#37    Random 80   (467 records found)
+URL   = http://s37.derstream.net:80/haustier-radio.mp3
+GENRE = Rock Pop 80s
+TITLE = Modern Talking - You´re my heart, You´re my soul 
+
+#38    Random 80   (467 records found)
+URL   = http://85.214.167.78:15000/rasat.ogg
+GENRE = Trance Techno Goa 70s House Dance Video 90s Rock Pop 80s
+TITLE = No Title Found!
+
+#39    Random 80   (467 records found)
+URL   = http://comet.shoutca.st:8279/stream2_autodj
+GENRE = 70s 90s 80s
+TITLE = Massimo Barri - Mix Soulful Barri 04
+
+#40    Random 80   (467 records found)
+URL   = http://arabella.stream.kapper.net:8002/arabellaooe
+GENRE = Hits 70s Oldies AustroPop Pop 80s
+TITLE = FALCO  - DER KOMMISSAR
+
+#41    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmvd
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#42    Random 80   (467 records found)
+URL   = http://s2.stationplaylist.com:9220/listen.aac
+GENRE = 60s-80s Modern Mix Country
+TITLE = No Title Found!
+
+#43    Random 80   (467 records found)
+URL   = http://mcfoxtale.ddns.net:8000/wfojmainaac
+GENRE = Synthwave Variety 2000s Vaporwave ClassicRock Top40 90s Rock 80s Various
+TITLE = Mick Jones - Just Wanna Hold
+
+#44    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = Christine McVie - Got a Hold On Me
+
+#45    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/bleudream-80
+GENRE = 80s
+TITLE = Quarterflash - Harden My Heart
+
+#46    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1747_128
+GENRE = 80s
+TITLE = Thompson Twins - Lay Your Hands On Me
+
+#47    Random 80   (467 records found)
+URL   = http://fmsentir.sytes.net:443/stream
+GENRE = Top 40 70s Easy Oldies 90s Listening Rock Pop 80s
+TITLE = Jeff Lynne's ELO - Losing You
+
+#48    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1750_128
+GENRE = 80s
+TITLE = Earth Wind & Fire - Lets Groove
+
+#49    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/ipmusicaacplus96
+GENRE = Mixed Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = Bee Gees - Stayin' Alive *** www.ipmusic.ch
+
+#50    Random 80   (467 records found)
+URL   = http://hestia.cdnstream.com:80/1400_128
+GENRE = Adult Contemporary 70s 2000 Soft Rock 90s Rock Pop 80s
+TITLE = The Jam - The Bitterest Pill (I Ever Had to Swallow) 
+
+#51    Random 80   (467 records found)
+URL   = http://stream.rickfm.nl:8000/rick.mp3
+GENRE = info pop 80 rock jazz
+TITLE = No Title Found!
+
+#52    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Dynamic80
+GENRE = 80
+TITLE = a-ha - Hunting High And Low
+
+#53    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmlowvs
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#54    Random 80   (467 records found)
+URL   = http://queens11369v.softether.net:30016/digitalmixnyc128
+GENRE = Disco Dance 90s 80s
+TITLE = Carl Douglas - Kung Fu Fighting * 80's 12Inch Singles Collection Vol.2 :003
+
+#55    Random 80   (467 records found)
+URL   = http://jenny.torontocast.com:8048/128
+GENRE = Classic Alternative New-Wave 80s
+TITLE = No Details Available!
+
+#56    Random 80   (467 records found)
+URL   = http://live.foerde-radio.de:8130/stream
+GENRE = 80er 90er und das Beste von heute
+TITLE = Mother's Finest - Baby Love
+
+#57    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90ssuperpophits_64.aac
+GENRE = pop80s&90s
+TITLE = Dionne Warwick - Heartbreaker
+
+#58    Random 80   (467 records found)
+URL   = http://manager3.streamradio.fr:1400/stream
+GENRE = pop 80 hits 2000 Rap
+TITLE = Taio Cruz, Ludacris - Break Your Heart
+
+#59    Random 80   (467 records found)
+URL   = http://dsl.rasat.tv:8300/rsv1.nsv
+GENRE = Trance Techno Goa 70s House Dance Video 90s Rock Pop 80s
+TITLE = .::: Radio-Satisfaction :::.
+
+#60    Random 80   (467 records found)
+URL   = http://ithaca.cdnstream.com:80/1255_128
+GENRE = 2000s Hits Easy Soft 90s Rock Pop 80s Lite
+TITLE = Tears For Fears - Everybody Wants To Rule The World 
+
+#61    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80ssuperhits
+GENRE = 80shitsuk
+TITLE = Ray Parker Jr. - Ghostbusters (Short Version)
+
+#62    Random 80   (467 records found)
+URL   = http://mp3.magic-radio.net:80/
+GENRE = 80s
+TITLE = Depeche Mode - Enjoy The Silence
+
+#63    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1751_128
+GENRE = 80s
+TITLE = Madonna - Papa Don't Preach
+
+#64    Random 80   (467 records found)
+URL   = http://webradio.vienna.at:80/vie-80er.aac
+GENRE = 80er
+TITLE = Stars on 45 - If you could read my mind
+
+#65    Random 80   (467 records found)
+URL   = http://ecast.myautodj.com:1310/stream
+GENRE = 80's Oldies Hip Hop 90's Rock Pop Country
+TITLE = Maria
+
+#66    Random 80   (467 records found)
+URL   = http://151-80-38-142.caramania.net:7004/aacp_128kbps
+GENRE = sur 80 une seule radio Les années
+TITLE = Kasso - Walkman
+
+#67    Random 80   (467 records found)
+URL   = http://bitsmitter.com:9000/omrhi
+GENRE = 60s 70s Oldies Decades 80s
+TITLE = No Title Found!
+
+#68    Random 80   (467 records found)
+URL   = http://joserver.dyndns.org:8050/live2
+GENRE = 70s Oldies 90s Pop 80s
+TITLE = Gunter & Yvonne Gabriel - Hey Yvonne
+
+#69    Random 80   (467 records found)
+URL   = http://stream.diazol.hu:35110/live.mp3
+GENRE = 80's Hot AC 90's
+TITLE = Alexander O'Neal     - Fake '88
+
+#70    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/MagicOldies
+GENRE = 80's Oldies 60's 70's
+TITLE = Abba -  The Winner Takes It All
+
+#71    Random 80   (467 records found)
+URL   = http://jenny.torontocast.com:8014/128
+GENRE = Classic Alternative New-Wave 80s
+TITLE = No Details Available!
+
+#72    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80sforeveryoung
+GENRE = pop80s
+TITLE = Pet Shop Boys - West End Girls
+
+#73    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/A11-Radio-Dreams-90s
+GENRE = 80 70 90
+TITLE =  julie A11.RADIO.DREAMS-90s - prÃ©vention coronavirus sauver des vies restez prudent
+
+#74    Random 80   (467 records found)
+URL   = http://usa6.fastcast4u.com:5034/live_autodj
+GENRE = Wave 80's New
+TITLE = The Nails - 88 Lines About 44 Women [pbU]
+
+#75    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80s-New-Wave
+GENRE = 80s
+TITLE = Robert Palmer - Simply Irresistible
+
+#76    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = Christine McVie - Got a Hold On Me
+
+#77    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80sPlanet
+GENRE = 80s.pop decades oldies
+TITLE = Elton John - I Guess Thats Why They Call It The Blues
+
+#78    Random 80   (467 records found)
+URL   = http://188.165.11.30:4500/live.mp3
+GENRE = Hits 80's-90's-00's Best The
+TITLE = UB40 RED RED RINE
+
+#79    Random 80   (467 records found)
+URL   = http://ec1.everestcast.host:1270/stream
+GENRE = 60s 70s smooth jazz Pop 90s00 80s
+TITLE = YOU_AND_I__FIRE_AND_RAIN_
+
+#80    Random 80   (467 records found)
+URL   = http://stream.diamondstation.live:2086/stream.mp3
+GENRE = Disco 90s 80s
+TITLE = No Details Available!
+
+#81    Random 80   (467 records found)
+URL   = http://studio.simbacast.com:2680/stream
+GENRE = années 80's funk pop disco
+TITLE = Empty playlist
+
+#82    Random 80   (467 records found)
+URL   = http://213.239.206.179:59110/stream
+GENRE = 2ks 90s 80s
+TITLE = No Details Available!
+
+#83    Random 80   (467 records found)
+URL   = http://live.topfm.hu:8000/oldies.mp3
+GENRE = 60s 70s Oldies 50s 80s
+TITLE = Thin Lizzy - Whiskey In The Jar (1973)
+
+#84    Random 80   (467 records found)
+URL   = http://www.pluz.com.ar:8020/live.aac
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = Radio Pluz Online
+
+#85    Random 80   (467 records found)
+URL   = http://centova.pure-isp.eu:8012/autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = RubÃ©n Blades - Danny Boy [39z]
+
+#86    Random 80   (467 records found)
+URL   = http://lynx.prostreaming.net:8109/rockvaultradiosd
+GENRE = And Metal Rock 80s
+TITLE = Shark Island - Dangerous
+
+#87    Random 80   (467 records found)
+URL   = http://themighty690.radioca.st:80/streams/64kbps?yp=6
+GENRE = 80's
+TITLE = Rick Springfield - Love Is Alright Tonite
+
+#88    Random 80   (467 records found)
+URL   = http://comet.shoutca.st:8279/stream3_autodj
+GENRE = 70s 90s 80s
+TITLE = Massimo Barri - Mix Soulful Barri 04
+
+#89    Random 80   (467 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/128
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Guardian - The Real Me
+
+#90    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1753_128
+GENRE = 80s
+TITLE = Taco - Puttin' on the Ritz
+
+#91    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfm160
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#92    Random 80   (467 records found)
+URL   = http://ingest.b1.stream24.net:80/radio8-in.mp3
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Loona - Bailando
+
+#93    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/BDJItaloDisco
+GENRE = 80´s
+TITLE = B.B. And Band - Hold Me Tight
+
+#94    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1719_128
+GENRE = 80s
+TITLE = Mr. Mister - Kyrie - Single Version
+
+#95    Random 80   (467 records found)
+URL   = http://stream.102la.com:80/live
+GENRE = Classic Hits 90s 80s
+TITLE = Midge Ure - Breathe (Radio Edit) 
+
+#96    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmdabvs
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#97    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1750_128
+GENRE = 80s
+TITLE = Journey - Open Arms
+
+#98    Random 80   (467 records found)
+URL   = http://icecast.bhjms-radio.de:8500/bhjms_96
+GENRE = Misc House 90s Pop 80s
+TITLE = ABBA - Lay All Your Love On Me
+
+#99    Random 80   (467 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2383_48.aac
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Bobby Brown - On Our Own
+
+#100    Random 80   (467 records found)
+URL   = http://s04.diazol.hu:20010/autodj
+GENRE = 60s 70s 80s
+TITLE = Revesz Sandor - VigyÃ¡zz a madarra
+
+#101    Random 80   (467 records found)
+URL   = http://151-80-38-142.caramania.net:7004/aacp_32kbps
+GENRE = sur 80 une seule radio Les années une
+TITLE = JINGLE PARLE Le Meilleur Des Annees 80s (voix femme jeune dynamique)
+
+#102    Random 80   (467 records found)
+URL   = http://streaming316.radionomy.com:80/radio-contact-vosges
+GENRE = 80s
+TITLE = Chico & The Gypsies - Malaguena Selerosa
+
+#103    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1719_128
+GENRE = 80s
+TITLE = Mr. Mister - Kyrie - Single Version
+
+#104    Random 80   (467 records found)
+URL   = http://streams.radiomast.io/ebca0c3d-4178-4386-88a1-4db6b7d9e291
+GENRE = Top 40 Talk Scotland UK Glasgow FLAC 90s Pop 80s
+TITLE = Robert Palmer & UB40 - I'll Be Your Baby Tonight
+
+#105    Random 80   (467 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2281_128.mp3
+GENRE = 80s
+TITLE = Paul Simon - You Can Call Me Al 
+
+#106    Random 80   (467 records found)
+URL   = http://live7.avf.ch:8000/ipmusicwm128
+GENRE = Slow Mixed Adult Radio Soft Rock Pop 80s Various
+TITLE = 2017-11-28 12:06:42 - A Fine Frenzy
+
+#107    Random 80   (467 records found)
+URL   = http://icecast1.pulsradio.com:8080/puls802HD.mp3
+GENRE = 80s
+TITLE = Bruce Hornsby - The Way It Is
+
+#108    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1745_128
+GENRE = 80s
+TITLE = Pointer Sisters - Automatic
+
+#109    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/BDJItaloDisco
+GENRE = 80´s
+TITLE = B.B. And Band - Hold Me Tight
+
+#110    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1761_128
+GENRE = 80s
+TITLE = U2 - With Or Without You
+
+#111    Random 80   (467 records found)
+URL   = http://arabella.stream.kapper.net:8006/arabella80er
+GENRE = 80s
+TITLE = No Title Found!
+
+#112    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmge
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#113    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1760_128
+GENRE = 80s
+TITLE = Debbie Gibson - Shake Your Love
+
+#114    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Vintage-Radio
+GENRE = 80
+TITLE = Bruce Springsteen - Born To Run
+
+#115    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Static-Punk
+GENRE = rickman 70s rock 80s punk
+TITLE = The Features - Drab City
+
+#116    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/radio-contact-vosges
+GENRE = 80s
+TITLE = Chico & The Gypsies - Malaguena Selerosa
+
+#117    Random 80   (467 records found)
+URL   = http://fmsentir.sytes.net:443/stream.mp3
+GENRE = Top 40 70s Easy Oldies 90s Listening Rock Pop 80s
+TITLE = No Title Found!
+
+#118    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Surf-Radio-80
+GENRE = 80's
+TITLE = ABC - The Look of Love
+
+#119    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90ssuperdance
+GENRE = 80sdance
+TITLE = Sparks - When Do I Get To Sing "My Way"
+
+#120    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1734_128
+GENRE = 80s
+TITLE = Tom Petty - Refugee
+
+#121    Random 80   (467 records found)
+URL   = http://manager3.streamradio.fr:1120/stream
+GENRE = les années 80 funk soul
+TITLE = fan de funk
+
+#122    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80sPlanet
+GENRE = 80s.pop decades oldies
+TITLE = Madness - Shut Up
+
+#123    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80s90shitsradio
+GENRE = 80spop
+TITLE = Sandra - In The Heat Of The Night (Single Version)
+
+#124    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/A11-Radio-Dreams-90s
+GENRE = 80 70 90
+TITLE = La Grande Sophie - Une vie
+
+#125    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmne
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#126    Random 80   (467 records found)
+URL   = http://hestia.cdnstream.com:80/1340_128
+GENRE = 80s
+TITLE = Survivor - Is This Love (1987) 
+
+#127    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1762_128
+GENRE = 80s
+TITLE = Bobby Brown - On Our Own
+
+#128    Random 80   (467 records found)
+URL   = http://s5.radionetz.de:80/0n-jukebox_app.mp3
+GENRE = 60er 60s 70s 70er Oldies Disco 80er Rock Pop 80s
+TITLE = Bruce Springsteen - Tougher Than The Rest 
+
+#129    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1753_128
+GENRE = 80s
+TITLE = Taco - Puttin' on the Ritz
+
+#130    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1787_128
+GENRE = 80s
+TITLE = Mr. Mister - Kyrie - Single Version
+
+#131    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Vintage-Radio
+GENRE = 80
+TITLE = The Robots - Radio Vintage Jingle
+
+#132    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Dynamic80
+GENRE = 80
+TITLE = djblack - cent pour cent hits c est ta radio dynamic
+
+#133    Random 80   (467 records found)
+URL   = http://arabella.stream.kapper.net:8001/arabellanoe
+GENRE = Hits 70s Oldies AustroPop Pop 80s
+TITLE = Adele  - Set Fire To The Rain
+
+#134    Random 80   (467 records found)
+URL   = http://manager1.creativradio.pro:2350/stream
+GENRE = jour Club a ce 70-80-90 disco
+TITLE = STRaNGeST_OnAiR: François DAURELLE - BIGMIX 10 aout
+
+#135    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/180
+GENRE = 80s
+TITLE = Ivan - Fotonovela
+
+#136    Random 80   (467 records found)
+URL   = http://centova.pure-isp.eu:8009/high_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Unknown - Get Up Stand Up [u9]
+
+#137    Random 80   (467 records found)
+URL   = http://ecast.myautodj.com:1990/stream
+GENRE = 70s Rock Country 80s
+TITLE = AutoDJ: Cliff Richard - Wired For Sound
+
+#138    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90shitsradio_64.aac
+GENRE = 80spop
+TITLE = Rod Stewart - Da Ya Think I'm Sexy?
+
+#139    Random 80   (467 records found)
+URL   = http://aac.magic-radio.net:80/vorbis
+GENRE = 80s
+TITLE = No Title Found!
+
+#140    Random 80   (467 records found)
+URL   = http://178.19.116.3:8026/live
+GENRE = Schlager 80's Piratenhits Polka Volksmuziek
+TITLE = NONSTOP PLAYLIST - 24/7 - Vanuit Studio Mooifeessie - GoudenPiratenhits .nl
+
+#141    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1787_128
+GENRE = 80s
+TITLE = adw_ad='truedurationMilliseconds='26279adId='0insertionType='preroll
+
+#142    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Vintage-Radio_64.aac
+GENRE = 80
+TITLE = Lou Reed - Perfect Day
+
+#143    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/irabo-inselradio-borkum
+GENRE = Top 40 90s Pop 80s
+TITLE = Nico Santos - Play With Fire
+
+#144    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Bruxelles-news
+GENRE = 80
+TITLE = Sade - Smooth Operator
+
+#145    Random 80   (467 records found)
+URL   = http://play.radioftb.net:8006/stream
+GENRE = 70s radio Top40 music 90s Rock Pop 80s
+TITLE = No Title Found!
+
+#146    Random 80   (467 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2383_128.mp3
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Bobby Brown - On Our Own
+
+#147    Random 80   (467 records found)
+URL   = http://ingest.a3.stream24.net:80/radio8-in.aac
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Loona - Bailando
+
+#148    Random 80   (467 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2383_48.aac
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Bobby Brown - On Our Own
+
+#149    Random 80   (467 records found)
+URL   = http://eu10.fastcast4u.com:7130/stream
+GENRE = 80s
+TITLE = AutoDJ: CUTTING CREW  - I JUST DIED IN YOUR ARMS TONIGHT
+
+#150    Random 80   (467 records found)
+URL   = http://radiart.eu:10111/live
+GENRE = Classic R&B Funk Soul 80s
+TITLE = Toney Lee - Reach Up | 1985 | Diva Funk
+
+#151    Random 80   (467 records found)
+URL   = http://stream.radiocumbernauld.uk:8004/stream
+GENRE = Top 40 Talk 90s Pop 80s
+TITLE = The Ting Tings - That's Not My Name
+
+#152    Random 80   (467 records found)
+URL   = http://live.foerde-radio.de:8010/stream
+GENRE = 80er 90er und das Beste von heute
+TITLE = P!nk - Get The Party Started
+
+#153    Random 80   (467 records found)
+URL   = http://radio.ready2play.fr:1180/stream
+GENRE = 80 Années
+TITLE = Mike_Oldfield_-_Moonlight_Shadow
+
+#154    Random 80   (467 records found)
+URL   = http://stmbr.com.br:8028/stream
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#155    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1742_128
+GENRE = 80s
+TITLE = Blondie - Rapture
+
+#156    Random 80   (467 records found)
+URL   = http://cafe80s.eu:8000/stream.mp3
+GENRE = 80s
+TITLE = VERY 80s - KW 3718b
+
+#157    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80ssuperhits
+GENRE = 80shitsuk
+TITLE = Ray Parker Jr. - Ghostbusters (Short Version)
+
+#158    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmdabfr
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#159    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/the-cube-retro-radio
+GENRE = 90s Rock Pop 80s
+TITLE = Shania Twain - That Don't Impress Me Much
+
+#160    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/180_64.aac
+GENRE = 80s
+TITLE = 180 - virgule dÃ©cro
+
+#161    Random 80   (467 records found)
+URL   = http://radio.streemlion.com:1230/stream
+GENRE = 80s
+TITLE = Chaka Khan - I Feel for You
+
+#162    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmdabne
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#163    Random 80   (467 records found)
+URL   = http://c7.radioboss.fm:8086/autodj
+GENRE = pop 70´s 80´s and more Rock
+TITLE = Eurythmics - Sweet Dreams (Are Made Of This)
+
+#164    Random 80   (467 records found)
+URL   = http://radiototal1.radioca.st:80/streams/96kbps?yp=6
+GENRE = 90s 80s
+TITLE = Radio Total @Copyright MINI 2020
+
+#165    Random 80   (467 records found)
+URL   = http://stream.fcons.net:80/WDON-MFM-192.mp3
+GENRE = Hits Radio 90s Epic 80s
+TITLE = The Breakfast Club - Right On Track
+
+#166    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/awesome-80s-hd
+GENRE = oldies 80s
+TITLE = Smokey Robinson - Just To See Her
+
+#167    Random 80   (467 records found)
+URL   = http://c12.radioboss.fm:8016/autodj
+GENRE = 80's 00 & All Good Muisic Soviet Retro 70's 90's
+TITLE = ÐÑÐ¸Ð½Ð° ÐÐ»Ð»ÐµÐ³ÑÐ¾Ð²Ð° - ÐÐ°Ð´Ð¾Ð½Ð¸
+
+#168    Random 80   (467 records found)
+URL   = http://kappa.radioplayer.com.ar:9130/netclassic903
+GENRE = 80's 70's 90's
+TITLE = No Title Found!
+
+#169    Random 80   (467 records found)
+URL   = http://manager3.streamradio.fr:1080/stream
+GENRE = Hits Actuelle 70.80.90.2000.&amp
+TITLE = Leslie - Le bon choix 2002
+
+#170    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80ssuperdance
+GENRE = 80sdance
+TITLE = Richenel - Dance Around The World
+
+#171    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1742_128
+GENRE = 80s
+TITLE = Blondie - Rapture
+
+#172    Random 80   (467 records found)
+URL   = http://stream.fcons.net:80/WDON-MFM-64.aac
+GENRE = Hits Radio 90s Epic 80s
+TITLE = The Breakfast Club - Right On Track
+
+#173    Random 80   (467 records found)
+URL   = http://jenny.torontocast.com:8048/64
+GENRE = Classic Alternative New-Wave 80s
+TITLE = No Details Available!
+
+#174    Random 80   (467 records found)
+URL   = http://manager1.creativradio.pro:1280/stream
+GENRE = 80 70 vintage 90
+TITLE = origines: Laura Branigan - Self Control - (1984)
+
+#175    Random 80   (467 records found)
+URL   = http://s2.stationplaylist.com:7082/listen.mp3
+GENRE = 80s Rock 80s Pop 80s Hits New Wave
+TITLE = Bruce Springsteen - Dancing In The Dark 
+
+#176    Random 80   (467 records found)
+URL   = http://antares.dribb.com:5076/autodj
+GENRE = Hits 80s
+TITLE = Floy Joy - Friday Night
+
+#177    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/BDJPure80s
+GENRE = 80s
+TITLE = Curiosity Killed The Cat - Misfit
+
+#178    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1762_128
+GENRE = 80s
+TITLE = Bobby Brown - On Our Own
+
+#179    Random 80   (467 records found)
+URL   = http://stream.laut.fm/80er-90er
+GENRE = 90er 80er
+TITLE = The Rembrandts - Just The Way It Is Baby
+
+#180    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/A11-Radio-Dreams-90s_64.aac
+GENRE = 80 70 90
+TITLE = Monkeyman - Something To Believe In - Cookie, Norman Doray, NERVO
+
+#181    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90ssuperdance
+GENRE = 80sdance
+TITLE = Sparks - When Do I Get To Sing "My Way"
+
+#182    Random 80   (467 records found)
+URL   = http://23.92.61.218:9002/
+GENRE = 80s
+TITLE = Madness - Shut Up
+
+#183    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90ssuperpophits
+GENRE = pop80s&90s
+TITLE = Michael Jackson - Beat It
+
+#184    Random 80   (467 records found)
+URL   = http://rhr.radioca.st:80/streams/128kbps?yp=3
+GENRE = 90s 80s
+TITLE = #rockstheblock - Thanks for listening
+
+#185    Random 80   (467 records found)
+URL   = http://kathy.torontocast.com:1860/stream
+GENRE = 80's 90's 2000 Top40
+TITLE = Radio-Chelsey: Don Johnson - Heartbeat (Album Version)
+
+#186    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Static-Punk
+GENRE = rickman 70s rock 80s punk
+TITLE = Broken Bones - Death Is Imminent
+
+#187    Random 80   (467 records found)
+URL   = http://46.4.48.7:8736/autodj
+GENRE = 70s 90s 80s
+TITLE = A-HA - I'VE BEEN LOSING YOU [3Za]
+
+#188    Random 80   (467 records found)
+URL   = http://daniel.torontocast.com:2150/stream
+GENRE = Top 40 Adult Contemporary 80 90
+TITLE = Mariah Carey - Always Be My Baby
+
+#189    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1771_128
+GENRE = 80s
+TITLE = Kenny Rogers, Sheena Easton - We've Got Tonight - Remastered 2006
+
+#190    Random 80   (467 records found)
+URL   = http://manager2.creativradio.com:1120/stream
+GENRE = pop rock chanson française année 80
+TITLE = Michel - la rediffusion du top 15
+
+#191    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/1HITS80s
+GENRE = 80s
+TITLE = Kellee Maize - Future Remix  
+
+#192    Random 80   (467 records found)
+URL   = http://stream.deventerrtv.nl:8000/stream
+GENRE = 60s 70s 00s 90s 10s Pop 80s
+TITLE = Keala Settle Feat The Greatest Showman Ensemble - This Is Me
+
+#193    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1747_128
+GENRE = 80s
+TITLE = Debarge - Who's Holding Donna Now
+
+#194    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90ssuperdance_64.aac
+GENRE = 80sdance
+TITLE = Targetspot - TargetSpot
+
+#195    Random 80   (467 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2281_128.mp3
+GENRE = 80s
+TITLE = SHEILA E. - THE GLAMOROUS LIFE - RADIO 
+
+#196    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1761_128
+GENRE = 80s
+TITLE = U2 - With Or Without You
+
+#197    Random 80   (467 records found)
+URL   = http://185.132.132.161:8000/80s
+GENRE = 80s
+TITLE = Police - Roxanne
+
+#198    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80sforeveryoung
+GENRE = pop80s
+TITLE = Kiss - Crazy Crazy Nights
+
+#199    Random 80   (467 records found)
+URL   = http://151-80-38-142.caramania.net:7016/stream2
+GENRE = Dance House Techno Electronic Oldschool 80 90
+TITLE = Bobby Brown Ft Glenn Medeiros - She Ain't Worth It (12' Extended Version)
+
+#200    Random 80   (467 records found)
+URL   = http://icecast.bhjms-radio.de:8500/bhjms_192
+GENRE = Misc House 90s Pop 80s
+TITLE = ABBA - Lay All Your Love On Me
+
+#201    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Surf-Radio-80
+GENRE = 80's
+TITLE = Kim Wilde - You Keep Me Hangin' On
+
+#202    Random 80   (467 records found)
+URL   = http://ec1.yesstreaming.net:1180/stream
+GENRE = s pop 80 Hits Club Oldschool electronic 2000 s 70 90 60 dance
+TITLE = Stream: DJ Digital Sturday Dance Music Show - 12/9/20 - Titan Fm London
+
+#203    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/bleudream-80
+GENRE = 80s
+TITLE = Indeep - Last Night A DJ Saved My Life (Dimitri Remix)
+
+#204    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Bestofthe80-s
+GENRE = 80
+TITLE = Chris De Burgh - The Lady In Red
+
+#205    Random 80   (467 records found)
+URL   = http://radio.streemlion.com:3150/stream
+GENRE = 80's Oldies Pop
+TITLE = Rick Astley - Never Gonna Give You Up (Cake Mix) (1987)
+
+#206    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/ExtremeHits
+GENRE = 80
+TITLE = Bee Gees - While I Play
+
+#207    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1760_128
+GENRE = 80s
+TITLE = Debbie Gibson - Shake Your Love
+
+#208    Random 80   (467 records found)
+URL   = http://hazel.torontocast.com:3130/stream
+GENRE = 80s and 90s Classic Hits from the 70s
+TITLE = George Benson - Breezin' (Remastered)
+
+#209    Random 80   (467 records found)
+URL   = http://s37.derstream.net:80/48aac.mp3
+GENRE = Schlager Oldies Decades Rock Pop 80s
+TITLE = Rheingold - Dreiklangdimensionen
+
+#210    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/radio-contact-vosges
+GENRE = 80s
+TITLE = Chico & The Gypsies - Malaguena Selerosa
+
+#211    Random 80   (467 records found)
+URL   = http://live7.avf.ch:8000/ipmusic128
+GENRE = Mixed Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = The Police - Wrapped Around Your Finger *** www.ipmusic.ch
+
+#212    Random 80   (467 records found)
+URL   = http://topradio.us:8036/autodj
+GENRE = Remember 90s Pop 80s
+TITLE = Teach In - Upside Down
+
+#213    Random 80   (467 records found)
+URL   = http://mcfoxtale.ddns.net:8000/wfojmain
+GENRE = Synthwave Variety 2000s Vaporwave ClassicRock Top40 90s Rock 80s Various
+TITLE = WHY DON'T WE - WHAT AM I
+
+#214    Random 80   (467 records found)
+URL   = http://radio2.vip-radios.fm:8030/stream-64kmp3-IbizaFunky_autodj
+GENRE = 80's Funk Disco
+TITLE = adw_ad='truedurationMilliseconds='30066adId='0insertionType='preroll
+
+#215    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80sforeveryoung_64.aac
+GENRE = pop80s
+TITLE = Eddy Grant - Gimme Hope Jo'anna
+
+#216    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/1HITS80s_64.aac
+GENRE = 80s
+TITLE = Kellee Maize - Future Remix  
+
+#217    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/A11-Radio-Dreams-90s_64.aac
+GENRE = 80 70 90
+TITLE = MaÃ®tre Gims - Ã La Base
+
+#218    Random 80   (467 records found)
+URL   = http://radio.streemlion.com:3780/stream
+GENRE = 80s
+TITLE = No Details Available!
+
+#219    Random 80   (467 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2383_128.mp3
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Bobby Brown - On Our Own
+
+#220    Random 80   (467 records found)
+URL   = http://nr5.newradio.it:8531/stream
+GENRE = ANNI DISCO 80 90
+TITLE = 09 Make Love to You (I Wanna) Various Artists 256kbps - 09 Make Love to You (I Wanna) Various Artists 256kbps
+
+#221    Random 80   (467 records found)
+URL   = http://hestia2.cdnstream.com:80/1069_64
+GENRE = 80s
+TITLE = Lionel Richie - Running With the Night (1983)
+
+***** ERROR *****
+
+#223    Random 80   (467 records found)
+URL   = http://centova.pure-isp.eu:8009/low_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Unknown - Get Up Stand Up [u9]
+
+#224    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxClassicRock
+GENRE = 70s Classic Rock 80s
+TITLE = Scandal - The Warrior
+
+#225    Random 80   (467 records found)
+URL   = http://janus.cdnstream.com:5034/live
+GENRE = 90s 80s
+TITLE = Red Hot Chili Peppers - Give It Away - Blood Sugar Sex Magik
+
+#226    Random 80   (467 records found)
+URL   = http://radiart.eu:8349/live
+GENRE = Disco Dance Italo 80s
+TITLE = Lee Marrow - Shanghai | 1985 | radioitalopower-com
+
+#227    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Vintage-Radio_64.aac
+GENRE = 80
+TITLE = Pink Floyd - Another Brick In The Wall
+
+#228    Random 80   (467 records found)
+URL   = http://85.25.217.30:80/live.mp3
+GENRE = Schlager Oldies Decades Rock Pop 80s
+TITLE = Depeche Mode - A Question Of Time
+
+#229    Random 80   (467 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2383_128.mp3
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Bobby Brown - On Our Own
+
+#230    Random 80   (467 records found)
+URL   = http://mediacp.shoutcastradio.nl:8002/backup_audio
+GENRE = 80's POP Dance Top40 90's
+TITLE = Davina Michelle - Skyward
+
+#231    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/bleudream-80_64.aac
+GENRE = 80s
+TITLE = Scotch - Take Me Up (Special Remix)- Scotch
+
+#232    Random 80   (467 records found)
+URL   = http://icecast.bhjms-radio.de:8500/bhjms_40.aac
+GENRE = Misc House 90s Pop 80s
+TITLE = ABBA - Lay All Your Love On Me
+
+#233    Random 80   (467 records found)
+URL   = http://stream.salyutfm.ru:8020/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = ÐÐ¾Ð´Ð¸ÑÐ¼ - ÐÐ¼ÑÑÐµÑÐ´Ð°Ð¼
+
+#234    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/RichRadioFm
+GENRE = 80'S
+TITLE = Sigur RÃ³s - Agaetis Byrjun
+
+#235    Random 80   (467 records found)
+URL   = http://daniel.torontocast.com:1410/stream
+GENRE = Top 40 Adult Contemporary 80 90
+TITLE = Mariah Carey - Always Be My Baby
+
+#236    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80sCR_64.aac
+GENRE = 80scr
+TITLE = The Passenger - Siouxsie and the Banshees
+
+#237    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1771_128
+GENRE = 80s
+TITLE = Kenny Rogers, Sheena Easton - We've Got Tonight - Remastered 2006
+
+#238    Random 80   (467 records found)
+URL   = http://radio.streemlion.com:2580/stream
+GENRE = new pop 70s 00s rock wave 90s 80s
+TITLE = Empty playlist
+
+#239    Random 80   (467 records found)
+URL   = http://queens11369v.softether.net:30016/digitalmix48
+GENRE = Freestyle R&B and Urban House Disco 80s
+TITLE = Romantics, The - What I Like About You *
+
+#240    Random 80   (467 records found)
+URL   = http://kathy.torontocast.com:2210/stream
+GENRE = 70.s pop all time hits 80's. 90's
+TITLE = Timeless - One more step to take
+
+#241    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/MagicOldies
+GENRE = 80's Oldies 60's 70's
+TITLE = Fleetwoods - Tragedy
+
+#242    Random 80   (467 records found)
+URL   = http://everestcast.shoutcastservices.com:1470/stream
+GENRE = 80s
+TITLE = 80s Commercial - Carling Black Label
+
+#243    Random 80   (467 records found)
+URL   = http://192.99.37.181:8030/NWR.aac
+GENRE = Wave 80's New Alternative Rock
+TITLE = Queen - Radio Ga Ga  ***  80's New Wave Radio  ***  MusicAntenna.com
+
+#244    Random 80   (467 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/1442_128
+GENRE = 80s
+TITLE = Scrlitti Politti - Perfect Way 
+
+#245    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/BDJItaloDisco_64.aac
+GENRE = 80´s
+TITLE = Camaro's Gang - Ali Shuffle
+
+#246    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80ssuperdance
+GENRE = 80sdance
+TITLE = Richenel - Dance Around The World
+
+#247    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80sforeveryoung_64.aac
+GENRE = pop80s
+TITLE = Michael Jackson - Wanna Be Startin' Somethin'
+
+#248    Random 80   (467 records found)
+URL   = http://stream.salyutfm.ru:8030/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = ÐÐ¾Ð´Ð¸ÑÐ¼ - ÐÐ¼ÑÑÐµÑÐ´Ð°Ð¼
+
+#249    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Bruxelles-news
+GENRE = 80
+TITLE = bruxellesnews_pub - bruxellesnews_pub
+
+#250    Random 80   (467 records found)
+URL   = http://stream.akroradio.com:10012/Akrogg64.ogg
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = No Title Found!
+
+#251    Random 80   (467 records found)
+URL   = http://hazel.torontocast.com:3120/stream
+GENRE = 80s and 90s Classic Hits from the 70s
+TITLE = Survivor - High on You
+
+#252    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/irabo-inselradio-borkum
+GENRE = Top 40 90s Pop 80s
+TITLE = Nico Santos - Play With Fire
+
+#253    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Surf-Radio-80_64.aac
+GENRE = 80's
+TITLE = Wham! - Wake Me up Before You Go Go
+
+#254    Random 80   (467 records found)
+URL   = http://stream.top80radio.com:9010/live
+GENRE = New wave Disco Rock Pop 80s
+TITLE = MIKO MISSION - The world is you
+
+#255    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/1HITS80s_64.aac
+GENRE = 80s
+TITLE = Ed Napoli - Sax in the House feat Ed napoli - Everybody Wants (Cesar Funck club mix radio edit)
+
+#256    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/AIR-Radio-Freestyle_64.aac
+GENRE = 80's
+TITLE = Us URA - Open Your Mind
+
+#257    Random 80   (467 records found)
+URL   = http://s37.derstream.net:80/96aac.mp3
+GENRE = Schlager Oldies Decades Rock Pop 80s
+TITLE = Depeche Mode - A Question Of Time
+
+#258    Random 80   (467 records found)
+URL   = http://radio.ready2play.fr:1160/stream
+GENRE = new wave pop 70s 80s punk
+TITLE = New Order - True Faith
+
+#259    Random 80   (467 records found)
+URL   = http://uplink.intronic.nl:80/goldenflash_mobile
+GENRE = 80 Oldies 2000 70 90 60
+TITLE = Regi, Jake Reese, OT - Kom Wat Dichterbij (Uit Liefde Voor Muziek)
+
+#260    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/bleudream-80
+GENRE = 80s
+TITLE = Indeep - Last Night A DJ Saved My Life (Dimitri Remix)
+
+#261    Random 80   (467 records found)
+URL   = http://151.80.43.143:8004/-aac_autodj.mp3
+GENRE = 80s
+TITLE = Haysi Fantayze - John Wayne Is Big Leggy
+
+#262    Random 80   (467 records found)
+URL   = http://nr11.newradio.it:9208/stream
+GENRE = 80 70 90
+TITLE = CERRONE - TAKE ME (1977)
+
+#263    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/AIR-Radio-Freestyle_64.aac
+GENRE = 80's
+TITLE = Targetspot - TargetSpot
+
+#264    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90s2000ssuperhitsukchart
+GENRE = 80shitsuk
+TITLE = Bobby Brown - Every Little Step
+
+#265    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90shitsradio
+GENRE = 80spop
+TITLE = Mory KantÃ© - Yeke Yeke
+
+#266    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Dynamic80_64.aac
+GENRE = 80
+TITLE = Dire Straits - Walk Of Life
+
+#267    Random 80   (467 records found)
+URL   = http://stream.radiomusic.net:29010/stream
+GENRE = 80s
+TITLE = David Gray - Babylon
+
+#268    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/1HITS80s
+GENRE = 80s
+TITLE = Heavenless - Synth pop of 80s
+
+#269    Random 80   (467 records found)
+URL   = http://radiostreamserver.de:80/wunschradio-80er.aac
+GENRE = Eighties 80er Rock Pop 80s
+TITLE = Black Box - Ride On Time
+
+#270    Random 80   (467 records found)
+URL   = http://stream.akroradio.com:10012/AkroRadio
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = Fonky Family - Petit Bordel
+
+#271    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80sCR_64.aac
+GENRE = 80scr
+TITLE = CuÃ±a  - 2
+
+#272    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80s90s2000ssuperhitsukchart
+GENRE = 80shitsuk
+TITLE = Bobby Brown - Every Little Step
+
+#273    Random 80   (467 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/32
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Guardian - The Real Me
+
+#274    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/180_64.aac
+GENRE = 80s
+TITLE = 180 - virgule racro
+
+#275    Random 80   (467 records found)
+URL   = http://s37.derstream.net:80/48.mp3
+GENRE = Schlager Oldies Decades Rock Pop 80s
+TITLE = Depeche Mode - A Question Of Time
+
+#276    Random 80   (467 records found)
+URL   = http://kathy.torontocast.com:2960/stream
+GENRE = Radio College 80s
+TITLE = Dj Online
+
+#277    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80ssuperhits
+GENRE = 80shitsuk
+TITLE = Fiction Factory - (Feels Like) Heaven
+
+#278    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmfr
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = MICHEL POLNAREFF - ON IRA TOUS AU PARADIS 1972
+
+#279    Random 80   (467 records found)
+URL   = http://qmr.hopto.org:7056/stream
+GENRE = 80's
+TITLE = Stock Aitken Waterman - Roadblock
+
+#280    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Musica-degli-anni--80
+GENRE = best80
+TITLE = Genesis - That's All
+
+#281    Random 80   (467 records found)
+URL   = http://italo.italo.nu:80/fantasy
+GENRE = disco italo 80s
+TITLE = No Details Available!
+
+#282    Random 80   (467 records found)
+URL   = http://mp3.magic-radio.net:80/flac
+GENRE = 80s
+TITLE = No Title Found!
+
+#283    Random 80   (467 records found)
+URL   = http://stream.deventerrtv.nl:8000/mp3
+GENRE = 60s 70s 00s 90s 10s Pop 80s
+TITLE = Keala Settle Feat The Greatest Showman Ensemble - This Is Me
+
+#284    Random 80   (467 records found)
+URL   = http://aac.magic-radio.net:80/
+GENRE = 80s
+TITLE = Depeche Mode - Enjoy The Silence
+
+#285    Random 80   (467 records found)
+URL   = http://stream.mega80s.de:6261/80s
+GENRE = 80s
+TITLE = Deborah Harry - French Kissin' In The USA
+
+#286    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/1HITS80s_64.aac
+GENRE = 80s
+TITLE = Targetspot - TargetSpot
+
+#287    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxClassicRock
+GENRE = 70s Classic Rock 80s
+TITLE = Scandal - The Warrior
+
+#288    Random 80   (467 records found)
+URL   = http://radio.streemlion.com:2290/stream
+GENRE = 00s Dance 90s Pop 80s
+TITLE = Prince And The New Power Generation - Gett Off
+
+#289    Random 80   (467 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2541_128.mp3
+GENRE = 90s. Top 40 80s
+TITLE = Red Hot Chili Peppers - Give It Away - Blood Sugar Sex Magik
+
+#290    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1734_128
+GENRE = 80s
+TITLE = Tom Petty - Refugee
+
+#291    Random 80   (467 records found)
+URL   = http://us3.internet-radio.com:8004/autodj
+GENRE = Contemporary 90s Rock Pop 80s
+TITLE = Dire Straits - So Far Away (Full Version) [3s76]
+
+#292    Random 80   (467 records found)
+URL   = http://live7.avf.ch:8000/oneHQ
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = No Title Found!
+
+#293    Random 80   (467 records found)
+URL   = http://igor.torontocast.com:1430/stream
+GENRE = 80's 00's Top40 90's
+TITLE = Sydney Youngblood - If Only I Could
+
+#294    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/BDJBerlinDigitalJack
+GENRE = 80's
+TITLE = Man Parrish - Six Simple Synthesizers
+
+#295    Random 80   (467 records found)
+URL   = http://radioboxhd.com:9152/live
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#296    Random 80   (467 records found)
+URL   = http://c3.radioboss.fm:8178/autodj
+GENRE = 60s 70s Classic Rock Rock 80s
+TITLE = George Thorogood - I Drink Alone
+
+#297    Random 80   (467 records found)
+URL   = http://queens11369v.softether.net:30016/djspinnercee128
+GENRE = Freestyle R&B and Urban House Disco 80s
+TITLE = Aretha Franklin - Rescue Me * Shades of Soul - CD 1
+
+#298    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/4u-80s
+GENRE = 80s
+TITLE = Bonnie Tyler - It's A Heartache
+
+#299    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/awesome-80s-hd
+GENRE = oldies 80s
+TITLE = Smokey Robinson - Just To See Her
+
+#300    Random 80   (467 records found)
+URL   = http://c11.radioboss.fm:8216/autodj
+GENRE = 60-70-80-90s
+TITLE = Sting - Fragile
+
+#301    Random 80   (467 records found)
+URL   = http://icecast1.pulsradio.com:8080/puls802AAC64.mp3
+GENRE = 80s
+TITLE = Bruce Hornsby - The Way It Is
+
+#302    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Static-ClassicAltRadio
+GENRE = Classic Alternative 00s 90s 80s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#303    Random 80   (467 records found)
+URL   = http://streaming316.radionomy.com:80/Bruxelles-news
+GENRE = 80
+TITLE = Laurent H. - Fear Featuring Maxxy Dready [Vocal Mix]
+
+#304    Random 80   (467 records found)
+URL   = http://xymox.dyndns.org:5000/shout
+GENRE = Alternative Rock Pop 80s
+TITLE = Chic - Good Times (Original 12" Version)
+
+#305    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Yes - Owner Of A Lonely Heart
+
+#306    Random 80   (467 records found)
+URL   = http://stream.akroradio.com:10012/Akro.ogg
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = No Title Found!
+
+#307    Random 80   (467 records found)
+URL   = http://ithaca.cdnstream.com:80/1255_32
+GENRE = 2000s Hits Easy Soft 90s Rock Pop 80s Lite
+TITLE = Tears For Fears - Everybody Wants To Rule The World 
+
+#308    Random 80   (467 records found)
+URL   = http://mp3.magic-radio.net:80/320
+GENRE = 80s
+TITLE = INXS - Original Sin
+
+#309    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/180_64.aac
+GENRE = 80s
+TITLE = Ivan - Fotonovela
+
+#310    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/1HITS80s
+GENRE = 80s
+TITLE = Heavenless - Synth pop of 80s
+
+#311    Random 80   (467 records found)
+URL   = http://93.157.62.235:8000/80s
+GENRE = 80s
+TITLE = The Fixx - Are We O
+
+#312    Random 80   (467 records found)
+URL   = http://igor.torontocast.com:1130/stream
+GENRE = pop rock oldies 80s
+TITLE = Def Leppard - Rocket
+
+#313    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90s2000ssuperhitsukchart_64.aac
+GENRE = 80shitsuk
+TITLE = Swing Out Sister - Breakout
+
+#314    Random 80   (467 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2541_128.mp3
+GENRE = 90s. Top 40 80s
+TITLE = Destiny's Child - Independent Women, Pt. 1 - Destiny's Child
+
+#315    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/AIR-Radio-Freestyle
+GENRE = 80's
+TITLE = Kris Tallow - Emotions Game
+
+#316    Random 80   (467 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/1529_128
+GENRE = 80s
+TITLE = ABC - Be Near Me 
+
+#317    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90s2000ssuperhitsukchart_64.aac
+GENRE = 80shitsuk
+TITLE = Lady Gaga - Poker Face
+
+#318    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1751_128
+GENRE = 80s
+TITLE = Bon Jovi - You Give Love A Bad Name
+
+#319    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1742_128
+GENRE = 80s
+TITLE = Blondie - Rapture
+
+#320    Random 80   (467 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2541_128.mp3
+GENRE = 90s. Top 40 80s
+TITLE = Destiny's Child - Independent Women, Pt. 1 - Destiny's Child
+
+#321    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Musica-degli-anni--80
+GENRE = best80
+TITLE = Belinda Carlisle - Circle In The Sand
+
+#322    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1745_128
+GENRE = 80s
+TITLE = Shannon - Let The Music Play
+
+#323    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/4u-80s_64.aac
+GENRE = 80s
+TITLE = Imagination - Just An Illusion
+
+#324    Random 80   (467 records found)
+URL   = http://icecast-ipv6.pulsradio.com:80/puls802HD.mp3
+GENRE = 80s
+TITLE = Bruce Hornsby - The Way It Is
+
+#325    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/ipmusic256
+GENRE = Mixed Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = The Police - Wrapped Around Your Finger *** www.ipmusic.ch
+
+#326    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80ssuperdance
+GENRE = 80sdance
+TITLE = Technotronic - Pump up the Jam
+
+#327    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Musica-degli-anni--80
+GENRE = best80
+TITLE = Belinda Carlisle - Circle In The Sand
+
+#328    Random 80   (467 records found)
+URL   = http://manager2.creativradio.com:2210/stream
+GENRE = 80's
+TITLE = Empty playlist
+
+#329    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Musica-degli-anni--80_64.aac
+GENRE = best80
+TITLE = Musica degli anni 80 - Discovery planet - musica senza tempo 
+
+#330    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/the-cube-retro-radio
+GENRE = 90s Rock Pop 80s
+TITLE = The Pointer Sisters - Dare Me
+
+#331    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Vintage-Radio_64.aac
+GENRE = 80
+TITLE = Lou Reed - Perfect Day
+
+#332    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/RichRadioFm
+GENRE = 80'S
+TITLE = Foreigner - Urgent (Yazoo ituation mix)
+
+#333    Random 80   (467 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/48
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Guardian - The Real Me
+
+#334    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1745_128
+GENRE = 80s
+TITLE = Shannon - Let The Music Play
+
+#335    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Bestofthe80-s
+GENRE = 80
+TITLE = The RAH Band - Clouds Across The Moon
+
+#336    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1762_128
+GENRE = 80s
+TITLE = Phil Collins - Two Hearts
+
+#337    Random 80   (467 records found)
+URL   = http://radio.streemlion.com:4260/stream
+GENRE = 80s
+TITLE = Elton John - Little Jeannie (1980)
+
+#338    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Surf-Radio-80_64.aac
+GENRE = 80's
+TITLE = The Police - Every Little Thing She Does Is Magic
+
+#339    Random 80   (467 records found)
+URL   = http://hearme.fm:8564/stream
+GENRE = 80s
+TITLE = No Title Found!
+
+#340    Random 80   (467 records found)
+URL   = http://webradio.vienna.at:80/vie-80er
+GENRE = 80er
+TITLE = Paul Young - Come Back And Stay
+
+#341    Random 80   (467 records found)
+URL   = http://uplink.intronic.nl:80/goldenflash
+GENRE = 80 Oldies 2000 70 90 60
+TITLE = Regi, Jake Reese, OT - Kom Wat Dichterbij (Uit Liefde Voor Muziek)
+
+#342    Random 80   (467 records found)
+URL   = http://everestcast.shoutcastservices.com:1260/stream
+GENRE = music 80s
+TITLE = Pointer Sisters - Slow Hand
+
+#343    Random 80   (467 records found)
+URL   = http://cast.secureradiocast.co.uk:8000/autodj
+GENRE = 80's pop cheesy 70's 90's
+TITLE = Hazell Dean - Who's Leaving Who [7N]
+
+#344    Random 80   (467 records found)
+URL   = http://live.streamlojik.com:8000/trd2.aac
+GENRE = Turkce Altin 60s 70s Gold Oldies Turkish 80s
+TITLE = No Details Available!
+
+#345    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1734_128
+GENRE = 80s
+TITLE = Blondie - Call Me
+
+#346    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80ssuperhits_64.aac
+GENRE = 80shitsuk
+TITLE = Dream Sequence - Outside Looking In
+
+#347    Random 80   (467 records found)
+URL   = http://queens11369v.softether.net:30016/djspinnercee48
+GENRE = Freestyle R&B and Urban House Disco 80s
+TITLE = Aretha Franklin - Rescue Me * Shades of Soul - CD 1
+
+#348    Random 80   (467 records found)
+URL   = http://151-80-38-142.caramania.net:7004/stream.mp3
+GENRE = sur 80 une seule radio Les années
+TITLE = Europe - The Final Countdown
+
+#349    Random 80   (467 records found)
+URL   = http://stream.salyutfm.ru:8060/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = ÐÐ¾Ð´Ð¸ÑÐ¼ - ÐÐ¼ÑÑÐµÑÐ´Ð°Ð¼
+
+#350    Random 80   (467 records found)
+URL   = http://queens11369v.softether.net:30016/digitalmix128
+GENRE = Freestyle R&B and Urban House Disco 80s
+TITLE = Busta Rhymes - Touch It (Dirty) * Touch It CDS
+
+#351    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/MagicOldiesFlorida
+GENRE = 80's Oldies 60's 70's
+TITLE = Rufus & Chaka Khan - Sweet Thing
+
+#352    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1771_128
+GENRE = 80s
+TITLE = Kenny Rogers, Sheena Easton - We've Got Tonight - Remastered 2006
+
+#353    Random 80   (467 records found)
+URL   = http://radio10.pro-fhi.net:9014/live
+GENRE = 80 MEGA
+TITLE = No Title Found!
+
+#354    Random 80   (467 records found)
+URL   = http://caststream.eu:1080/stream
+GENRE = Greek 90s Pop 80s
+TITLE = Ferry Aid - Let It Be
+
+#355    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/S-LiveMontlucon
+GENRE = 80's
+TITLE = Christine And The Queens - S-live - intro
+
+#356    Random 80   (467 records found)
+URL   = http://151.80.43.143:8048/-aac_autodj.mp3
+GENRE = RnB Funk Dance Soul 80s
+TITLE = The Gap Band - Party Train 
+
+#357    Random 80   (467 records found)
+URL   = http://stream.lolliradio.net:80/lolli_oldies.aac
+GENRE = 70s Disco Pop 80s
+TITLE = Kenny Loggins - Danger Zone
+
+#358    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1750_128
+GENRE = 80s
+TITLE = Dan Fogelberg - Leader Of The Band
+
+#359    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/BDJBerlinDigitalJack
+GENRE = 80's
+TITLE = Man Parrish - Six Simple Synthesizers
+
+#360    Random 80   (467 records found)
+URL   = http://192.99.35.215:5201/autodj
+GENRE = Top RnB 40 Oldies Rock Pop 80s
+TITLE = Stevie Wonder - Golden Lady
+
+#361    Random 80   (467 records found)
+URL   = http://server5.radio-streams.net:8001/live
+GENRE = The 80s
+TITLE = The Four Tops - Let Me Set You Free
+
+#362    Random 80   (467 records found)
+URL   = http://donzilasse.no-ip.biz:8000/listen.aac
+GENRE = s DISCO 70 s And 80
+TITLE = Isley Borthers - That Lady 
+
+#363    Random 80   (467 records found)
+URL   = http://manager2.creativradio.com:1310/stream
+GENRE = 80's
+TITLE = Renaud - Miss Maggie
+
+#364    Random 80   (467 records found)
+URL   = http://upradio.ovh:8054/up-extra
+GENRE = 90s 80s
+TITLE = FINE YOUNG CANNIBALS - THE FLAME (1997)
+
+#365    Random 80   (467 records found)
+URL   = http://stream.akroradio.com:10012/Akro64
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = Le son Rap RnB pendant 2 heures !
+
+#366    Random 80   (467 records found)
+URL   = http://live7.avf.ch:8000/globalfm
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = BANANAFISHBONES - COME TO SIN 1998
+
+#367    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/4u-80s_64.aac
+GENRE = 80s
+TITLE = JF Band - Can't Take My Eyes Off You
+
+#368    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80sPlanet
+GENRE = 80s.pop decades oldies
+TITLE = Kim Wilde - Water On Glass
+
+#369    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1719_128
+GENRE = 80s
+TITLE = Duran Duran - The Wild Boys - Wilder Than Wild Boys Extended Mix
+
+#370    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/irabo-inselradio-borkum
+GENRE = Top 40 90s Pop 80s
+TITLE = Nico Santos - Play With Fire
+
+#371    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/radio-contact-vosges
+GENRE = 80s
+TITLE = Chico & The Gypsies - Malaguena Selerosa
+
+#372    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Bestofthe80-s
+GENRE = 80
+TITLE = The RAH Band - Clouds Across The Moon
+
+#373    Random 80   (467 records found)
+URL   = http://live7.avf.ch:8000/ipmusicslow256
+GENRE = Slow Mixed Adult Radio Soft Rock Pop 80s Various
+TITLE = Katie Melua - Forgetting All My Troubles *** www.ipmusicslow.ch
+
+#374    Random 80   (467 records found)
+URL   = http://uk4.internet-radio.com:8021/autodj
+GENRE = Summer 70s Chart 00s 90s Pop 80s
+TITLE = Treehouse Radio - Media Streaming Info
+
+#375    Random 80   (467 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2279_128.mp3
+GENRE = Classic 70s Rock Pop 80s
+TITLE = Katrina & The Waves - Walking On Sunshine 
+
+#376    Random 80   (467 records found)
+URL   = http://radio.gdma.com:7662/rubik.ogg
+GENRE = Pop 80s
+TITLE = No Title Found!
+
+#377    Random 80   (467 records found)
+URL   = http://stream.salyutfm.ru:8000/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = ÐÐ¾Ð´Ð¸ÑÐ¼ - ÐÐ¼ÑÑÐµÑÐ´Ð°Ð¼
+
+#378    Random 80   (467 records found)
+URL   = http://stream.top80radio.com:8060/live
+GENRE = New wave Disco Rock Pop 80s
+TITLE = YIANNA KATSOULOS - Les autres sont jaloux
+
+#379    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxRetro80s
+GENRE = Oldies Pop 80s
+TITLE = Henry Lee Summer - Hey Baby
+
+#380    Random 80   (467 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1747_128
+GENRE = 80s
+TITLE = Debarge - Who's Holding Donna Now
+
+#381    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/Static-ClassicAltRadio
+GENRE = Classic Alternative 00s 90s 80s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#382    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1760_128
+GENRE = 80s
+TITLE = Robert Palmer - Simply Irresistable
+
+#383    Random 80   (467 records found)
+URL   = http://daniel.torontocast.com:3010/stream
+GENRE = 80s
+TITLE = Richard Marx - Don't Mean Nothing
+
+#384    Random 80   (467 records found)
+URL   = http://jenny.torontocast.com:8014/32
+GENRE = Classic Alternative New-Wave 80s
+TITLE = No Details Available!
+
+#385    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/180
+GENRE = 80s
+TITLE = Heaven 17 - This Is Mine
+
+#386    Random 80   (467 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/64
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Soldier - Borderline
+
+#387    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/BDJPure80s
+GENRE = 80s
+TITLE = Lee Marrow - Shanghai
+
+#388    Random 80   (467 records found)
+URL   = http://webradio.bibzer.com:8000/Nostalgie
+GENRE = Sympa 70-80-90 Music
+TITLE = Clifford Brown - Brownie Speaks - Le FunClub WebRadio
+
+#389    Random 80   (467 records found)
+URL   = http://lynx.prostreaming.net:8109/rockvaultradiouhd
+GENRE = And Metal Rock 80s
+TITLE = Survivor - Eye of the Tiger
+
+#390    Random 80   (467 records found)
+URL   = http://crazystream.net:8000/261
+GENRE = 90s 80s
+TITLE = No Details Available!
+
+#391    Random 80   (467 records found)
+URL   = http://radio.inovaweb.cl:8164/stream
+GENRE = 70s 80s
+TITLE = FRECUENCIA 80 (Capitulo 07)
+
+#392    Random 80   (467 records found)
+URL   = http://server.webnetradio.net:5201/autodj
+GENRE = Top RnB 40 Oldies Rock Pop 80s
+TITLE = Gino Vannelli - Living Inside Myself
+
+#393    Random 80   (467 records found)
+URL   = http://lynx.prostreaming.net:8115/rockvaultradiohd
+GENRE = And Metal Rock 80s
+TITLE = Survivor - Eye of the Tiger
+
+#394    Random 80   (467 records found)
+URL   = http://bitsmitter.com:8006/archive80s
+GENRE = 80s
+TITLE = SOS Band - The Finest
+
+#395    Random 80   (467 records found)
+URL   = http://sv2.vestaradio.com:8000/Mixlaradioetudiante
+GENRE = 90s 80s
+TITLE = Tom Gregory - Fingertips
+
+#396    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Bruxelles-news
+GENRE = 80
+TITLE = Sade - Smooth Operator
+
+#397    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = The Clash - Train In Vain (Stand By Me)
+
+#398    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1787_128
+GENRE = 80s
+TITLE = Duran Duran - The Wild Boys - Wilder Than Wild Boys Extended Mix
+
+#399    Random 80   (467 records found)
+URL   = http://bitsmitter.com:8006/omr.ogg
+GENRE = 60s 70s decades oldies 80s
+TITLE = No Title Found!
+
+#400    Random 80   (467 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/1529_128
+GENRE = 80s
+TITLE = THIS STATION WILL CONTINUE AFTER THIS BREAK
+
+#401    Random 80   (467 records found)
+URL   = http://bitsmitter.com:8006/dinofm.ogg
+GENRE = 60s 70s Oldies Decades 80s
+TITLE = No Title Found!
+
+#402    Random 80   (467 records found)
+URL   = http://live7.avf.ch:8000/ipmusicslow160
+GENRE = Slow Mixed Adult Radio Soft Rock Pop 80s Various
+TITLE = Katie Melua - Forgetting All My Troubles *** www.ipmusicslow.ch
+
+#403    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/Dynamic80_64.aac
+GENRE = 80
+TITLE = Dire Straits - Walk Of Life
+
+#404    Random 80   (467 records found)
+URL   = http://stream.nightride.fm/nightride.ogg
+GENRE = darksynth retrowave outrun cyberpunk electronic darkwave synthpop synthwave various 80s
+TITLE = No Details Available!
+
+#405    Random 80   (467 records found)
+URL   = http://icecast-ipv6.pulsradio.com:80/puls802AAC64.mp3
+GENRE = 80s
+TITLE = Bruce Hornsby - The Way It Is
+
+#406    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/ExtremeHits
+GENRE = 80
+TITLE = U2 - Discotheque
+
+#407    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxClassicRock
+GENRE = 70s Classic Rock 80s
+TITLE = Georgia Satellites - Keep Your Hands To Yourself
+
+#408    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/awesome-80s-hd
+GENRE = oldies 80s
+TITLE = Foreigner - Say You Will
+
+#409    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/the-cube-retro-radio
+GENRE = 90s Rock Pop 80s
+TITLE = Ace Frehley - Do Ya
+
+#410    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/S-LiveMontlucon
+GENRE = 80's
+TITLE = Maitre Gims - Tu Vas Me Manquer
+
+#411    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s-New-Wave_64.aac
+GENRE = 80s
+TITLE = Thompson Twins - You Take Me Up
+
+#412    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80s90ssuperpophits
+GENRE = pop80s&90s
+TITLE = George Michael & Elton John - Don't Let the Sun Go Down on Me
+
+#413    Random 80   (467 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1753_128
+GENRE = 80s
+TITLE = Marvin Gaye - Sexual Healing
+
+#414    Random 80   (467 records found)
+URL   = http://centova.pure-isp.eu:8009/ultra_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Culture Club - God Thank You Woman (12in) [B7]
+
+#415    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/bleudream-80_64.aac
+GENRE = 80s
+TITLE = Westlife - Up Town Girl (Extended)
+
+#416    Random 80   (467 records found)
+URL   = http://192.99.37.181:8030/live
+GENRE = Wave 80's New Alternative Rock
+TITLE = Tears For Fears - Change  ***  80's New Wave Radio  ***  MusicAntenna.com
+
+#417    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s90shitsradio_64.aac
+GENRE = 80spop
+TITLE = Sandra - In The Heat Of The Night (Single Version)
+
+#418    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/80s90ssuperdance
+GENRE = 80sdance
+TITLE = INXS - New Sensation
+
+#419    Random 80   (467 records found)
+URL   = http://live7.avf.ch:8000/ipmusic160
+GENRE = Mixed Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = No Title Found!
+
+#420    Random 80   (467 records found)
+URL   = http://jenny.torontocast.com:8048/32
+GENRE = Classic Alternative New-Wave 80s
+TITLE = No Details Available!
+
+#421    Random 80   (467 records found)
+URL   = http://streaming316.radionomy.com:80/latina-clasica
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#422    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmdabvd
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = BANANAFISHBONES - COME TO SIN 1998
+
+#423    Random 80   (467 records found)
+URL   = http://stream.big1.nl:8000/stream
+GENRE = 60s 70s 90s Pop 80s
+TITLE = Phil Collins - Do You Remember 
+
+#424    Random 80   (467 records found)
+URL   = https://stream.laut.fm/100080er
+GENRE = Oldies Decades Rock Pop 80s
+TITLE = No Details Available!
+
+#425    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = Eric Burdon & the Animals - We Gotta Get Out of This Place
+
+#426    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90s2000ssuperhitsukchart
+GENRE = 80shitsuk
+TITLE = Freak Power - Turn On, Tune In, Cop Out
+
+#427    Random 80   (467 records found)
+URL   = http://www.pluz.com.ar:8020/live.opus
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = No Title Found!
+
+#428    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/BDJPure80s
+GENRE = 80s
+TITLE = Lee Marrow - Shanghai
+
+#429    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/MagicOldiesFlorida
+GENRE = 80's Oldies 60's 70's
+TITLE = Rufus & Chaka Khan - Sweet Thing
+
+#430    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/BDJBerlinDigitalJack
+GENRE = 80's
+TITLE = Man Parrish - Six Simple Synthesizers
+
+#431    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90ssuperpophits
+GENRE = pop80s&90s
+TITLE = George Michael & Elton John - Don't Let the Sun Go Down on Me
+
+#432    Random 80   (467 records found)
+URL   = http://ingest.b1.stream24.net:80/radio8-in.aac
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Nik Kershaw - The Riddle
+
+#433    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80sforeveryoung
+GENRE = pop80s
+TITLE = Scritti Politti - Perfect Way
+
+#434    Random 80   (467 records found)
+URL   = http://bitsmitter.com:9000/omr
+GENRE = 60s 70s Oldies Decades 80s
+TITLE = No Title Found!
+
+#435    Random 80   (467 records found)
+URL   = http://s5.radionetz.de:80/0n-greatesthits_app.mp3
+GENRE = 2010s 2000s Hits Black Hiphop 2010er Dance 90er 2000er 90s 80er Rock Pop 80s
+TITLE = George Michael - Father Figure 
+
+#436    Random 80   (467 records found)
+URL   = http://video1.getstreamhosting.com:8926/stream
+GENRE = 90s 80s
+TITLE = No Details Available!
+
+#437    Random 80   (467 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2383_48.aac
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = The Four Tops - If I Were A Carpenter
+
+#438    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/lfmHQ
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = No Title Found!
+
+#439    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/Musica-degli-anni--80_64.aac
+GENRE = best80
+TITLE = Musica degli anni 80 - Discovery planet - musica senza tempo 
+
+#440    Random 80   (467 records found)
+URL   = http://fred.torontocast.com:2370/stream
+GENRE = 70s oldies 80s
+TITLE = Meat Loaf - Paradise By the Dashboard Light
+
+#441    Random 80   (467 records found)
+URL   = http://192.99.37.181:8030/stream
+GENRE = Wave 80's New Alternative Rock
+TITLE = Tears For Fears - Change *** 80's New Wave Radio *** MusicAntenna.com
+
+#442    Random 80   (467 records found)
+URL   = http://streaming211.radionomy.com:80/4u-80s
+GENRE = 80s
+TITLE = Christopher Cross - Arthur's Theme (Best That You Can Do)
+
+#443    Random 80   (467 records found)
+URL   = http://qmr.hopto.org:7014/stream
+GENRE = 80's
+TITLE = Bucks Fizz - Land Of Make Believe
+
+#444    Random 80   (467 records found)
+URL   = http://lighttown.ddns.net:8000/live.aacp
+GENRE = funk house pop classics 70s 00s rock electro 90s dance 80s punk
+TITLE = Live From AreA O-Four-O: phenomenia - who is elvis
+
+#445    Random 80   (467 records found)
+URL   = http://manager4.streamradio.fr:1530/stream
+GENRE = 80's
+TITLE = Herve Cristianni - Il est libre Max
+
+#446    Random 80   (467 records found)
+URL   = http://themighty690.radioca.st:80/streams/128kbps?yp=3
+GENRE = 80's
+TITLE = Thompson Twins - Hold Me Now
+
+#447    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/BDJItaloDisco
+GENRE = 80´s
+TITLE = Mirage - Just One More Chance
+
+#448    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmlowvd
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = BANANAFISHBONES - COME TO SIN 1998
+
+#449    Random 80   (467 records found)
+URL   = http://stream.diamondstation.live:2086/stream.aac
+GENRE = Disco 90s 80s
+TITLE = No Details Available!
+
+#450    Random 80   (467 records found)
+URL   = http://live9.avf.ch:8000/globalfmdabge
+GENRE = Mixed Sport Adult Disco Radio Top40 Rock Pop 80s Various
+TITLE = BANANAFISHBONES - COME TO SIN 1998
+
+#451    Random 80   (467 records found)
+URL   = http://taliadon.ddns.net:22000/tps80s
+GENRE = Pop Music 80s
+TITLE = No Title Found!
+
+#452    Random 80   (467 records found)
+URL   = http://nr5.newradio.it:8531/stream2
+GENRE = ANNI DISCO 80 90
+TITLE = 06 RADIO 90 MIX 320kbps - 06 RADIO 90 MIX 320kbps
+
+#453    Random 80   (467 records found)
+URL   = http://stream.syntheticfm.com:8030/stream
+GENRE = New electronic Disco Italo 80s
+TITLE = De Mist In Met Ab - Ff Beuken Deel 7
+
+#454    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80ssuperhits_64.aac
+GENRE = 80shitsuk
+TITLE = Peter Gabriel - Solsbury Hill
+
+#455    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80s90shitsradio
+GENRE = 80spop
+TITLE = Mory KantÃ© - Yeke Yeke
+
+#456    Random 80   (467 records found)
+URL   = http://uk7.internet-radio.com:8281/live
+GENRE = Smooth Rock-Lounge-Chill-Soul-Disco-funk-New Jazz-Pop Wave-60s-70s-80s-90s-2000s-Easy Listening
+TITLE = Dillinger - Cocaine In My Brain
+
+#457    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/80sCR
+GENRE = 80scr
+TITLE = Sweet Connection - Need Your Passion
+
+#458    Random 80   (467 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/1529_128
+GENRE = 80s
+TITLE = White Lion - Wait 
+
+#459    Random 80   (467 records found)
+URL   = http://s37.derstream.net:80/radio-112.mp3
+GENRE = Rock Pop 80s
+TITLE = Vitaa, Slimane - Avant Toi 
+
+#460    Random 80   (467 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1761_128
+GENRE = 80s
+TITLE = Jody Watley - Looking For A New Love Baby
+
+#461    Random 80   (467 records found)
+URL   = http://radiocp.from-dc.com:1120/stream
+GENRE = Zabavna 70s 90s Pop 80s
+TITLE = DALEKA OBALA - 80E (MHJ98)
+
+#462    Random 80   (467 records found)
+URL   = http://ec1.everestcast.host:1130/stream
+GENRE = 60s 70s smooth jazz Pop 90s00 80s
+TITLE = TEARS_AND_SOUVENIRS
+
+#463    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s-New-Wave
+GENRE = 80s
+TITLE = Robert Palmer - Simply Irresistible
+
+#464    Random 80   (467 records found)
+URL   = http://streaming307.radionomy.com:80/80s-New-Wave_64.aac
+GENRE = 80s
+TITLE = Journey - Send Her My Love
+
+#465    Random 80   (467 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxRetro80s
+GENRE = Oldies Pop 80s
+TITLE = The Sailcats - Make It On Our Own
+
+#466    Random 80   (467 records found)
+URL   = http://stream.salyutfm.ru:8070/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = Aize - Ð Ð¢ÐµÐ±Ðµ
+
+#467    Random 80   (467 records found)
+URL   = http://www.pluz.com.ar:8020/live.mp3
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = Radio Pluz Online
+
+Runtime (in seconds): 382
+
