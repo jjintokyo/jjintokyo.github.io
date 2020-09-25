@@ -1,0 +1,1112 @@
+#1    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Kurt David - Takin' Ya Back 70s Edition
+
+#2    Random 70   (222 records found)
+URL   = http://server-26.stream-server.nl:8192/autodj
+GENRE = 60s 70s oldies
+TITLE = Unknown
+
+#3    Random 70   (222 records found)
+URL   = http://radiostreamserver.de:80/wunschradio-70er.mp3
+GENRE = 70s 70er Seventies Rock
+TITLE = Motörhead - Bomber
+
+#4    Random 70   (222 records found)
+URL   = http://radio.ready2play.fr:1160/stream
+GENRE = new wave pop 70s 80s punk
+TITLE = Reflex - The Politics of Dancing
+
+#5    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1743_128
+GENRE = 70s
+TITLE = Hot Butter - Popcorn
+
+#6    Random 70   (222 records found)
+URL   = http://hazel.torontocast.com:3130/stream
+GENRE = 80s and 90s Classic Hits from the 70s
+TITLE = Player - Baby Come Back
+
+#7    Random 70   (222 records found)
+URL   = http://c3.radioboss.fm:8178/autodj
+GENRE = 60s 70s Classic Rock Rock 80s
+TITLE = The Knack - My Sharona
+
+#8    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1764_128
+GENRE = 70s
+TITLE = Jimmy Buffett - Margaritaville
+
+#9    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1743_128
+GENRE = 70s
+TITLE = Hot Butter - Popcorn
+
+#10    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = REO Speedwagon -  Keep Pushin'
+
+#11    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/ASFALTRADIO
+GENRE = Années70
+TITLE = The Equals - Viva Bobby Joe
+
+#12    Random 70   (222 records found)
+URL   = http://dsl.rasat.tv:8300/rsv1.nsv
+GENRE = Trance Techno Goa 70s House Dance Video 90s Rock Pop 80s
+TITLE = .::: Radio-Satisfaction :::.
+
+#13    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxClassicRock
+GENRE = 70s Classic Rock 80s
+TITLE = Eric Clapton - Let It Rain
+
+#14    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1732_128
+GENRE = 70s
+TITLE = .113FM - Be Right Back!
+
+#15    Random 70   (222 records found)
+URL   = http://uk4.internet-radio.com:8021/autodj
+GENRE = Summer 70s Chart 00s 90s Pop 80s
+TITLE = Treehouse Radio - Sweeper - We Play Your Music
+
+#16    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/WMYQMiamiRadio_64.aac
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#17    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1743_128
+GENRE = 70s
+TITLE = Hot Butter - Popcorn
+
+#18    Random 70   (222 records found)
+URL   = http://s5.radionetz.de:80/0n-disco_app.mp3
+GENRE = 70s 70er Oldies Funk Disco Soul 80er Pop 80s
+TITLE = Billy Ocean - Nights (Feel Like Gettin' Down) 
+
+#19    Random 70   (222 records found)
+URL   = http://arabella.stream.kapper.net:8002/arabellaooe
+GENRE = Hits 70s Oldies AustroPop Pop 80s
+TITLE = Visage  - Fade To Grey
+
+#20    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/AllTime70s80sGreatest_64.aac
+GENRE = 70s
+TITLE = Roxy Music - Same Old Scene
+
+#21    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/80-s-DiscoPopRock
+GENRE = 70's
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#22    Random 70   (222 records found)
+URL   = http://qmr.hopto.org:7012/stream
+GENRE = 70's
+TITLE = Sailor - Girls, Girls, Girls
+
+#23    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1759_128
+GENRE = 70s
+TITLE = Focus - Hocus Pocus
+
+#24    Random 70   (222 records found)
+URL   = http://wisesoft.ddns.net:8000/live60_70
+GENRE = Classics JTR Decades 70 mp3 RBPI2 Rock 60
+TITLE = David Bowie - Life On Mars
+
+#25    Random 70   (222 records found)
+URL   = http://server-67.stream-server.nl:8190/autodj
+GENRE = 60s 70s oldies
+TITLE = Lynn Anderson - Rose Garden
+
+#26    Random 70   (222 records found)
+URL   = http://manager1.creativradio.pro:1280/stream
+GENRE = 80 70 vintage 90
+TITLE = origines: Serge Gainsbourg - La DÃ©cadanse - & Jane Birkin (1971)
+
+#27    Random 70   (222 records found)
+URL   = http://stream.big1.nl:8000/stream
+GENRE = 60s 70s 90s Pop 80s
+TITLE = Simple Minds - Alive And Kicking 
+
+#28    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/1000-HITS-Sweet-Radio
+GENRE = 70s
+TITLE = Mirva - Barriers
+
+#29    Random 70   (222 records found)
+URL   = http://radio.streemlion.com:2580/stream
+GENRE = new pop 70s 00s rock wave 90s 80s
+TITLE = Empty playlist
+
+#30    Random 70   (222 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/1120_128
+GENRE = 70s
+TITLE = No Title Found!
+
+#31    Random 70   (222 records found)
+URL   = http://donzilasse.no-ip.biz:8000/listen.aac
+GENRE = s DISCO 70 s And 80
+TITLE = Francesco Napoli - Balla... Balla Vol. 1 
+
+#32    Random 70   (222 records found)
+URL   = http://stream.streamaudio.de:8000/funky-corner-radio.ogg
+GENRE = R&B 70s Disco Philadelphia Soul
+TITLE = No Title Found!
+
+#33    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/1HITS70s_64.aac
+GENRE = 70s
+TITLE = Majed Salih - Budapest
+
+#34    Random 70   (222 records found)
+URL   = http://cast.secureradiocast.co.uk:8000/autodj
+GENRE = 80's pop cheesy 70's 90's
+TITLE = Roxy Music - Love Is A Drug [e0]
+
+#35    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1732_128
+GENRE = 70s
+TITLE = .113FM - Be Right Back!
+
+#36    Random 70   (222 records found)
+URL   = http://bitsmitter.com:8006/omr.ogg
+GENRE = 60s 70s decades oldies 80s
+TITLE = No Title Found!
+
+#37    Random 70   (222 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2383_128.mp3
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Diana Ross - Im Gonna Make You Love Me (ft The Temptations)
+
+#38    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/1HITS70s_64.aac
+GENRE = 70s
+TITLE = GingerTom - Piano Bar
+
+#39    Random 70   (222 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/1683_128
+GENRE = Disco and Funk 70s Top 40 Rock
+TITLE = American Top 40 with Casey Kasem - Original Airdate week of 9/11/71 
+
+#40    Random 70   (222 records found)
+URL   = http://bitsmitter.com:9000/omr
+GENRE = 60s 70s Oldies Decades 80s
+TITLE = No Title Found!
+
+#41    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1758_128
+GENRE = 70s
+TITLE = Eddie Kendricks - Shoeshine Boy
+
+#42    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1757_128
+GENRE = 70s
+TITLE = War - Summer
+
+#43    Random 70   (222 records found)
+URL   = http://ingest.a3.stream24.net:80/radio8-in.mp3
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Madonna - Like A Prayer
+
+#44    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/A11-Radio-Dreams-90s_64.aac
+GENRE = 80 70 90
+TITLE = Fleur East - Alan Walker, Ava Max - Alone, Pt. II (A11-RADIO-DREAMS-90S)
+
+#45    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1763_128
+GENRE = 70s
+TITLE = 113.fm Hits - Drop B
+
+#46    Random 70   (222 records found)
+URL   = http://46.4.48.7:8736/autodj
+GENRE = 70s 90s 80s
+TITLE = DONNA SUMMER - THIS TIME I KNOW IT'S FOR REAL [2bq]
+
+#47    Random 70   (222 records found)
+URL   = http://fred.torontocast.com:2370/stream
+GENRE = 70s oldies 80s
+TITLE = Santana - Hold On
+
+#48    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1722_128
+GENRE = 70s
+TITLE = The Kinks - Lola - Coca Cola Version
+
+#49    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/70sPopUp
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#50    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/4U-70s
+GENRE = 70s
+TITLE = Neil Young - Helpless
+
+#51    Random 70   (222 records found)
+URL   = http://hazel.torontocast.com:1840/stream
+GENRE = 50's from the 60's 70's Music
+TITLE = Raydio - You Can't Change That
+
+#52    Random 70   (222 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2279_128.mp3
+GENRE = Classic 70s Rock Pop 80s
+TITLE = Joe Walsh - The Confessor 
+
+#53    Random 70   (222 records found)
+URL   = http://server1.harmonyradio.be:8000/harmonyradio.mp3
+GENRE = 60s Easy Listening 70s Oldies
+TITLE = Formule II - Dou Dou L'amour
+
+#54    Random 70   (222 records found)
+URL   = http://centova.pure-isp.eu:8009/high_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Sonora Porcena - El Pio Pio [10E]
+
+#55    Random 70   (222 records found)
+URL   = http://server-27.stream-server.nl:8192/backup
+GENRE = 60s 70s oldies
+TITLE = Ronny Harnie presenteert - Black Music Power
+
+#56    Random 70   (222 records found)
+URL   = http://joserver.dyndns.org:8050/live2
+GENRE = 70s Oldies 90s Pop 80s
+TITLE = Shakin' Stevens - Give Me Your Heart Tonight
+
+#57    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/Sunrisetosunset
+GENRE = 70
+TITLE = Amant - In New York
+
+#58    Random 70   (222 records found)
+URL   = http://qmr.hopto.org:7054/stream
+GENRE = 70's
+TITLE = Sailor - Girls, Girls, Girls
+
+#59    Random 70   (222 records found)
+URL   = http://manager1.creativradio.pro:2350/stream
+GENRE = jour Club a ce 70-80-90 disco
+TITLE = PL RadioPhoeNiX.fr: e-Flau! - Dancefloor 2000 Live Session
+
+#60    Random 70   (222 records found)
+URL   = http://live.topfm.hu:8000/oldies.mp3
+GENRE = 60s 70s Oldies 50s 80s
+TITLE = AC - DC - Money Talks (1991)
+
+#61    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1764_128
+GENRE = 70s
+TITLE = Jimmy Buffett - Margaritaville
+
+#62    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Kurt David - Takin' Ya Back 70s Edition
+
+#63    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/70sPopUp_64.aac
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#64    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/80-s-DiscoPopRock
+GENRE = 70's
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#65    Random 70   (222 records found)
+URL   = http://larry.torontocast.com:1790/stream
+GENRE = 60s 70s 90s 80s
+TITLE = David Rose And His Orchestra - The Stripper
+
+#66    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxSuper70s
+GENRE = 70s
+TITLE = Commodores - Sweet Love
+
+#67    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxSuper70s
+GENRE = 70s
+TITLE = Commodores - Sweet Love
+
+#68    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/Sunrisetosunset_64.aac
+GENRE = 70
+TITLE = Jack Jones - This Could Be The Start Of Something
+
+#69    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/70sPopUp
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#70    Random 70   (222 records found)
+URL   = http://play.radioftb.net:8006/stream
+GENRE = 70s radio Top40 music 90s Rock Pop 80s
+TITLE = No Title Found!
+
+#71    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/1HITS70s
+GENRE = 70s
+TITLE = Claudio Spiewak - Coast to Coast
+
+#72    Random 70   (222 records found)
+URL   = http://fmsentir.sytes.net:443/stream
+GENRE = Top 40 70s Easy Oldies 90s Listening Rock Pop 80s
+TITLE = Erasure - Breath Of Life
+
+#73    Random 70   (222 records found)
+URL   = http://everestcast.shoutcastservices.com:1240/stream
+GENRE = 60s 70s
+TITLE = Solid Gold 60s 83
+
+#74    Random 70   (222 records found)
+URL   = http://radio4.vip-radios.fm:8008/stream-mp3-Funk_autodj
+GENRE = 70s Funk Disco
+TITLE = Curtis Hairston - Chillin Out
+
+#75    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/A11-Radio-Dreams-90s
+GENRE = 80 70 90
+TITLE = Chroniques - Sorties CinÃ©ma (A11-RADIO-DREAMS-90S)
+
+#76    Random 70   (222 records found)
+URL   = http://server-26.stream-server.nl:8192/backup
+GENRE = 60s 70s oldies
+TITLE = Beach Boys - Let's go away for awile  '66
+
+#77    Random 70   (222 records found)
+URL   = http://uk7.internet-radio.com:8281/live
+GENRE = Smooth Rock-Lounge-Chill-Soul-Disco-funk-New Jazz-Pop Wave-60s-70s-80s-90s-2000s-Easy Listening
+TITLE = Chris Rea - The road to hell
+
+#78    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/WMYQMiamiRadio
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#79    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/MagicOldies
+GENRE = 80's Oldies 60's 70's
+TITLE = I Saw Her Again Last Night - Mamas & Papas (1966)
+
+#80    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/AllTime70s80sGreatest
+GENRE = 70s
+TITLE = Toto - Africa
+
+#81    Random 70   (222 records found)
+URL   = http://bitsmitter.com:8006/dinofm.ogg
+GENRE = 60s 70s Oldies Decades 80s
+TITLE = No Title Found!
+
+#82    Random 70   (222 records found)
+URL   = http://www.pluz.com.ar:8020/live.opus
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = No Title Found!
+
+#83    Random 70   (222 records found)
+URL   = http://ec1.everestcast.host:1270/stream
+GENRE = 60s 70s smooth jazz Pop 90s00 80s
+TITLE = COMING_AROUND_AGAIN
+
+#84    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1764_128
+GENRE = 70s
+TITLE = Jimmy Buffett - Margaritaville
+
+#85    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1754_128
+GENRE = 70s
+TITLE = 113.fm Hits - Drop B
+
+#86    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/Static-Punk
+GENRE = rickman 70s rock 80s punk
+TITLE = The Replacements - Bastards of Young
+
+#87    Random 70   (222 records found)
+URL   = http://ec1.yesstreaming.net:1180/stream
+GENRE = s pop 80 Hits Club Oldschool electronic 2000 s 70 90 60 dance
+TITLE = Stream: Juice WRLD - All Girls Are The Same
+
+#88    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1763_128
+GENRE = 70s
+TITLE = Bob Welch - Sentimental Lady
+
+#89    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1756_128
+GENRE = 70s
+TITLE = Lamont Dozier - Trying To Hold On To My Woman
+
+#90    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/MagicOldiesFlorida
+GENRE = 80's Oldies 60's 70's
+TITLE = Monotones - Book of Love
+
+#91    Random 70   (222 records found)
+URL   = http://lighttown.ddns.net:8000/live.aacp
+GENRE = funk house pop classics 70s 00s rock electro 90s dance 80s punk
+TITLE = Live From AreA O-Four-O: Paul van Dyk - Beautiful Place
+
+#92    Random 70   (222 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2383_128.mp3
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Diana Ross - Im Gonna Make You Love Me (ft The Temptations)
+
+#93    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/1000-HITS-Sweet-Radio_64.aac
+GENRE = 70s
+TITLE = The Lou Project - Illusion
+
+#94    Random 70   (222 records found)
+URL   = http://server-67.stream-server.nl:8190/backup
+GENRE = 60s 70s oldies
+TITLE = Beach Boys - Let's go away for awile  '66
+
+#95    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1757_128
+GENRE = 70s
+TITLE = War - Summer
+
+#96    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/radio-molonco
+GENRE = hit70
+TITLE = The Psychedelic Furs - Heartbreak Beat
+
+#97    Random 70   (222 records found)
+URL   = http://85.214.167.78:15000/rasat.ogg
+GENRE = Trance Techno Goa 70s House Dance Video 90s Rock Pop 80s
+TITLE = No Title Found!
+
+#98    Random 70   (222 records found)
+URL   = http://kathy.torontocast.com:1060/stream
+GENRE = folk 60s 70s reggae soul rock
+TITLE = Phil Ochs - That's What I Want To Hear -1965
+
+#99    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1732_128
+GENRE = 70s
+TITLE = 113.fm Hits - Drop B
+
+#100    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1739_128
+GENRE = 70s
+TITLE = Cornelius Brothers & Sister Rose - Treat Her Like A Lady
+
+#101    Random 70   (222 records found)
+URL   = http://ingest.b1.stream24.net:80/radio8-in.mp3
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Madonna - Like A Prayer
+
+#102    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/AllTime70s80sGreatest
+GENRE = 70s
+TITLE = Toto - Africa
+
+#103    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/ASFALTRADIO
+GENRE = Années70
+TITLE = BronzÃ©s - 0pourcentage
+
+#104    Random 70   (222 records found)
+URL   = http://server-26.stream-server.nl:8192/192radio
+GENRE = 60s 70s oldies
+TITLE = Beach Boys - Let's go away for awile  '66
+
+#105    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/1000-HITS-Sweet-Radio_64.aac
+GENRE = 70s
+TITLE = Florens - Trip
+
+#106    Random 70   (222 records found)
+URL   = http://hazel.torontocast.com:3120/stream
+GENRE = 80s and 90s Classic Hits from the 70s
+TITLE = Player - Baby Come Back
+
+#107    Random 70   (222 records found)
+URL   = http://fmsentir.sytes.net:443/stream.mp3
+GENRE = Top 40 70s Easy Oldies 90s Listening Rock Pop 80s
+TITLE = No Title Found!
+
+#108    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1758_128
+GENRE = 70s
+TITLE = Eddie Kendricks - Shoeshine Boy
+
+#109    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/Static-Punk
+GENRE = rickman 70s rock 80s punk
+TITLE = The Replacements - Bastards of Young
+
+#110    Random 70   (222 records found)
+URL   = http://webradio.bibzer.com:8000/Nostalgie
+GENRE = Sympa 70-80-90 Music
+TITLE = Philippe Lavil - Il tape sur des bambous - Le FunClub WebRadio
+
+#111    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/ASFALTRADIO_64.aac
+GENRE = Années70
+TITLE = Pretty - Professionnelle
+
+#112    Random 70   (222 records found)
+URL   = http://ecast.myautodj.com:1990/stream
+GENRE = 70s Rock Country 80s
+TITLE = AutoDJ: The Police - So Lonely
+
+#113    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/1HITS70s_64.aac
+GENRE = 70s
+TITLE = Chill Carrier - Sunrise
+
+#114    Random 70   (222 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2383_48.aac
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Diana Ross - Im Gonna Make You Love Me (ft The Temptations)
+
+#115    Random 70   (222 records found)
+URL   = http://kmr.iad.streamguys1.com:80/bellbottoms
+GENRE = Hits 70's
+TITLE = No Title Found!
+
+#116    Random 70   (222 records found)
+URL   = http://bitsmitter.com:9000/omrhi
+GENRE = 60s 70s Oldies Decades 80s
+TITLE = No Title Found!
+
+#117    Random 70   (222 records found)
+URL   = http://nr11.newradio.it:9208/stream
+GENRE = 80 70 90
+TITLE = A-HA - I'VE BEEN LOSING YOU (1986)
+
+#118    Random 70   (222 records found)
+URL   = http://arabella.stream.kapper.net:8019/arabella70er
+GENRE = 70s
+TITLE = No Title Found!
+
+#119    Random 70   (222 records found)
+URL   = http://hazel.torontocast.com:1850/stream
+GENRE = 50's from the 60's 70's Music
+TITLE = Raydio - You Can't Change That
+
+#120    Random 70   (222 records found)
+URL   = http://listen.011fm.com:9000/stream04
+GENRE = 70s
+TITLE = Rod Stewart - Da Ya Think I'm Sexy? 
+
+#121    Random 70   (222 records found)
+URL   = http://kappa.radioplayer.com.ar:9130/netclassic903
+GENRE = 80's 70's 90's
+TITLE = No Title Found!
+
+#122    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/UrbanRadio-ClassicRnB
+GENRE = 70s
+TITLE = Dazz Band - Let It Whip 
+
+#123    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/70sPopUp_64.aac
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#124    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxDiscoClassics
+GENRE = Dance Pop Bubblegum Pop 70s Oldies Disco Dance
+TITLE = Eddie Kendricks - Boogie Down
+
+#125    Random 70   (222 records found)
+URL   = http://arabella.stream.kapper.net:8001/arabellanoe
+GENRE = Hits 70s Oldies AustroPop Pop 80s
+TITLE = Lionel Richie  - All Night Long
+
+#126    Random 70   (222 records found)
+URL   = http://comet.shoutca.st:8279/stream3_autodj
+GENRE = 70s 90s 80s
+TITLE = Dik Dik - Vendo Casa
+
+#127    Random 70   (222 records found)
+URL   = http://stream.deventerrtv.nl:8000/mp3
+GENRE = 60s 70s 00s 90s 10s Pop 80s
+TITLE = Pointer Sisters, The - Jump (For My Love)
+
+#128    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/80-s-DiscoPopRock_64.aac
+GENRE = 70's
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#129    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/A11-Radio-Dreams-90s_64.aac
+GENRE = 80 70 90
+TITLE = Chroniques - Sorties CinÃ©ma (A11-RADIO-DREAMS-90S)
+
+#130    Random 70   (222 records found)
+URL   = http://93.157.62.235:8000/70s
+GENRE = 70s
+TITLE = Jim Croce - Time In A Bottle
+
+#131    Random 70   (222 records found)
+URL   = http://5.63.151.52:7148/autodj
+GENRE = 60s chanson 70s french oldies
+TITLE = Dalida - Bras dessus, bras dessous [1960]
+
+#132    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/Sunrisetosunset
+GENRE = 70
+TITLE = Rodney Crowell - VoilÃ¡, An American Dream
+
+#133    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/1HITS70s
+GENRE = 70s
+TITLE = Claudio Spiewak - Coast to Coast
+
+#134    Random 70   (222 records found)
+URL   = http://stream.lolliradio.net:80/lolli_oldies.aac
+GENRE = 70s Disco Pop 80s
+TITLE = Village People - San Francisco
+
+#135    Random 70   (222 records found)
+URL   = http://server-27.stream-server.nl:8192/192radio
+GENRE = 60s 70s oldies
+TITLE = Beach Boys - Let's go away for awile  '66
+
+#136    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/A11-Radio-Dreams-90s
+GENRE = 80 70 90
+TITLE = Chroniques - Sorties CinÃ©ma (A11-RADIO-DREAMS-90S)
+
+#137    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1754_128
+GENRE = 70s
+TITLE = John Stewart - Gold
+
+#138    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/Sunrisetosunset
+GENRE = 70
+TITLE = Targetspot - TargetSpot
+
+#139    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/ASFALTRADIO_64.aac
+GENRE = Années70
+TITLE = The Andrews Sisters - Sing, Sing, Sing
+
+#140    Random 70   (222 records found)
+URL   = http://www.pluz.com.ar:8020/live.aac
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = Radio Pluz Online
+
+#141    Random 70   (222 records found)
+URL   = http://stream.deventerrtv.nl:8000/stream
+GENRE = 60s 70s 00s 90s 10s Pop 80s
+TITLE = Pointer Sisters, The - Jump (For My Love)
+
+#142    Random 70   (222 records found)
+URL   = http://wisesoft.ddns.net:8000/liveSuperSoul
+GENRE = Classics JTR Decades 70 mp3 Soul RBPI2 60
+TITLE = Toots & The Maytals - Daddy's Home
+
+#143    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxSuper70s
+GENRE = 70s
+TITLE = Commodores - Sweet Love
+
+#144    Random 70   (222 records found)
+URL   = http://ingest.b1.stream24.net:80/radio8-in.aac
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Madonna - Like A Prayer
+
+#145    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/radio-molonco
+GENRE = hit70
+TITLE = The Psychedelic Furs - Heartbreak Beat
+
+#146    Random 70   (222 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2383_128.mp3
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Diana Ross - Im Gonna Make You Love Me (ft The Temptations)
+
+#147    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxDiscoClassics
+GENRE = Dance Pop Bubblegum Pop 70s Oldies Disco Dance
+TITLE = Eddie Kendricks - Boogie Down
+
+#148    Random 70   (222 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2383_48.aac
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Diana Ross - Im Gonna Make You Love Me (ft The Temptations)
+
+#149    Random 70   (222 records found)
+URL   = http://live.streamlojik.com:8000/trd2.aac
+GENRE = Turkce Altin 60s 70s Gold Oldies Turkish 80s
+TITLE = No Details Available!
+
+#150    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/radio-molonco
+GENRE = hit70
+TITLE = The Psychedelic Furs - Heartbreak Beat
+
+#151    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/MagicOldies
+GENRE = 80's Oldies 60's 70's
+TITLE = Paul Simon - Loves Me Like A Rock
+
+#152    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/UrbanRadio-ClassicRnB
+GENRE = 70s
+TITLE = Dazz Band - Let It Whip 
+
+#153    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/UrbanRadio-ClassicRnB
+GENRE = 70s
+TITLE = Dazz Band - Let It Whip 
+
+#154    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1758_128
+GENRE = 70s
+TITLE = BT Express - Do It (Til You're Satisfied)
+
+#155    Random 70   (222 records found)
+URL   = http://s5.radionetz.de:80/0n-jukebox_app.mp3
+GENRE = 60er 60s 70s 70er Oldies Disco 80er Rock Pop 80s
+TITLE = Frankie Valli, The Four Seasons - Rag Doll 
+
+#156    Random 70   (222 records found)
+URL   = http://stream.lolliradio.net:80/lolli_oldies.mp3
+GENRE = 70s Disco Pop 80s
+TITLE = Village People - San Francisco
+
+#157    Random 70   (222 records found)
+URL   = http://c11.radioboss.fm:8216/autodj
+GENRE = 60-70-80-90s
+TITLE = Scorpions-Lonely Nights - Scorpions-Lonely Nights
+
+#158    Random 70   (222 records found)
+URL   = http://ice.studiopiu.net:8060/607080.aac
+GENRE = classics 70 revivial 60
+TITLE = No Details Available!
+
+#159    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/80-s-DiscoPopRock_64.aac
+GENRE = 70's
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#160    Random 70   (222 records found)
+URL   = http://s2.stationplaylist.com:9440/listen.aac
+GENRE = 40s 60s 70s 50s Jazz Country 80s
+TITLE = No Title Found!
+
+#161    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1757_128
+GENRE = 70s
+TITLE = War - Summer
+
+#162    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/Static-Punk
+GENRE = rickman 70s rock 80s punk
+TITLE = The Replacements - Bastards of Young
+
+#163    Random 70   (222 records found)
+URL   = http://ascl.denial.cl:8014/stream
+GENRE = 2000s 70s 90s 80s
+TITLE = No Title Found!
+
+#164    Random 70   (222 records found)
+URL   = http://uplink.intronic.nl:80/goldenflash
+GENRE = 80 Oldies 2000 70 90 60
+TITLE = Helmut Lotti - What becomes of the brokenhearted
+
+#165    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1739_128
+GENRE = 70s
+TITLE = Cornelius Brothers & Sister Rose - Treat Her Like A Lady
+
+#166    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/1000-HITS-Sweet-Radio
+GENRE = 70s
+TITLE = Mirva - Barriers
+
+#167    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1763_128
+GENRE = 70s
+TITLE = Bob Welch - Sentimental Lady
+
+#168    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/70sPopUp
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#169    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/80-s-DiscoPopRock
+GENRE = 70's
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#170    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1722_128
+GENRE = 70s
+TITLE = The Kinks - Lola - Coca Cola Version
+
+#171    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/AllTime70s80sGreatest_64.aac
+GENRE = 70s
+TITLE = Toto - Africa
+
+#172    Random 70   (222 records found)
+URL   = http://server-67.stream-server.nl:8190/192radio
+GENRE = 60s 70s oldies
+TITLE = Beach Boys - Let's go away for awile  '66
+
+#173    Random 70   (222 records found)
+URL   = http://radiocp.from-dc.com:1120/stream
+GENRE = Zabavna 70s 90s Pop 80s
+TITLE = DARKO DOMIJAN - NAUÄIT ÄU TE MALA (ZAGREBFEST76)
+
+#174    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxClassicRock
+GENRE = 70s Classic Rock 80s
+TITLE = Eric Clapton - Let It Rain
+
+#175    Random 70   (222 records found)
+URL   = http://centova.pure-isp.eu:8009/low_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Joan Baez - House Of The Rising Star [JJ]
+
+#176    Random 70   (222 records found)
+URL   = http://comet.shoutca.st:8279/stream2_autodj
+GENRE = 70s 90s 80s
+TITLE = Dik Dik - Vendo Casa
+
+#177    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1756_128
+GENRE = 70s
+TITLE = Lamont Dozier - Trying To Hold On To My Woman
+
+#178    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/1HITS70s
+GENRE = 70s
+TITLE = Claudio Spiewak - Coast to Coast
+
+#179    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/WMYQMiamiRadio
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#180    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1722_128
+GENRE = 70s
+TITLE = The Kinks - Lola - Coca Cola Version
+
+#181    Random 70   (222 records found)
+URL   = http://ec1.everestcast.host:1130/stream
+GENRE = 60s 70s smooth jazz Pop 90s00 80s
+TITLE = COMING_AROUND_AGAIN
+
+#182    Random 70   (222 records found)
+URL   = http://s04.diazol.hu:20010/autodj
+GENRE = 60s 70s 80s
+TITLE = Locomotiv GT - Zenevonat
+
+#183    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/ASFALTRADIO_64.aac
+GENRE = Années70
+TITLE = Radio - motoharley
+
+#184    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/4U-70s_64.aac
+GENRE = 70s
+TITLE = Joe Walsh - Rocky Mountain Way
+
+#185    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = REO Speedwagon -  Keep Pushin'
+
+#186    Random 70   (222 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1759_128
+GENRE = 70s
+TITLE = .113FM - Be Right Back!
+
+#187    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxDiscoClassics
+GENRE = Dance Pop Bubblegum Pop 70s Oldies Disco Dance
+TITLE = Eddie Kendricks - Boogie Down
+
+#188    Random 70   (222 records found)
+URL   = http://hazel.torontocast.com:1500/stream
+GENRE = 70s Oldies Rock Pop
+TITLE = Pink Floyd - The Wall (Full Album, Disc 2)
+
+#189    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/MagicOldiesFlorida
+GENRE = 80's Oldies 60's 70's
+TITLE = Paul Simon - Loves Me Like A Rock
+
+#190    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/ASFALTRADIO
+GENRE = Années70
+TITLE = Alan White & Tony Kaye - More Than A Feeling
+
+#191    Random 70   (222 records found)
+URL   = http://hazel.torontocast.com:1260/stream
+GENRE = 70's
+TITLE = Lee Michaels - Do You Know What I Mean
+
+#192    Random 70   (222 records found)
+URL   = http://185.132.132.161:8000/70s
+GENRE = 70s
+TITLE = Jim Croce - Time In A Bottle
+
+#193    Random 70   (222 records found)
+URL   = http://radiart.eu:10114/live
+GENRE = 70s Funk Disco Dance
+TITLE = Ronnie Jones - Life Is A Song Worth Singing | 1978 | Diva Disco
+
+#194    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/Sunrisetosunset_64.aac
+GENRE = 70
+TITLE = Jack Jones - This Could Be The Start Of Something
+
+#195    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1754_128
+GENRE = 70s
+TITLE = John Stewart - Gold
+
+#196    Random 70   (222 records found)
+URL   = http://c7.radioboss.fm:8086/autodj
+GENRE = pop 70´s 80´s and more Rock
+TITLE = Linda Jones - It Must Have Been Love
+
+#197    Random 70   (222 records found)
+URL   = http://streaming211.radionomy.com:80/AllTime70s80sGreatest
+GENRE = 70s
+TITLE = Toto - Africa
+
+#198    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Kurt David - Takin' Ya Back 70s Edition
+
+#199    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1756_128
+GENRE = 70s
+TITLE = Stevie Wonder - Don't You Worry 'Bout A Thing
+
+#200    Random 70   (222 records found)
+URL   = http://server-27.stream-server.nl:8192/autodj
+GENRE = 60s 70s oldies
+TITLE = Unknown
+
+#201    Random 70   (222 records found)
+URL   = http://kathy.torontocast.com:2210/stream
+GENRE = 70.s pop all time hits 80's. 90's
+TITLE = Baccara - Sorry I'm A Lady
+
+#202    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/WMYQMiamiRadio_64.aac
+GENRE = 70s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#203    Random 70   (222 records found)
+URL   = https://stream.laut.fm/100070er
+GENRE = 70s Oldies Decades Rock Pop
+TITLE = No Details Available!
+
+#204    Random 70   (222 records found)
+URL   = http://c12.radioboss.fm:8016/autodj
+GENRE = 80's 00 & All Good Muisic Soviet Retro 70's 90's
+TITLE = ÐÐ¾Ð¼Ð±Ð¸Ð½Ð°ÑÐ¸Ñ - Ð¡Ð°Ð¼Ð°Ñ, ÑÐ°Ð¼Ð°Ñ...
+
+#205    Random 70   (222 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1739_128
+GENRE = 70s
+TITLE = adw_ad='truedurationMilliseconds='30040adId='0insertionType='preroll
+
+#206    Random 70   (222 records found)
+URL   = http://www.pluz.com.ar:8020/live.mp3
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = Radio Pluz Online
+
+#207    Random 70   (222 records found)
+URL   = http://manager3.streamradio.fr:1080/stream
+GENRE = Hits Actuelle 70.80.90.2000.&amp
+TITLE = Snoopy - Club Party
+
+#208    Random 70   (222 records found)
+URL   = http://radio.inovaweb.cl:8164/stream
+GENRE = 70s 80s
+TITLE = Robert Palmer - Johnny And Mary
+
+#209    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxClassicRock
+GENRE = 70s Classic Rock 80s
+TITLE = Eric Clapton - Let It Rain
+
+#210    Random 70   (222 records found)
+URL   = http://radio.streemlion.com:2370/stream
+GENRE = 70s Oldies Pop
+TITLE = Barry Manilow - Mandy
+
+#211    Random 70   (222 records found)
+URL   = http://ingest.a3.stream24.net:80/radio8-in.aac
+GENRE = 60s 70s Oldies Adult Rock Pop 80s
+TITLE = Madonna - Like A Prayer
+
+#212    Random 70   (222 records found)
+URL   = http://streaming307.radionomy.com:80/1000-HITS-Sweet-Radio
+GENRE = 70s
+TITLE = Mirva - Barriers
+
+#213    Random 70   (222 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1759_128
+GENRE = 70s
+TITLE = .113FM - Be Right Back!
+
+#214    Random 70   (222 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/1683_128
+GENRE = Disco and Funk 70s Top 40 Rock
+TITLE = American Top 40 with Casey Kasem - Original Airdate week of 9/11/71 
+
+#215    Random 70   (222 records found)
+URL   = http://hestia.cdnstream.com:80/1400_128
+GENRE = Adult Contemporary 70s 2000 Soft Rock 90s Rock Pop 80s
+TITLE = Aswad - Give A Little Love 
+
+#216    Random 70   (222 records found)
+URL   = http://radio4.vip-radios.fm:8008/stream64k-AAC-Funk_autodj
+GENRE = 70s Funk Disco
+TITLE = Curtis Hairston - Chillin Out
+
+#217    Random 70   (222 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2383_48.aac
+GENRE = Motown 60s 70s Oldies Disco Soul 80s
+TITLE = Diana Ross - Im Gonna Make You Love Me (ft The Temptations)
+
+#218    Random 70   (222 records found)
+URL   = http://streaming308.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = Journey - Separate Ways (Worlds Apart)
+
+#219    Random 70   (222 records found)
+URL   = http://radiostreamserver.de:80/wunschradio-70er.aac
+GENRE = 70s 70er Seventies Rock
+TITLE = Sweet - Stairway To The Stars
+
+#220    Random 70   (222 records found)
+URL   = http://centova.pure-isp.eu:8012/autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Hector Lavoe - The Originals  - Che Che ColÃ© [2SO]
+
+#221    Random 70   (222 records found)
+URL   = http://uplink.intronic.nl:80/goldenflash_mobile
+GENRE = 80 Oldies 2000 70 90 60
+TITLE = Will Tura - omdat ik vlaming ben
+
+#222    Random 70   (222 records found)
+URL   = http://centova.pure-isp.eu:8009/ultra_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Joan Baez - House Of The Rising Star [JJ]
+
+Runtime (in seconds): 147
+

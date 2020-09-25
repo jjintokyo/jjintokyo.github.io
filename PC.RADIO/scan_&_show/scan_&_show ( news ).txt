@@ -1,0 +1,502 @@
+#1    Random news   (100 records found)
+URL   = http://master02-ent.shoutcast.com:8000/foxnews
+GENRE = News Talk
+TITLE = ADBRK_END
+
+#2    Random news   (100 records found)
+URL   = http://s3.voscast.com:7208/stream
+GENRE = News
+TITLE = &Atilde; - &Atilde;
+
+#3    Random news   (100 records found)
+URL   = http://streaming211.radionomy.com:80/rim-radio-maroc
+GENRE = News
+TITLE = No Title Found!
+
+#4    Random news   (100 records found)
+URL   = http://cheetah.streemlion.com:1570/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Elijah_Oyelade_-_Highly_Lifted_[Official_Video](1)
+
+#5    Random news   (100 records found)
+URL   = http://s2.voscast.com:7762/stream
+GENRE = News
+TITLE = No Title Found!
+
+#6    Random news   (100 records found)
+URL   = http://streaming307.radionomy.com:80/INSIDENEWS
+GENRE = NEWS
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#7    Random news   (100 records found)
+URL   = http://162.244.80.131:8117/autodj
+GENRE = History Military OTR News
+TITLE = 1941-12-07 2130 NBCR - American Album Of Familiar Music
+
+#8    Random news   (100 records found)
+URL   = http://eu1.reliastream.com:7017/MDR48
+GENRE = News Electronic Talk Show Dance
+TITLE = ZIGER, MATAN CASPI  - CLING CLONG (ORIGINAL MIX)  
+
+#9    Random news   (100 records found)
+URL   = http://stream.xmission.com:8000/kcpw
+GENRE = news
+TITLE = No Title Found!
+
+#10    Random news   (100 records found)
+URL   = http://master01-ent.shoutcast.com:8000/foxnews
+GENRE = News Talk
+TITLE = ADBRK_END
+
+#11    Random news   (100 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2448_128.mp3
+GENRE = News
+TITLE = SiouxFallsNewsRadio - John And Heidi ShowSiouxFallsNewsRadio.com
+
+#12    Random news   (100 records found)
+URL   = http://radio.viaflux.com:5533/live
+GENRE = News Sertanejo Talk Gaucha
+TITLE = No Title Found!
+
+#13    Random news   (100 records found)
+URL   = http://stream002.radio.hu:80/mr5.aac
+GENRE = News Hungary Parliament
+TITLE = Kozvetitjuk az Orszaggyules uleset
+
+#14    Random news   (100 records found)
+URL   = http://streaming211.radionomy.com:80/Alpha989
+GENRE = News
+TITLE = No Title Found!
+
+#15    Random news   (100 records found)
+URL   = http://www.wqln.org:8000/
+GENRE = News Classical Jazz
+TITLE = No Title Found!
+
+#16    Random news   (100 records found)
+URL   = http://de3.amfmph.com:8576/low_live
+GENRE = News Pinoy Tagalog Music
+TITLE = No Title Found!
+
+#17    Random news   (100 records found)
+URL   = http://streaming308.radionomy.com:80/INSIDENEWS
+GENRE = NEWS
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#18    Random news   (100 records found)
+URL   = http://streaming307.radionomy.com:80/INSIDENEWS_64.aac
+GENRE = NEWS
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#19    Random news   (100 records found)
+URL   = http://live.xradiofm.gr:8010/973.mp3
+GENRE = News
+TITLE = No Title Found!
+
+#20    Random news   (100 records found)
+URL   = http://radio.viaflux.com:9270/live.aac
+GENRE = News Talk Pop
+TITLE = No Title Found!
+
+#21    Random news   (100 records found)
+URL   = http://streaming307.radionomy.com:80/rim-radio-maroc
+GENRE = News
+TITLE = No Title Found!
+
+#22    Random news   (100 records found)
+URL   = http://radio.viaflux.com:9050/radio.aac
+GENRE = News Folk Talk Brazilian Pop Pop
+TITLE = E BOM ESTAR COM VOCE 
+
+#23    Random news   (100 records found)
+URL   = http://streaming315.radionomy.com:80/5min
+GENRE = News
+TITLE = No Title Found!
+
+#24    Random news   (100 records found)
+URL   = http://eu1.reliastream.com:7178/MHR48
+GENRE = News Hip-Hop / Rap Talk Show Pop
+TITLE = Dua Lipa - Break My Heart 
+
+#25    Random news   (100 records found)
+URL   = http://solid1.streamupsolutions.com:36716/live
+GENRE = News
+TITLE = No Title Found!
+
+#26    Random news   (100 records found)
+URL   = http://g5.turbohost.eu:8000/gamauk
+GENRE = NEWS POP
+TITLE = No Title Found!
+
+#27    Random news   (100 records found)
+URL   = http://cheetah.streemlion.com:1850/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Kathryn Scott - Hungry (Falling On My Knees) [1ViD]
+
+#28    Random news   (100 records found)
+URL   = http://c5.hostingcentar.com:8031/live.ogg
+GENRE = news
+TITLE = No Title Found!
+
+#29    Random news   (100 records found)
+URL   = http://cloud.viaflux.com.br:1600/radio.mp3
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+#30    Random news   (100 records found)
+URL   = http://cheetah.streemlion.com:2660/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Nzigulilawo_Egulu_-_Judith_Babirye_(Non-Stop_Worship_Album)_(Ugandan_Gospel_Music)_2019(128k)
+
+#31    Random news   (100 records found)
+URL   = http://23.251.93.86:8010/listen
+GENRE = NEWS TALK
+TITLE = No Title Found!
+
+#32    Random news   (100 records found)
+URL   = http://stream002.radio.hu:80/mr5.mp3
+GENRE = News Hungary Parliament
+TITLE = Kozvetitjuk az Orszaggyules uleset
+
+#33    Random news   (100 records found)
+URL   = http://streaming308.radionomy.com:80/INSIDENEWS_64.aac
+GENRE = NEWS
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#34    Random news   (100 records found)
+URL   = http://nrf1.newradio.it:9706/stream
+GENRE = classics news
+TITLE = ALEX BRITTI - OGGI SONO IO
+
+#35    Random news   (100 records found)
+URL   = http://radio.streemlion.com:3860/stream
+GENRE = News amp Talk
+TITLE = Covid-19 Radio - BBC Updates - Google Apple Device
+
+#36    Random news   (100 records found)
+URL   = http://live.lora924.de:8000/loramp3.mp3
+GENRE = varios other news community talk alternative
+TITLE = Mainly Jazz - Mostly Women, von Do 16Uhr (nur Internet) (LQ mp3-Version)
+
+#37    Random news   (100 records found)
+URL   = http://radio.guijuelo.es:8000/directo.ogg
+GENRE = News Music Various
+TITLE = No Title Found!
+
+#38    Random news   (100 records found)
+URL   = http://streams.radiomast.io/77fb77ad-9c43-4c4a-954f-f6f939dde929
+GENRE = Music and News FM Radio Station
+TITLE = No Details Available!
+
+#39    Random news   (100 records found)
+URL   = http://kdx.hopto.org:8000/kdx.ogg
+GENRE = News Talk
+TITLE = No Title Found!
+
+#40    Random news   (100 records found)
+URL   = http://master01-ent.shoutcast.com:8000/247
+GENRE = News
+TITLE = No Title Found!
+
+#41    Random news   (100 records found)
+URL   = http://sv6.vestaradio.com:8000/14Radio
+GENRE = News Hits
+TITLE = Laurent Voulzy - Le Coeur Grenadine Yann Muller Remix
+
+#42    Random news   (100 records found)
+URL   = http://canopus.dribbcast.com:8062/stream
+GENRE = News Top 40 Pop
+TITLE = No Title Found!
+
+#43    Random news   (100 records found)
+URL   = http://hannibal.ucs.indiana.edu:80/media_school
+GENRE = news
+TITLE = No Title Found!
+
+#44    Random news   (100 records found)
+URL   = http://patmos.cdnstream.com:9581/stream.mp3
+GENRE = information news blind talk
+TITLE =  - Different ways to listen to free Calibre Audio talking books - Infosound Features 
+
+#45    Random news   (100 records found)
+URL   = http://streaming211.radionomy.com:80/observador_64.aac
+GENRE = News
+TITLE = END --  --  --  --  --
+
+#46    Random news   (100 records found)
+URL   = http://cheetah.streemlion.com:1210/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Kathryn Scott - Hungry (Falling On My Knees) [1ViD]
+
+#47    Random news   (100 records found)
+URL   = http://cast.iplayradio.net:8002/stream
+GENRE = NEWS MUSIC
+TITLE = No Title Found!
+
+#48    Random news   (100 records found)
+URL   = http://kvnovm-hd3.unomaha.edu:8000/mobile.aac
+GENRE = News
+TITLE = BBC World Service
+
+#49    Random news   (100 records found)
+URL   = http://airtime1.febchk.org:8000/ly729_a
+GENRE = News Good
+TITLE = FEBCHK - Daily Music
+
+#50    Random news   (100 records found)
+URL   = http://live.lora924.de:8000/lora.ogg
+GENRE = varios other news community talk alternative
+TITLE = No Title Found!
+
+#51    Random news   (100 records found)
+URL   = http://eu1.reliastream.com:7002/service
+GENRE = News Easy Listening Instrumental Jazz
+TITLE = Paul Hardcastle - Rhythm Of Life
+
+#52    Random news   (100 records found)
+URL   = http://cloud.viaflux.com.br:1600/radio.aac
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+#53    Random news   (100 records found)
+URL   = http://radio.viaflux.com:1600/radio.mp3
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+#54    Random news   (100 records found)
+URL   = http://icy1.boisestatepublicradio.org:80/KBSX-mp3
+GENRE = News NPR
+TITLE = No Title Found!
+
+#55    Random news   (100 records found)
+URL   = http://stream002.radio.hu:80/mr5.ogg
+GENRE = News Hungary Parliament
+TITLE = No Title Found!
+
+#56    Random news   (100 records found)
+URL   = http://r10.ciclano.io:9033/stream
+GENRE = News
+TITLE = No Title Found!
+
+#57    Random news   (100 records found)
+URL   = http://radioairplay.fr:1060/stream
+GENRE = News And Hits
+TITLE = Prefab Sprout - Hey Manhattan!
+
+#58    Random news   (100 records found)
+URL   = http://gtrk22.ru:8000/vesti22
+GENRE = News Talk
+TITLE = No Title Found!
+
+#59    Random news   (100 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2113_64.aac
+GENRE = News-Talk
+TITLE = The Real Side -  - 
+
+#60    Random news   (100 records found)
+URL   = http://s2.stationplaylist.com:7102/listen.aac
+GENRE = NewsTalk
+TITLE = No Title Found!
+
+#61    Random news   (100 records found)
+URL   = http://stream002.radio.hu:80/mr1.aac
+GENRE = News Hungary Talk
+TITLE = Szombat delutan Banner Gezaval - kivansagokkal ismetles
+
+#62    Random news   (100 records found)
+URL   = http://live.lora924.de:8000/lora-hq.mp3
+GENRE = varios other news community talk alternative
+TITLE = Mainly Jazz - Mostly Women, von Do 16Uhr (nur Internet)
+
+#63    Random news   (100 records found)
+URL   = http://95.110.186.253:8000/gammagioiosa.aac
+GENRE = News Top 40 Easy Listening Rock Pop
+TITLE = Hunter Siegel feat Kai - Let Me Love You Right
+
+#64    Random news   (100 records found)
+URL   = http://23.251.93.86:8000/listen
+GENRE = NEWS TALK
+TITLE = No Title Found!
+
+#65    Random news   (100 records found)
+URL   = http://streaming308.radionomy.com:80/rim-radio-maroc
+GENRE = News
+TITLE = No Title Found!
+
+#66    Random news   (100 records found)
+URL   = http://streaming308.radionomy.com:80/Alpha989
+GENRE = News
+TITLE = No Title Found!
+
+#67    Random news   (100 records found)
+URL   = http://radio1.stream24.net:8390/live.mp3
+GENRE = Local News Oldies Pop
+TITLE = Dotan - Bleeding
+
+#68    Random news   (100 records found)
+URL   = http://sdr.radioe.net:2095/balaton
+GENRE = News Top40 Pop
+TITLE = No Details Available!
+
+#69    Random news   (100 records found)
+URL   = http://streaming315.radionomy.com:80/247
+GENRE = News
+TITLE = No Title Found!
+
+#70    Random news   (100 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2113_64.aac
+GENRE = News-Talk
+TITLE = The Real Side -  - 
+
+#71    Random news   (100 records found)
+URL   = http://streaming315.radionomy.com:80/foxnews
+GENRE = News Talk
+TITLE = ADBRK_END
+
+#72    Random news   (100 records found)
+URL   = http://radio.wzks.uj.edu.pl:8000/ujotfm320
+GENRE = News Rock
+TITLE = AUATC - Bon Iver
+
+#73    Random news   (100 records found)
+URL   = http://live.radioevros.gr:8000/live
+GENRE = News
+TITLE = POLL - ÅËÁ ÇËÉÅ ÌÏÕ
+
+#74    Random news   (100 records found)
+URL   = http://stream002.radio.hu:80/mr1.mp3
+GENRE = News Hungary Talk
+TITLE = Szombat delutan Banner Gezaval - kivansagokkal ismetles
+
+#75    Random news   (100 records found)
+URL   = http://cheetah.streemlion.com:2850/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Naomee | SonsHub.com - Awone Ft. Chris Morgan | www.sonshub.com
+
+#76    Random news   (100 records found)
+URL   = http://gtrk22.ru:8000/russia22
+GENRE = News Talk
+TITLE = No Title Found!
+
+#77    Random news   (100 records found)
+URL   = http://streaming308.radionomy.com:80/observador_64.aac
+GENRE = News
+TITLE = END --  --  --  --  --
+
+#78    Random news   (100 records found)
+URL   = http://in-sight.streamguys1.com:80/live-aac
+GENRE = News
+TITLE = No Title Found!
+
+#79    Random news   (100 records found)
+URL   = http://cast.iplayradio.net:8038/stream
+GENRE = NEWS MUSIC
+TITLE = No Title Found!
+
+#80    Random news   (100 records found)
+URL   = http://i.streams.ovh:9370/live
+GENRE = News
+TITLE = Now Playing info goes here
+
+#81    Random news   (100 records found)
+URL   = http://radio.wzks.uj.edu.pl:8000/ujotfm64
+GENRE = News Rock
+TITLE = AUATC - Bon Iver
+
+#82    Random news   (100 records found)
+URL   = http://hosting.studioradiomedia.com:8005/stream.mp3
+GENRE = News Hits Dance Top40
+TITLE = CALOGERO - LA RUMEUR
+
+#83    Random news   (100 records found)
+URL   = http://radio.viaflux.com:5544/live
+GENRE = News Folk Sertanejo Banda Pop Gaucha
+TITLE = No Title Found!
+
+#84    Random news   (100 records found)
+URL   = http://mcfoxtale.ddns.net:8000/WXK60
+GENRE = weather news
+TITLE = No Title Found!
+
+#85    Random news   (100 records found)
+URL   = http://radio.viaflux.com:1600/radio.aac
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+#86    Random news   (100 records found)
+URL   = http://cheetah.streemlion.com:1240/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Kathryn Scott - Hungry (Falling On My Knees) [1ViD]
+
+#87    Random news   (100 records found)
+URL   = http://s5.voscast.com:9954/stream
+GENRE = News
+TITLE = W3FM on Ch 140 Station ID
+
+#88    Random news   (100 records found)
+URL   = http://stream002.radio.hu:80/mr1.ogg
+GENRE = News Hungary Talk
+TITLE = No Title Found!
+
+#89    Random news   (100 records found)
+URL   = http://streaming307.radionomy.com:80/Alpha989
+GENRE = News
+TITLE = No Title Found!
+
+#90    Random news   (100 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2448_128.mp3
+GENRE = News
+TITLE = Invent Help 800 353 7058 -SiouxFallsNewsRadio.com
+
+#91    Random news   (100 records found)
+URL   = http://in-sight.streamguys1.com:80/live-mp3
+GENRE = News
+TITLE = No Title Found!
+
+#92    Random news   (100 records found)
+URL   = http://eu1.reliastream.com:7178/MHR
+GENRE = News Hip-Hop / Rap Talk Show Pop
+TITLE = Dua Lipa - Break My Heart 
+
+#93    Random news   (100 records found)
+URL   = http://s2.stationplaylist.com:9240/listen.aac
+GENRE = world blues rock news
+TITLE = E. A. briginshaw - Ep 8 Choices pt 1
+
+#94    Random news   (100 records found)
+URL   = http://eu1.reliastream.com:7092/MVR
+GENRE = News Classical Music
+TITLE = Orpheus Chamber Orchestra - Kammersymphonie No.2 Op.38 -ii- Con Fuoco 
+
+#95    Random news   (100 records found)
+URL   = http://de3.amfmph.com:8546/low_live
+GENRE = News Pinoy Tagalog Music
+TITLE = No Title Found!
+
+#96    Random news   (100 records found)
+URL   = http://de3.amfmph.com:8501/low_live
+GENRE = News Pinoy Tagalog Music
+TITLE = No Title Found!
+
+#97    Random news   (100 records found)
+URL   = http://g5.turbohost.eu:8003/gama
+GENRE = NEWS POP
+TITLE = No Title Found!
+
+#98    Random news   (100 records found)
+URL   = http://streaming307.radionomy.com:80/observador_64.aac
+GENRE = News
+TITLE = END --  --  --  --  --
+
+#99    Random news   (100 records found)
+URL   = http://de3.amfmph.com:8556/low_live
+GENRE = News Pinoy Tagalog Music
+TITLE = No Title Found!
+
+#100    Random news   (100 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2448_128.mp3
+GENRE = News
+TITLE = Invent Help 800 353 7058 -SiouxFallsNewsRadio.com
+
+Runtime (in seconds): 81
+

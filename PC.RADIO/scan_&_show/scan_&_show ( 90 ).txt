@@ -1,0 +1,1259 @@
+#1    Random 90   (252 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2541_128.mp3
+GENRE = 90s. Top 40 80s
+TITLE = Whitney Houston - Didn't We Almost Have It All - Whitney Houston
+
+#2    Random 90   (252 records found)
+URL   = http://ec1.yesstreaming.net:1180/stream
+GENRE = s pop 80 Hits Club Oldschool electronic 2000 s 70 90 60 dance
+TITLE = Stream: UB40 - Cherry Oh Baby
+
+#3    Random 90   (252 records found)
+URL   = http://caststream.eu:1080/stream
+GENRE = Greek 90s Pop 80s
+TITLE = Air Supply - All Out Of Love
+
+#4    Random 90   (252 records found)
+URL   = http://manager1.creativradio.pro:1280/stream
+GENRE = 80 70 vintage 90
+TITLE = origines: Richard Jon Smith - She's The Master Of The Game - (1983)
+
+#5    Random 90   (252 records found)
+URL   = http://stream.salyutfm.ru:8020/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = Ð¢Ð¸Ð½Ð° ÐÐ¾ÑÐ½ÐµÑ - ÐÐ°ÑÑÐµÐ³Ð½Ð¸ÑÑ
+
+#6    Random 90   (252 records found)
+URL   = http://webradio.vienna.at:80/vie-90er
+GENRE = 90er
+TITLE = Roxette - The Big L.
+
+#7    Random 90   (252 records found)
+URL   = http://icecast1.pulsradio.com:8080/puls90HD.mp3
+GENRE = 90s
+TITLE = Cosmic Gate - The Drums (Radio Mix) (1999)
+
+#8    Random 90   (252 records found)
+URL   = http://stream.fcons.net:80/WDON-MFM-192.mp3
+GENRE = Hits Radio 90s Epic 80s
+TITLE = Jody Watley - Looking For A New Love
+
+#9    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/Bestofthe90-s
+GENRE = 90's
+TITLE = Edwyn Collins - A Girl Like You
+
+#10    Random 90   (252 records found)
+URL   = http://stream15.top-ix.org:80/radiomanila
+GENRE = sms Manila www.radiomanila.it 3385038908 in diretta Radio
+TITLE = ITALIAN ALL STARS 4 LIFE - MA IL CIELO E' SEMPRE PIU' BLU - seguirÃ :
+
+#11    Random 90   (252 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/48
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Steve Taylor - I Want To Be A Clone
+
+#12    Random 90   (252 records found)
+URL   = http://uk6.internet-radio.com:8096/live
+GENRE = house top 40 edm 90s dance
+TITLE = Shaun Mynett - Dance Music Now - Episode 35
+
+#13    Random 90   (252 records found)
+URL   = http://nr11.newradio.it:9208/stream
+GENRE = 80 70 90
+TITLE = Radio 80 Forever Young
+
+#14    Random 90   (252 records found)
+URL   = http://crazystream.net:8000/261
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#15    Random 90   (252 records found)
+URL   = http://streaming.radiodancefloor.it:80/live.opus
+GENRE = techno house eurodance annees90 anni90 club disco trance handsup 90s dance
+TITLE = No Title Found!
+
+#16    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/90sAllTimeGreatest_64.aac
+GENRE = 90s
+TITLE = Garfield - Party Of Love (Club Mix)
+
+#17    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/1HITS90s_64.aac
+GENRE = 90s
+TITLE = Targetspot - TargetSpot
+
+#18    Random 90   (252 records found)
+URL   = http://144.217.180.30:8138/autodj
+GENRE = 90&00 Hit Dance
+TITLE =  - Temporarily unavailable
+
+#19    Random 90   (252 records found)
+URL   = http://sv2.vestaradio.com:8000/Mixlaradioetudiante
+GENRE = 90s 80s
+TITLE = CONKARAH   Shaggy - Banana
+
+#20    Random 90   (252 records found)
+URL   = http://nr5.newradio.it:8531/stream2
+GENRE = ANNI DISCO 80 90
+TITLE = 05 Traccia 5 Disco Inf Vol 3 Album sconosciuto (14-10-2006 1 - bum sconosciuto (14-10-2006 11.00.20) Disco Inf Vol3 320kbps
+
+#21    Random 90   (252 records found)
+URL   = http://streaming.radiodancefloor.it:8080/dancefloor.mp3
+GENRE = techno house eurodance annees90 anni90 club disco trance handsup 90s dance
+TITLE = FLASHBACK 90s RADIO SHOW
+
+#22    Random 90   (252 records found)
+URL   = http://151.80.43.143:8008/-aac_autodj.mp3
+GENRE = Dance 90s Rock Pop
+TITLE = U2 - Hold Me, Thrill Me, Kiss Me, Kill Me
+
+#23    Random 90   (252 records found)
+URL   = http://stream.fcons.net:80/WDON-MFM-64.aac
+GENRE = Hits Radio 90s Epic 80s
+TITLE = Jody Watley - Looking For A New Love
+
+#24    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/aac-48
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¢Ð£Ð¢Ð¡Ð - Ð¡Ð°Ð¼Ð° ÐÐ¾ Ð¡ÐµÐ±Ðµ
+
+#25    Random 90   (252 records found)
+URL   = http://bigcent02.1.fm:8009/streamaac_autodj
+GENRE = Decades 90's
+TITLE = Regina - Day By Day
+
+#26    Random 90   (252 records found)
+URL   = http://ithaca.cdnstream.com:80/1255_32
+GENRE = 2000s Hits Easy Soft 90s Rock Pop 80s Lite
+TITLE = Alannah Myles - Black Velvet 
+
+#27    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/PASSIONTVRadiostation
+GENRE = 90er
+TITLE = Carl Carlton - She's a Bad Mama Jama (She's Built, She's Stacked)
+
+#28    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/1HITS90s_64.aac
+GENRE = 90s
+TITLE = ANDROMEDA - Won't Come Back
+
+#29    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/Bestofthe90-s
+GENRE = 90's
+TITLE = Targetspot - TargetSpot
+
+#30    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/the-cube-retro-radio
+GENRE = 90s Rock Pop 80s
+TITLE = Cliff Richard - Some People
+
+#31    Random 90   (252 records found)
+URL   = http://stream.dancewave.online:8080/retrodance.mp3
+GENRE = Dance 90s
+TITLE = Zweety - Rumpshaka'
+
+#32    Random 90   (252 records found)
+URL   = http://rhr.radioca.st:80/streams/128kbps?yp=3
+GENRE = 90s 80s
+TITLE = WARRANT - Cherry Pie
+
+#33    Random 90   (252 records found)
+URL   = http://94.23.43.135:8110/live.mp3
+GENRE = Top 40 00s 90s Various
+TITLE = JX - There's Nothing I Won't Do
+
+#34    Random 90   (252 records found)
+URL   = http://stream2.dancewave.online:8080/retrodance.aac
+GENRE = Dance 90s
+TITLE = Zweety - Rumpshaka'
+
+#35    Random 90   (252 records found)
+URL   = http://janus.cdnstream.com:5034/live
+GENRE = 90s 80s
+TITLE = Whitney Houston - Didn't We Almost Have It All - Whitney Houston
+
+#36    Random 90   (252 records found)
+URL   = http://daniel.torontocast.com:1230/stream
+GENRE = 90s
+TITLE = Judy Cheeks - Reach
+
+#37    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/mp3-128
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = SOLVEIG Martin - Hello'
+
+#38    Random 90   (252 records found)
+URL   = http://5.63.151.52:7139/autodj
+GENRE = Trance Techno Rave House 90's
+TITLE = Electric Universe - Astral Voyage
+
+#39    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/90sAllTimeGreatest_64.aac
+GENRE = 90s
+TITLE = B.G. The Prince Of Rap - This Beat Is Hot (Get Into The Rhythm Clubmix)
+
+#40    Random 90   (252 records found)
+URL   = http://151-80-38-142.caramania.net:7016/stream2
+GENRE = Dance House Techno Electronic Oldschool 80 90
+TITLE = Mixx 0006
+
+#41    Random 90   (252 records found)
+URL   = http://hdr.asuscomm.com:8000/hard_dancee_hi
+GENRE = HandsUp Trance OldScool Techno Rave 00s 90s
+TITLE = Racoon - Play this Tune (Very Loud) [6]
+
+#42    Random 90   (252 records found)
+URL   = http://ais-edge12-113fm-dal04.cdnstream.com:80/1727_128
+GENRE = 90s
+TITLE = The Offspring - Come Out And Play (Keep Em Separated)
+
+#43    Random 90   (252 records found)
+URL   = http://joserver.dyndns.org:8050/live2
+GENRE = 70s Oldies 90s Pop 80s
+TITLE = Karat - Jede Stunde
+
+#44    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/aac-64
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = SOLVEIG Martin - Hello
+
+#45    Random 90   (252 records found)
+URL   = http://centova.pure-isp.eu:8012/autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Marc Anthony - TE CONOZCO BIEN [30M]
+
+#46    Random 90   (252 records found)
+URL   = http://ec1.everestcast.host:1270/stream
+GENRE = 60s 70s smooth jazz Pop 90s00 80s
+TITLE = ALWAYS
+
+#47    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/1HITS90s
+GENRE = 90s
+TITLE = Targetspot - TargetSpot
+
+#48    Random 90   (252 records found)
+URL   = http://mediacp.shoutcastradio.nl:8002/backup_audio
+GENRE = 80's POP Dance Top40 90's
+TITLE = 5 Seconds Of Summer - Youngblood
+
+#49    Random 90   (252 records found)
+URL   = http://live.topfm.hu:8000/radio
+GENRE = 00s 90s
+TITLE = Alibi vs. Rockefeller - Sexual Healing (2007)
+
+#50    Random 90   (252 records found)
+URL   = http://hdr.asuscomm.com:8000/eurodance
+GENRE = Eurodance 90s
+TITLE = Neon Light feat. Ras Kwuame - Dance To The Trance [1]
+
+#51    Random 90   (252 records found)
+URL   = http://comet.shoutca.st:8279/stream2_autodj
+GENRE = 70s 90s 80s
+TITLE = EDOARDO BENNATO - SONO SOLO CANZONETTE
+
+#52    Random 90   (252 records found)
+URL   = http://stream.laut.fm/80er-90er
+GENRE = 90er 80er
+TITLE = Oli.p - Flugzeuge Im Bauch
+
+#53    Random 90   (252 records found)
+URL   = http://stream.dancewave.online:8080/retrodance.ogg
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#54    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/A11-Radio-Dreams-90s
+GENRE = 80 70 90
+TITLE = Bruno et paul - toute-equipe-de-la-radio-vous-remercie bon
+
+#55    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/Bestofthe90-s
+GENRE = 90's
+TITLE = Targetspot - TargetSpot
+
+#56    Random 90   (252 records found)
+URL   = http://46.4.48.7:8736/autodj
+GENRE = 70s 90s 80s
+TITLE = 10CC - DREADLOCK HOLIDAY [2bv]
+
+#57    Random 90   (252 records found)
+URL   = http://stream.102la.com:80/live
+GENRE = Classic Hits 90s 80s
+TITLE = Wet Wet Wet - Love Is All Around 
+
+#58    Random 90   (252 records found)
+URL   = http://stream.salyutfm.ru:8000/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = Ð¢Ð¸Ð½Ð° ÐÐ¾ÑÐ½ÐµÑ - ÐÐ°ÑÑÐµÐ³Ð½Ð¸ÑÑ
+
+#59    Random 90   (252 records found)
+URL   = http://stream.diazol.hu:35110/live.mp3
+GENRE = 80's Hot AC 90's
+TITLE = Billy Ocean - Carribean Queen
+
+#60    Random 90   (252 records found)
+URL   = http://stream2.dancewave.online:8080/retrodance.mp3
+GENRE = Dance 90s
+TITLE = Zweety - Rumpshaka'
+
+#61    Random 90   (252 records found)
+URL   = http://radiototal1.radioca.st:80/streams/96kbps?yp=6
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#62    Random 90   (252 records found)
+URL   = http://jrtsinc.com:8888/live
+GENRE = Mix 90s
+TITLE = Outkast - Throw your hands in the air
+
+#63    Random 90   (252 records found)
+URL   = http://stream4.dancewave.online:8080/retrodance.aac
+GENRE = Dance 90s
+TITLE = Zweety - Rumpshaka'
+
+#64    Random 90   (252 records found)
+URL   = http://ecast.myautodj.com:1310/stream
+GENRE = 80's Oldies Hip Hop 90's Rock Pop Country
+TITLE = ZZ Top - Sharp Dressed Man
+
+#65    Random 90   (252 records found)
+URL   = http://hdr.asuscomm.com:8000/hard_dance_flac.ogg
+GENRE = HandsUp Trance OldScool Techno Rave 00s 90s
+TITLE = No Title Found!
+
+#66    Random 90   (252 records found)
+URL   = http://icecast1.pulsradio.com:8080/puls90AAC64.mp3
+GENRE = 90s
+TITLE = Cosmic Gate - The Drums (Radio Mix) (1999)
+
+#67    Random 90   (252 records found)
+URL   = http://stream.big1.nl:8000/stream
+GENRE = 60s 70s 90s Pop 80s
+TITLE = Eagles - New Kid In Town (Single Version) 
+
+#68    Random 90   (252 records found)
+URL   = http://stream4.dancewave.online:8080/retrodance.mp3
+GENRE = Dance 90s
+TITLE = Zweety - Rumpshaka'
+
+#69    Random 90   (252 records found)
+URL   = http://us3.internet-radio.com:8004/autodj
+GENRE = Contemporary 90s Rock Pop 80s
+TITLE = Dire Straits - So Far Away (Full Version) [3s76]
+
+#70    Random 90   (252 records found)
+URL   = http://uplink.intronic.nl:80/goldenflash
+GENRE = 80 Oldies 2000 70 90 60
+TITLE = Angèle feat Roméo Elvis - Tout Oublier
+
+#71    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/80s90ssuperpophits
+GENRE = pop80s&90s
+TITLE = Maria Vidal - Body Rock
+
+#72    Random 90   (252 records found)
+URL   = http://eu10.fastcast4u.com:9170/stream
+GENRE = Garage Oldskool Rnb House Dance Ukg 90s Drum N Bass 80s
+TITLE = Dj Online
+
+#73    Random 90   (252 records found)
+URL   = http://dsl.rasat.tv:8300/rsv1.nsv
+GENRE = Trance Techno Goa 70s House Dance Video 90s Rock Pop 80s
+TITLE = .::: Radio-Satisfaction :::.
+
+#74    Random 90   (252 records found)
+URL   = http://stream4.dancewave.online:8080/retrodance.opus
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#75    Random 90   (252 records found)
+URL   = http://stream.btsstream.com:8040/nonstop90s.mp3
+GENRE = 90s
+TITLE = All For Love by Bryan Adams, Rod Stewart 
+
+***** ERROR *****
+
+#77    Random 90   (252 records found)
+URL   = http://kathy.torontocast.com:2210/stream
+GENRE = 70.s pop all time hits 80's. 90's
+TITLE = O'Jays - Use Ta Be My Girl
+
+#78    Random 90   (252 records found)
+URL   = http://live.foerde-radio.de:8130/stream
+GENRE = 80er 90er und das Beste von heute
+TITLE = Anna Naklab Feat. Alle Farben & Younotus - Supergirl (Radio Edit)
+
+#79    Random 90   (252 records found)
+URL   = http://centova.pure-isp.eu:8009/high_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Hansel Y la Orquesta Calle Ocho - Esto No Hay Quien la Aguante [Ge]
+
+#80    Random 90   (252 records found)
+URL   = http://topradio.us:8036/autodj
+GENRE = Remember 90s Pop 80s
+TITLE = Soul Asylum - Runaway Train
+
+#81    Random 90   (252 records found)
+URL   = http://lighttown.ddns.net:8000/live.aacp
+GENRE = funk house pop classics 70s 00s rock electro 90s dance 80s punk
+TITLE = Live From AreA O-Four-O: M-Shape - Tell Me
+
+#82    Random 90   (252 records found)
+URL   = http://radiocp.from-dc.com:1120/stream
+GENRE = Zabavna 70s 90s Pop 80s
+TITLE = NENO BELAN - DOTAKNI ME USNAMA (ZADAR94)
+
+#83    Random 90   (252 records found)
+URL   = http://c11.radioboss.fm:8216/autodj
+GENRE = 60-70-80-90s
+TITLE = Eric Carmen-Hungry Eyes - Eric Carmen-Hungry Eyes
+
+#84    Random 90   (252 records found)
+URL   = http://www.pluz.com.ar:8020/live.opus
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = No Title Found!
+
+#85    Random 90   (252 records found)
+URL   = http://arabella.stream.kapper.net:8004/arabella90s
+GENRE = 90s
+TITLE = No Title Found!
+
+#86    Random 90   (252 records found)
+URL   = http://igor.torontocast.com:1430/stream
+GENRE = 80's 00's Top40 90's
+TITLE = George Michael - Careless Whisper
+
+#87    Random 90   (252 records found)
+URL   = http://185.132.132.161:8000/90s
+GENRE = 90s
+TITLE = Alanis Morisette - Uninvited
+
+#88    Random 90   (252 records found)
+URL   = http://streaming.radiodancefloor.it:80/live48
+GENRE = techno house eurodance annees90 anni90 club disco trance handsup 90s dance
+TITLE = FLASHBACK 90s RADIO SHOW
+
+#89    Random 90   (252 records found)
+URL   = http://daniel.torontocast.com:2150/stream
+GENRE = Top 40 Adult Contemporary 80 90
+TITLE = Ed Sheeran - Thinking Out Loud
+
+#90    Random 90   (252 records found)
+URL   = http://www.pluz.com.ar:8020/live.mp3
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = Radio Pluz Online
+
+#91    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/the-cube-retro-radio
+GENRE = 90s Rock Pop 80s
+TITLE = Red Hot Chili Peppers - Otherside
+
+#92    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/ru-aac-64
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ
+
+#93    Random 90   (252 records found)
+URL   = http://stream3.dancewave.online:8080/retrodance.ogg
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#94    Random 90   (252 records found)
+URL   = http://queens11369v.softether.net:30016/digitalmixnyc128
+GENRE = Disco Dance 90s 80s
+TITLE = MFSB - Love is the Message * Long Version :001
+
+#95    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/90sAllTimeGreatest
+GENRE = 90s
+TITLE = Garfield - Party Of Love (Club Mix)
+
+#96    Random 90   (252 records found)
+URL   = http://ec1.everestcast.host:1130/stream
+GENRE = 60s 70s smooth jazz Pop 90s00 80s
+TITLE = ALWAYS
+
+#97    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/ru-aac-48
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ
+
+#98    Random 90   (252 records found)
+URL   = http://nr5.newradio.it:8531/stream
+GENRE = ANNI DISCO 80 90
+TITLE = 05 Traccia 5 Disco Inf Vol 3 Album sconosciuto (14-10-2006 1 - bum sconosciuto (14-10-2006 11.00.20) Disco Inf Vol3 320kbps
+
+#99    Random 90   (252 records found)
+URL   = http://159.69.215.60:8000/90beat.ogg
+GENRE = Electronic Trance Techno Rave Club House Dance 90s
+TITLE = No Title Found!
+
+#100    Random 90   (252 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2541_128.mp3
+GENRE = 90s. Top 40 80s
+TITLE = Whitney Houston - Didn't We Almost Have It All - Whitney Houston
+
+#101    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/ru-aac-64
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ
+
+#102    Random 90   (252 records found)
+URL   = http://ic.adrianx.eu:8000/stream2
+GENRE = Trance 2000s Eurodance Club Dance 90s
+TITLE = SÅUCHASZ: GENERAL MODERS - CROSS THE SKY (RADIO EDIT) (2005) ...::TPLC.QRIX.EU::...
+
+#103    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/hd
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = SOLVEIG Martin - Hello'
+
+#104    Random 90   (252 records found)
+URL   = http://hazel.torontocast.com:3130/stream
+GENRE = 80s and 90s Classic Hits from the 70s
+TITLE = Taylor Dayne - Tell It to My Heart
+
+#105    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/BDJEurodance90s
+GENRE = 90s
+TITLE = 2 Brothers On The 4th Floor - Let Me Be Free
+
+#106    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/the90s
+GENRE = 90s
+TITLE = Dj Michele Parisi - Mp 45
+
+#107    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/ru-hd
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ'
+
+#108    Random 90   (252 records found)
+URL   = http://manager2.creativradio.com:1470/stream
+GENRE = année90-2000-2020-dance-techno accordéon
+TITLE = Benab/Maes - Sourire
+
+#109    Random 90   (252 records found)
+URL   = http://stream2.dancewave.online:8080/retrodance.opus
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#110    Random 90   (252 records found)
+URL   = http://radio.streemlion.com:2290/stream
+GENRE = 00s Dance 90s Pop 80s
+TITLE = Urban Cookie Collective - Sail Away
+
+#111    Random 90   (252 records found)
+URL   = http://stream.salyutfm.ru:8070/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = Ð¢Ð¸Ð½Ð° ÐÐ¾ÑÐ½ÐµÑ - ÐÐ°ÑÑÐµÐ³Ð½Ð¸ÑÑ
+
+#112    Random 90   (252 records found)
+URL   = http://radioboxhd.com:9152/live
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#113    Random 90   (252 records found)
+URL   = http://streams.radiomast.io/ebca0c3d-4178-4386-88a1-4db6b7d9e291
+GENRE = Top 40 Talk Scotland UK Glasgow FLAC 90s Pop 80s
+TITLE = Orchestral Manoeuvres In The Dark - Dream Of Me (Based On Love's Theme)
+
+#114    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/the-cube-retro-radio
+GENRE = 90s Rock Pop 80s
+TITLE = Red Hot Chili Peppers - Otherside
+
+#115    Random 90   (252 records found)
+URL   = http://server-28.stream-server.nl:8968/stream
+GENRE = kanon Folk Engels u Nederlands Piraten muziekknallers Hollands.90s
+TITLE = Dit is hem live de muziekknallers voor groet of verzoek.. 0644935810 
+
+#116    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/hd
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = SOLVEIG Martin - Hello'
+
+#117    Random 90   (252 records found)
+URL   = http://213.239.206.179:59110/stream
+GENRE = 2ks 90s 80s
+TITLE = No Details Available!
+
+#118    Random 90   (252 records found)
+URL   = http://radiostreamserver.de:80/wunschradio-90er.aac
+GENRE = Nineties Eurodance Dance 90er 90s
+TITLE = R. Kelly - I Believe I Can Fly
+
+#119    Random 90   (252 records found)
+URL   = http://wav.carbonwav.com:1910/stream
+GENRE = Hop 90's Hip
+TITLE = Empty playlist
+
+#120    Random 90   (252 records found)
+URL   = http://ithaca.cdnstream.com:80/1255_128
+GENRE = 2000s Hits Easy Soft 90s Rock Pop 80s Lite
+TITLE = Alannah Myles - Black Velvet 
+
+#121    Random 90   (252 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/128
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Tonio K - Impressed
+
+#122    Random 90   (252 records found)
+URL   = http://c12.radioboss.fm:8016/autodj
+GENRE = 80's 00 & All Good Muisic Soviet Retro 70's 90's
+TITLE = ÐÐ³Ð¾ÑÑ ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ² - ÐÑÐ¿ÑÐµÐ¼ Ð·Ð° Ð»ÑÐ±Ð¾Ð²Ñ
+
+#123    Random 90   (252 records found)
+URL   = http://cast.iplayradio.net:9500/autodj
+GENRE = Trance Rave Breakbeat Eurodance House 90s
+TITLE = No Title Found!
+
+#124    Random 90   (252 records found)
+URL   = http://wisesoft.ddns.net:8000/live80_00
+GENRE = 00 Classics JTR 80 Decades mp3 RBPI2 90 Rock
+TITLE = Depeche Mode - Enjoy The Silence
+
+#125    Random 90   (252 records found)
+URL   = http://stmbr.com.br:8028/stream
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#126    Random 90   (252 records found)
+URL   = http://uk7.internet-radio.com:8281/live
+GENRE = Smooth Rock-Lounge-Chill-Soul-Disco-funk-New Jazz-Pop Wave-60s-70s-80s-90s-2000s-Easy Listening
+TITLE = Chris Isaak - Blue HÃ´tel
+
+#127    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/ru-aac-48
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ
+
+#128    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/PASSIONTVRadiostation
+GENRE = 90er
+TITLE = No Title Found!
+
+#129    Random 90   (252 records found)
+URL   = http://kappa.radioplayer.com.ar:9130/netclassic903
+GENRE = 80's 70's 90's
+TITLE = No Title Found!
+
+#130    Random 90   (252 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/32
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Steve Taylor - I Want To Be A Clone
+
+#131    Random 90   (252 records found)
+URL   = http://fmsentir.sytes.net:443/stream.mp3
+GENRE = Top 40 70s Easy Oldies 90s Listening Rock Pop 80s
+TITLE = No Title Found!
+
+#132    Random 90   (252 records found)
+URL   = http://stream.dancewave.online:8080/retrodance.opus
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#133    Random 90   (252 records found)
+URL   = http://live.topfm.hu:8000/radio.mp3
+GENRE = 00s 90s
+TITLE = Alibi vs. Rockefeller - Sexual Healing (2007)
+
+#134    Random 90   (252 records found)
+URL   = http://s2.cdnradio.ru:80/ru-mp3-128
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ'
+
+#135    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/1HITS90s
+GENRE = 90s
+TITLE = Jill Zimmerman - Yosemite
+
+#136    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/irabo-inselradio-borkum
+GENRE = Top 40 90s Pop 80s
+TITLE = 4 Non Blondes - What's Up
+
+#137    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/Static-ClassicAltRadio
+GENRE = Classic Alternative 00s 90s 80s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#138    Random 90   (252 records found)
+URL   = http://113fm-edge1.cdnstream.com:80/1727_128
+GENRE = 90s
+TITLE = The Offspring - Come Out And Play (Keep Em Separated)
+
+#139    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/irabo-inselradio-borkum
+GENRE = Top 40 90s Pop 80s
+TITLE = 4 Non Blondes - What's Up
+
+#140    Random 90   (252 records found)
+URL   = http://stream.deventerrtv.nl:8000/mp3
+GENRE = 60s 70s 00s 90s 10s Pop 80s
+TITLE = Drive By Wire - Five Ft. High
+
+#141    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/the90s
+GENRE = 90s
+TITLE = Dj Michele Parisi - Mp 45
+
+#142    Random 90   (252 records found)
+URL   = http://manager3.streamradio.fr:1080/stream
+GENRE = Hits Actuelle 70.80.90.2000.&amp
+TITLE = Change - Hold Tight
+
+#143    Random 90   (252 records found)
+URL   = http://upradio.ovh:8054/up-extra
+GENRE = 90s 80s
+TITLE = FALCO - JEANNY (1985)
+
+#144    Random 90   (252 records found)
+URL   = http://streaming.rubinbroadcasting.com:80/rewind
+GENRE = 90s
+TITLE = No Title Found!
+
+#145    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = Ozzy Osbourne - Mama, I'm Coming Home
+
+#146    Random 90   (252 records found)
+URL   = http://stream.salyutfm.ru:8030/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = Ð¢Ð¸Ð½Ð° ÐÐ¾ÑÐ½ÐµÑ - ÐÐ°ÑÑÐµÐ³Ð½Ð¸ÑÑ
+
+#147    Random 90   (252 records found)
+URL   = http://stream.diamondstation.live:2086/stream.aac
+GENRE = Disco 90s 80s
+TITLE = No Details Available!
+
+#148    Random 90   (252 records found)
+URL   = http://radiominor.ru:8000/tbd.mp3
+GENRE = pop electronic 2000 club 90 dance
+TITLE = Bazzi - Myself
+
+#149    Random 90   (252 records found)
+URL   = http://stream3.dancewave.online:8080/retrodance.mp3
+GENRE = Dance 90s
+TITLE = This is Dance Wave Retro!
+
+#150    Random 90   (252 records found)
+URL   = http://streaming316.radionomy.com:80/latina-clasica
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#151    Random 90   (252 records found)
+URL   = http://uplink.intronic.nl:80/goldenflash_mobile
+GENRE = 80 Oldies 2000 70 90 60
+TITLE = Ruth McKenny - Who's Gonna Be The Next One
+
+#152    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/ru-hd
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ'
+
+#153    Random 90   (252 records found)
+URL   = http://centova.pure-isp.eu:8009/ultra_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Duelo - Eres Mi Inspiracion [Cb]
+
+#154    Random 90   (252 records found)
+URL   = http://stream.diamondstation.live:2086/stream.mp3
+GENRE = Disco 90s 80s
+TITLE = No Details Available!
+
+#155    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/aac-64
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = SOLVEIG Martin - Hello
+
+#156    Random 90   (252 records found)
+URL   = http://mcfoxtale.ddns.net:8000/wfojmain
+GENRE = Synthwave Variety 2000s Vaporwave ClassicRock Top40 90s Rock 80s Various
+TITLE = Haywyre - Doppelganger
+
+#157    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/1HITS90s_64.aac
+GENRE = 90s
+TITLE = Joel - Caught In The Middle
+
+#158    Random 90   (252 records found)
+URL   = http://centova.pure-isp.eu:8009/low_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Duelo - Eres Mi Inspiracion [Cb]
+
+#159    Random 90   (252 records found)
+URL   = http://manager.conceptradio.fr:1540/stream
+GENRE = 90'S Dance
+TITLE = DANCE FLOOR 2000 - avec Dj E Flau!
+
+#160    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/90sAllTimeGreatest
+GENRE = 90s
+TITLE = Garfield - Party Of Love (Club Mix)
+
+#161    Random 90   (252 records found)
+URL   = http://www.pluz.com.ar:8020/live.aac
+GENRE = Live Electronica Argentina 70s Neuquen Clasicos Vivo 90s Rock Retro 80s
+TITLE = Radio Pluz Online
+
+#162    Random 90   (252 records found)
+URL   = http://hdr.asuscomm.com:8000/eurodance_low
+GENRE = Eurodance 90s
+TITLE = Neon Light feat. Ras Kwuame - Dance To The Trance [1]
+
+#163    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/BDJEurodance90s_64.aac
+GENRE = 90s
+TITLE = Paffendorf - Smile
+
+#164    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/PASSIONTVRadiostation
+GENRE = 90er
+TITLE = No Title Found!
+
+#165    Random 90   (252 records found)
+URL   = http://stream3.dancewave.online:8080/retrodance.aac
+GENRE = Dance 90s
+TITLE = 2 Unlimited - Maximum Overdrive
+
+#166    Random 90   (252 records found)
+URL   = http://85.214.167.78:15000/rasat.ogg
+GENRE = Trance Techno Goa 70s House Dance Video 90s Rock Pop 80s
+TITLE = No Title Found!
+
+#167    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/BDJEurodance90s_64.aac
+GENRE = 90s
+TITLE = 2 Brothers On The 4th Floor - Let Me Be Free
+
+#168    Random 90   (252 records found)
+URL   = http://kathy.torontocast.com:1860/stream
+GENRE = 80's 90's 2000 Top40
+TITLE = DJ-Peter: OMI - Cheerleader (Felix Jaehn remix)
+
+#169    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/Bestofthe90-s_64.aac
+GENRE = 90's
+TITLE = Extreme - Hole Hearted
+
+#170    Random 90   (252 records found)
+URL   = http://10290.cloudrad.io:9044/live
+GENRE = house top 40 edm 90s dance
+TITLE = Shaun Mynett - Dance Music Now - Episode 35
+
+#171    Random 90   (252 records found)
+URL   = https://stream.laut.fm/100090er
+GENRE = Oldies Decades 90s Rock Pop
+TITLE = No Details Available!
+
+#172    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/mp3-128
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = SOLVEIG Martin - Hello'
+
+#173    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Carpenters - It's Going to Take Some Time Time
+
+#174    Random 90   (252 records found)
+URL   = http://188.165.11.30:4500/live.mp3
+GENRE = Hits 80's-90's-00's Best The
+TITLE = DJ SLASH AZT BESZELI MAR AZ EGESZ VAROS
+
+#175    Random 90   (252 records found)
+URL   = http://hdr.asuscomm.com:8000/hard_dance
+GENRE = HandsUp Trance OldScool Techno Rave 00s 90s
+TITLE = Racoon - Play this Tune (Very Loud) [6]
+
+#176    Random 90   (252 records found)
+URL   = http://larry.torontocast.com:1790/stream
+GENRE = 60s 70s 90s 80s
+TITLE = The Zombies - Summertime
+
+#177    Random 90   (252 records found)
+URL   = http://icecast.bhjms-radio.de:8500/bhjms_192
+GENRE = Misc House 90s Pop 80s
+TITLE = 2 Unlimited - Spread Your Love (Digidance Happy Hardcore Edit)
+
+#178    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/90sAllTimeGreatest
+GENRE = 90s
+TITLE = Garfield - Party Of Love (Club Mix)
+
+#179    Random 90   (252 records found)
+URL   = http://uk4.internet-radio.com:8021/autodj
+GENRE = Summer 70s Chart 00s 90s Pop 80s
+TITLE = Treehouse Radio - Media Streaming Info
+
+#180    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/A11-Radio-Dreams-90s_64.aac
+GENRE = 80 70 90
+TITLE = Informations - France - 12-09-2020 03:41
+
+#181    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = Bob Seger & The Silver Bullet Band - Rock and Roll Never Forgets
+
+#182    Random 90   (252 records found)
+URL   = http://qmr.hopto.org:7062/stream
+GENRE = 90's
+TITLE = 3T - Why (featuring Michael Jackson)
+
+#183    Random 90   (252 records found)
+URL   = http://stream3.dancewave.online:8080/retrodance.opus
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#184    Random 90   (252 records found)
+URL   = http://webradio.vienna.at:80/vie-90er.aac
+GENRE = 90er
+TITLE = Depeche Mode - Enjoy The Silence
+
+#185    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/BDJEurodance90s
+GENRE = 90s
+TITLE = 2 Brothers On The 4th Floor - Let Me Be Free
+
+#186    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/A11-Radio-Dreams-90s_64.aac
+GENRE = 80 70 90
+TITLE =  julie A11.RADIO.DREAMS-90s - prÃ©vention coronavirus sauver des vies restez prudent
+
+#187    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/80s90ssuperpophits
+GENRE = pop80s&90s
+TITLE = Maria Vidal - Body Rock
+
+#188    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/Classic-RockFlorida
+GENRE = 60s 70s 90s Rock 80s
+TITLE = Ozzy Osbourne - Mama, I'm Coming Home
+
+#189    Random 90   (252 records found)
+URL   = http://comet.shoutca.st:8279/stream3_autodj
+GENRE = 70s 90s 80s
+TITLE = LAURA PAUSINI - IL MIO SBAGLIO PIU' GRANDE
+
+#190    Random 90   (252 records found)
+URL   = http://stream.akroradio.com:10012/Akrogg64.ogg
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = No Title Found!
+
+#191    Random 90   (252 records found)
+URL   = http://stream.akroradio.com:10012/AkroRadio
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = Le Son Du BiBi : KING AFRICA - LA BOMBA REMIX
+
+#192    Random 90   (252 records found)
+URL   = http://113fm-edge2.cdnstream.com:80/1727_128
+GENRE = 90s
+TITLE = The Offspring - Come Out And Play (Keep Em Separated)
+
+#193    Random 90   (252 records found)
+URL   = http://stream.akroradio.com:10012/Akro.ogg
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = No Title Found!
+
+#194    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/Static-ClassicAltRadio
+GENRE = Classic Alternative 00s 90s 80s
+TITLE = One_Friday_styling_Packed - One_Friday_styling2_Packed
+
+#195    Random 90   (252 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2541_128.mp3
+GENRE = 90s. Top 40 80s
+TITLE = Whitney Houston - Didn't We Almost Have It All - Whitney Houston
+
+#196    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/aac-48
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = SOLVEIG Martin - Hello
+
+#197    Random 90   (252 records found)
+URL   = http://icecast.bhjms-radio.de:8500/bhjms_96
+GENRE = Misc House 90s Pop 80s
+TITLE = 2 Unlimited - Spread Your Love (Digidance Happy Hardcore Edit)
+
+#198    Random 90   (252 records found)
+URL   = http://streaming.radiodancefloor.it:80/dancefloor.mp3
+GENRE = techno house eurodance annees90 anni90 club disco trance handsup 90s dance
+TITLE = FLASHBACK 90s RADIO SHOW
+
+#199    Random 90   (252 records found)
+URL   = http://eagle.streemlion.com:9087/autodj
+GENRE = Dance 90s
+TITLE = A+ - Enjoy Yourself
+
+#200    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/A11-Radio-Dreams-90s
+GENRE = 80 70 90
+TITLE = A11.RADIO.DREAMS-90s - piratÃ© sur internet
+
+#201    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/80s90ssuperpophits_64.aac
+GENRE = pop80s&90s
+TITLE = Shannon - Let The Music Play
+
+#202    Random 90   (252 records found)
+URL   = http://stream.dancewave.online:8080/retrodance.aac
+GENRE = Dance 90s
+TITLE = 2 Unlimited - Maximum Overdrive
+
+#203    Random 90   (252 records found)
+URL   = http://radio.streemlion.com:2580/stream
+GENRE = new pop 70s 00s rock wave 90s 80s
+TITLE = Empty playlist
+
+#204    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/80s90ssuperpophits
+GENRE = pop80s&90s
+TITLE = Maria Vidal - Body Rock
+
+#205    Random 90   (252 records found)
+URL   = http://hestia.cdnstream.com:80/1400_128
+GENRE = Adult Contemporary 70s 2000 Soft Rock 90s Rock Pop 80s
+TITLE = Miami Sound Machine - Dr. Beat 
+
+#206    Random 90   (252 records found)
+URL   = http://mcfoxtale.ddns.net:8000/wfojmainaac
+GENRE = Synthwave Variety 2000s Vaporwave ClassicRock Top40 90s Rock 80s Various
+TITLE = Twenty One Pilots - Chlorine
+
+#207    Random 90   (252 records found)
+URL   = http://ascl.denial.cl:8014/stream
+GENRE = 2000s 70s 90s 80s
+TITLE = No Title Found!
+
+#208    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Smokey Robinson - The Tears Of A Clown
+
+#209    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/BDJEurodance90s
+GENRE = 90s
+TITLE = 2 Brothers On The 4th Floor - Let Me Be Free
+
+#210    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/Bestofthe90-s_64.aac
+GENRE = 90's
+TITLE = The Christians - The Bottle
+
+#211    Random 90   (252 records found)
+URL   = http://streaming.radiodancefloor.it:80/live128k.mp3
+GENRE = techno house eurodance annees90 anni90 club disco trance handsup 90s dance
+TITLE = FLASHBACK 90s RADIO SHOW
+
+#212    Random 90   (252 records found)
+URL   = http://server.bellaradio.it:8090/a1.mp3
+GENRE = House Reggaeton Dance 90s
+TITLE = No Title Found!
+
+#213    Random 90   (252 records found)
+URL   = http://blastozoicera-stream.theblast.fm.fast-serv.com:80/64
+GENRE = NewWave Classic Punk Metal Christian 00s 90s Rock 80s
+TITLE = Tonio K - Impressed
+
+#214    Random 90   (252 records found)
+URL   = http://icecast.bhjms-radio.de:8500/bhjms_40.aac
+GENRE = Misc House 90s Pop 80s
+TITLE = 2 Unlimited - Spread Your Love (Digidance Happy Hardcore Edit)
+
+#215    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/the90s_64.aac
+GENRE = 90s
+TITLE = Jng - The 90's Radio (M 2)
+
+#216    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/CRIKFM-TheLynxClassicHits
+GENRE = 70s 90s and Today 80s
+TITLE = Smokey Robinson - The Tears Of A Clown
+
+#217    Random 90   (252 records found)
+URL   = http://manager.conceptradio.fr:2120/stream
+GENRE = 90'S Dance
+TITLE = DANCE FLOOR 2000 - avec Dj E Flau!
+
+#218    Random 90   (252 records found)
+URL   = http://stream.diamondstation.live:2086/streamhq.mp3
+GENRE = Disco 90s 80s
+TITLE = No Details Available!
+
+#219    Random 90   (252 records found)
+URL   = http://daniel.torontocast.com:1410/stream
+GENRE = Top 40 Adult Contemporary 80 90
+TITLE = Ed Sheeran - Thinking Out Loud
+
+#220    Random 90   (252 records found)
+URL   = http://hazel.torontocast.com:3120/stream
+GENRE = 80s and 90s Classic Hits from the 70s
+TITLE = Taylor Dayne - Tell It to My Heart
+
+#221    Random 90   (252 records found)
+URL   = http://stmbr.com.br:8888/stream
+GENRE = 90s 80s
+TITLE = No Title Found!
+
+#222    Random 90   (252 records found)
+URL   = http://stream.fcons.net:80/WDON-MFM-128.aac
+GENRE = Hits Radio 90s Epic 80s
+TITLE = Air - Sexy Boy
+
+#223    Random 90   (252 records found)
+URL   = http://video1.getstreamhosting.com:8926/stream
+GENRE = 90s 80s
+TITLE = No Details Available!
+
+#224    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/the90s
+GENRE = 90s
+TITLE = Dj Michele Parisi - Mp 45
+
+#225    Random 90   (252 records found)
+URL   = http://stream.salyutfm.ru:8060/stream
+GENRE = retro rock 90s Pop 80s
+TITLE = Ð¢Ð¸Ð½Ð° ÐÐ¾ÑÐ½ÐµÑ - ÐÐ°ÑÑÐµÐ³Ð½Ð¸ÑÑ
+
+#226    Random 90   (252 records found)
+URL   = http://cast.secureradiocast.co.uk:8000/autodj
+GENRE = 80's pop cheesy 70's 90's
+TITLE = Joan Jett - I Love Rock'n'Roll [8L]
+
+#227    Random 90   (252 records found)
+URL   = http://streaming.radiodancefloor.it:80/live.vorbis
+GENRE = techno house eurodance annees90 anni90 club disco trance handsup 90s dance
+TITLE = No Title Found!
+
+#228    Random 90   (252 records found)
+URL   = http://stream2.dancewave.online:8080/retrodance.ogg
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#229    Random 90   (252 records found)
+URL   = http://live.radiostudio.be:8000/vrd
+GENRE = music 90s
+TITLE = No Title Found!
+
+#230    Random 90   (252 records found)
+URL   = http://play.radioftb.net:8006/stream
+GENRE = 70s radio Top40 music 90s Rock Pop 80s
+TITLE = No Title Found!
+
+#231    Random 90   (252 records found)
+URL   = http://streaming307.radionomy.com:80/BDJEurodance90s_64.aac
+GENRE = 90s
+TITLE = Aqua - Barbie Girl
+
+#232    Random 90   (252 records found)
+URL   = http://live.foerde-radio.de:8010/stream
+GENRE = 80er 90er und das Beste von heute
+TITLE = Sigala - Brighter Days
+
+#233    Random 90   (252 records found)
+URL   = http://stream4.dancewave.online:8080/retrodance.ogg
+GENRE = Dance 90s
+TITLE = No Title Found!
+
+#234    Random 90   (252 records found)
+URL   = http://s5.radionetz.de:80/0n-greatesthits_app.mp3
+GENRE = 2010s 2000s Hits Black Hiphop 2010er Dance 90er 2000er 90s 80er Rock Pop 80s
+TITLE = Sting - Englishman In New York 
+
+#235    Random 90   (252 records found)
+URL   = http://hdr.asuscomm.com:8000/eurodance_flac.ogg
+GENRE = Eurodance 90s
+TITLE = No Title Found!
+
+#236    Random 90   (252 records found)
+URL   = http://radiostreamserver.de:80/wunschradio-90er.mp3
+GENRE = Nineties Eurodance Dance 90er 90s
+TITLE = R. Kelly - I Believe I Can Fly
+
+#237    Random 90   (252 records found)
+URL   = http://streaming.radiodancefloor.it:80/live.mp3
+GENRE = techno house eurodance annees90 anni90 club disco trance handsup 90s dance
+TITLE = FLASHBACK 90s RADIO SHOW
+
+#238    Random 90   (252 records found)
+URL   = http://cp16.cdnwz.net:80/90fm
+GENRE = www.90fm.co.il http
+TITLE = No Title Found!
+
+#239    Random 90   (252 records found)
+URL   = http://qmr.hopto.org:7016/stream
+GENRE = 90's
+TITLE = 3T - Why (featuring Michael Jackson)
+
+#240    Random 90   (252 records found)
+URL   = http://streaming211.radionomy.com:80/irabo-inselradio-borkum
+GENRE = Top 40 90s Pop 80s
+TITLE = 4 Non Blondes - What's Up
+
+#241    Random 90   (252 records found)
+URL   = http://stream.radiocumbernauld.uk:8004/stream
+GENRE = Top 40 Talk 90s Pop 80s
+TITLE = Feist - 1234
+
+#242    Random 90   (252 records found)
+URL   = http://stream.akroradio.com:10012/Akro64
+GENRE = 80's Techno Hits Dance Top40 90's
+TITLE = Le Son Du BiBi : KING AFRICA - LA BOMBA REMIX
+
+#243    Random 90   (252 records found)
+URL   = http://webradio.bibzer.com:8000/Nostalgie
+GENRE = Sympa 70-80-90 Music
+TITLE = Jorja Smith / Burna Boy - Be Honest - Le FunClub WebRadio
+
+#244    Random 90   (252 records found)
+URL   = http://stream.deventerrtv.nl:8000/stream
+GENRE = 60s 70s 00s 90s 10s Pop 80s
+TITLE = Drive By Wire - Five Ft. High
+
+#245    Random 90   (252 records found)
+URL   = http://manager1.creativradio.pro:2350/stream
+GENRE = jour Club a ce 70-80-90 disco
+TITLE = PL RadioPhoeNiX.fr: e-Flau! - Dancefloor 2000 Live Session
+
+#246    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/80s90ssuperpophits_64.aac
+GENRE = pop80s&90s
+TITLE = Shannon - Let The Music Play
+
+#247    Random 90   (252 records found)
+URL   = http://s3.cdnradio.ru:80/ru-mp3-128
+GENRE = Top Misc Hits Russian Dance Top40 90s Pop Music Various
+TITLE = Ð¥ÐÐÐÐÐÐÐÐÐ ÐÐ°ÑÐ¸Ð½Ð° - Ð Ð¯ ÐÐ°ÑÑÐ´Ð½Ð°Ñ'
+
+#248    Random 90   (252 records found)
+URL   = http://server.bellaradio.it:8090/a1.ogg
+GENRE = House Reggaeton Dance 90s
+TITLE = No Title Found!
+
+#249    Random 90   (252 records found)
+URL   = http://fmsentir.sytes.net:443/stream
+GENRE = Top 40 70s Easy Oldies 90s Listening Rock Pop 80s
+TITLE = Devo - That's Good
+
+#250    Random 90   (252 records found)
+URL   = http://icecast-ipv6.pulsradio.com:80/puls90AAC64.mp3
+GENRE = 90s
+TITLE = Cosmic Gate - The Drums (Radio Mix) (1999)
+
+#251    Random 90   (252 records found)
+URL   = http://93.157.62.235:8000/90s
+GENRE = 90s
+TITLE = Alanis Morisette - Uninvited
+
+#252    Random 90   (252 records found)
+URL   = http://streaming308.radionomy.com:80/the90s_64.aac
+GENRE = 90s
+TITLE = Jingle - Nathalie From Soundlovers (Surrender) Ita
+
+Runtime (in seconds): 168
+

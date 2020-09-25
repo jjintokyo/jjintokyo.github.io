@@ -1,0 +1,277 @@
+#1    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/25hern
+GENRE = Scanner
+TITLE = No Title Found!
+
+#2    Random scan   (55 records found)
+URL   = http://stream.ColumbiaScanner.org:8000/col-fireems-pri
+GENRE = Scanner
+TITLE = 3:41 PM - SCANNING
+
+#3    Random scan   (55 records found)
+URL   = http://brown.netexpress.com:8010/PANC
+GENRE = Scanner
+TITLE = No Title Found!
+
+#4    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/47f911
+GENRE = Scanner
+TITLE = No Title Found!
+
+#5    Random scan   (55 records found)
+URL   = http://audio.warn.org:8000/warn
+GENRE = weather amateur scanner ham talk
+TITLE = No Title Found!
+
+#6    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/25ems
+GENRE = Scanner
+TITLE = No Title Found!
+
+#7    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/groveland-holly
+GENRE = Scanner
+TITLE = No Title Found!
+
+#8    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/24f911-vhf
+GENRE = Scanner
+TITLE = No Title Found!
+
+#9    Random scan   (55 records found)
+URL   = http://brown.netexpress.com:8010/ZAN
+GENRE = Scanner
+TITLE = No Title Found!
+
+#10    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/w8cmn-uhf
+GENRE = Scanner
+TITLE = No Title Found!
+
+#11    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/25fltf1
+GENRE = Scanner
+TITLE = No Title Found!
+
+#12    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/w8fsm-22462
+GENRE = Scanner
+TITLE = No Title Found!
+
+#13    Random scan   (55 records found)
+URL   = http://www.summitcountyscanners.net:8000/SCSD
+GENRE = scanner
+TITLE = Scanning ....
+
+#14    Random scan   (55 records found)
+URL   = http://www.summitcountyscanners.net:8000/Stow
+GENRE = scanner
+TITLE = Scanning ....
+
+#15    Random scan   (55 records found)
+URL   = http://brown.netexpress.com:8010/PALH
+GENRE = Scanner
+TITLE = No Title Found!
+
+#16    Random scan   (55 records found)
+URL   = http://stream.centralcoastonlinescanner.com:8000/rfs
+GENRE = Scanner
+TITLE = Central Coast Online Scanner - Scanning The Airwaves Of The Central Coast.......
+
+#17    Random scan   (55 records found)
+URL   = http://brown.netexpress.com:8010/PANC-CLNC-GND-APP
+GENRE = Scanner
+TITLE = No Title Found!
+
+#18    Random scan   (55 records found)
+URL   = http://stream.ColumbiaScanner.org:8000/special1
+GENRE = Scanner
+TITLE = No Title Found!
+
+#19    Random scan   (55 records found)
+URL   = http://198.46.223.103:8000/W9KHP
+GENRE = ProScan
+TITLE = Scanning
+
+#20    Random scan   (55 records found)
+URL   = http://stream.ColumbiaScanner.org:8000/bu
+GENRE = Scanner
+TITLE = 3:42 PM - SCANNING
+
+#21    Random scan   (55 records found)
+URL   = http://stream2.scannerauthority.com:8000/ma_bristol_all
+GENRE = Scanner
+TITLE = Scanning
+
+#22    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/event-t220
+GENRE = Scanner
+TITLE = No Title Found!
+
+#23    Random scan   (55 records found)
+URL   = http://urchin.juststreamwith.us:1290/stream
+GENRE = Scanner
+TITLE = Scanning
+
+#24    Random scan   (55 records found)
+URL   = http://brown.netexpress.com:8010/PANC-TWR
+GENRE = Scanner
+TITLE = No Title Found!
+
+#25    Random scan   (55 records found)
+URL   = http://stream.ColumbiaScanner.org:8000/col-fireems
+GENRE = Scanner
+TITLE = 3:42 PM - SCANNING
+
+#26    Random scan   (55 records found)
+URL   = http://video1.getstreamhosting.com:8916/crimesux_radio_a95c530a7af5f492a74499e70578d150
+GENRE = Scanner
+TITLE = No Details Available!
+
+#27    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/16f911-vhf
+GENRE = Scanner
+TITLE = Scanning
+
+#28    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/25f911
+GENRE = Scanner
+TITLE = No Title Found!
+
+#29    Random scan   (55 records found)
+URL   = http://stream.ColumbiaScanner.org:8000/col-police
+GENRE = Scanner
+TITLE = 3:42 PM - SCANNING
+
+#30    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/393-trs
+GENRE = Scanner
+TITLE = Scanning
+
+#31    Random scan   (55 records found)
+URL   = http://video1.getstreamhosting.com:8120/firesux_radio_a95c530a7af5f492a74499e70578d150
+GENRE = Scanner
+TITLE = No Details Available!
+
+#32    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/76f911-vhf
+GENRE = Scanner
+TITLE = Scanning - moses.bz
+
+#33    Random scan   (55 records found)
+URL   = http://brown.netexpress.com:8010/PAMR
+GENRE = Scanner
+TITLE = No Title Found!
+
+#34    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/mi5
+GENRE = Scanner
+TITLE = No Title Found!
+
+#35    Random scan   (55 records found)
+URL   = http://brown.netexpress.com:8010/PAED
+GENRE = Scanner
+TITLE = No Title Found!
+
+#36    Random scan   (55 records found)
+URL   = http://stream2.scannerauthority.com:8000/ma_taunton_pd_fd
+GENRE = Scanner
+TITLE = No Title Found!
+
+#37    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/w8cmn-vhf
+GENRE = Scanner
+TITLE = No Title Found!
+
+#38    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/24p911-vhf
+GENRE = Scanner
+TITLE = Scanning - moses.bz
+
+#39    Random scan   (55 records found)
+URL   = http://listen.trackstreamer.com:8000/botewild
+GENRE = EMS fire police scanner
+TITLE = 26416 BROWARD FD DISP1
+
+#40    Random scan   (55 records found)
+URL   = http://radio.weatherusa.net:80/NWR/KIG65.mp3
+GENRE = Scanner
+TITLE = No Title Found!
+
+#41    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/44f911-vhf
+GENRE = Scanner
+TITLE = No Title Found!
+
+#42    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/73copd1
+GENRE = Scanner
+TITLE =  
+
+#43    Random scan   (55 records found)
+URL   = http://listen.trackstreamer.com:8000/fecftl
+GENRE = railroad scanner
+TITLE = Florida East Coast Ry - Oakland Park; R=Road, L=Disp talkback
+
+#44    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/w8fsm-uhf
+GENRE = Scanner
+TITLE = No Title Found!
+
+#45    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/76p911-vhf
+GENRE = Scanner
+TITLE = 76P911 - 155.5350 - moses.bz
+
+#46    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/kc8ump-443625
+GENRE = Scanner
+TITLE = No Title Found!
+
+#47    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/nocfa-springfield
+GENRE = Scanner
+TITLE = No Title Found!
+
+#48    Random scan   (55 records found)
+URL   = http://www.summitcountyscanners.net:8000/stream
+GENRE = Scanner
+TITLE = Scanning ....
+
+#49    Random scan   (55 records found)
+URL   = http://listen.trackstreamer.com:8000/botemixer
+GENRE = EMS fire police scanner
+TITLE = 5297 FTL POLICE 1
+
+#50    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/25com
+GENRE = Scanner
+TITLE = No Title Found!
+
+#51    Random scan   (55 records found)
+URL   = http://kd2qqv.ddns.net:8000/stream
+GENRE = Scanner
+TITLE = No Details Available!
+
+#52    Random scan   (55 records found)
+URL   = http://stream.ColumbiaScanner.org:8000/col-stereo
+GENRE = Scanner
+TITLE = 3:43 PM - L: SCANNING R: SCANNING 
+
+#53    Random scan   (55 records found)
+URL   = http://stream.ColumbiaScanner.org:8000/col-police-pri
+GENRE = Scanner
+TITLE = 3:43 PM - SCANNING
+
+#54    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/kb8swr
+GENRE = Scanner
+TITLE =  
+
+#55    Random scan   (55 records found)
+URL   = http://audio.moses.bz:80/78f911-vhf
+GENRE = Scanner
+TITLE = No Title Found!
+
+Runtime (in seconds): 110
+

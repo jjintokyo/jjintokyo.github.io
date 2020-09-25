@@ -1,0 +1,887 @@
+#1    Random talk   (177 records found)
+URL   = http://radio.viaflux.com:9270/live.aac
+GENRE = News Talk Pop
+TITLE = No Title Found!
+
+#2    Random talk   (177 records found)
+URL   = http://listen.noagendastream.com:80/noagenda
+GENRE = Talk Radio
+TITLE = Moe Factz #48: "Shootist" - Sat, 05 Sep 2020 - moefactz.com
+
+#3    Random talk   (177 records found)
+URL   = http://188.128.117.99:8000/echovolgograd
+GENRE = Talk
+TITLE = No Title Found!
+
+#4    Random talk   (177 records found)
+URL   = http://manager4.streamradio.fr:1310/stream
+GENRE = Classic Talk Top40
+TITLE = Radio Grand Lac
+
+#5    Random talk   (177 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2354_64.aac
+GENRE = Talk
+TITLE = No Title Found!
+
+#6    Random talk   (177 records found)
+URL   = http://eu1.reliastream.com:7178/MHR48
+GENRE = News Hip-Hop / Rap Talk Show Pop
+TITLE = Mark Ronson - Late Night Feelings (feat. Lykke Li) 
+
+#7    Random talk   (177 records found)
+URL   = http://gtrk22.ru:8000/russia22
+GENRE = News Talk
+TITLE = No Title Found!
+
+#8    Random talk   (177 records found)
+URL   = http://47.50.73.146:8000/mount2
+GENRE = Talk
+TITLE = No Title Found!
+
+#9    Random talk   (177 records found)
+URL   = http://188.128.117.99:8000/echovolgograd_aacplus
+GENRE = Talk
+TITLE = No Title Found!
+
+#10    Random talk   (177 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2113_64.aac
+GENRE = News-Talk
+TITLE = The Real Side -  - 
+
+#11    Random talk   (177 records found)
+URL   = http://cloud.viaflux.com.br:1600/radio.aac
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+#12    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/AmericanFreedomNetwork
+GENRE = Talk
+TITLE = No Title Found!
+
+#13    Random talk   (177 records found)
+URL   = http://s4.yesstreaming.net:7018/ra4.mp3
+GENRE = Talk
+TITLE = No Title Found!
+
+#14    Random talk   (177 records found)
+URL   = http://c7.radioboss.fm:8079/live
+GENRE = Talk
+TITLE = YG Ft. Drake and Kamaiyah - Why You Always Hatin (Dj Rukus Intro Edit - Clean)
+
+#15    Random talk   (177 records found)
+URL   = http://cp12.cdnwz.net:80/103fm
+GENRE = Talk
+TITLE = No Title Found!
+
+#16    Random talk   (177 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2114_64.aac
+GENRE = Business Talk
+TITLE =  - 
+
+#17    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/2cr-radio
+GENRE = Talk Chinese
+TITLE = No Title Found!
+
+#18    Random talk   (177 records found)
+URL   = http://audio.warn.org:8000/warn
+GENRE = weather amateur scanner ham talk
+TITLE = No Title Found!
+
+#19    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/wlaq
+GENRE = Talk
+TITLE = No Title Found!
+
+#20    Random talk   (177 records found)
+URL   = http://lynx.prostreaming.net:8145/live
+GENRE = Talk Rock Pop
+TITLE = Canned Heat - On The Road Again
+
+#21    Random talk   (177 records found)
+URL   = http://47.50.73.146:8000/mount1
+GENRE = Talk
+TITLE = No Title Found!
+
+#22    Random talk   (177 records found)
+URL   = http://eu1.reliastream.com:7178/MHR
+GENRE = News Hip-Hop / Rap Talk Show Pop
+TITLE = Mark Ronson - Late Night Feelings (feat. Lykke Li) 
+
+#23    Random talk   (177 records found)
+URL   = http://centova.pure-isp.eu:8009/high_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Curiosity Killed The Cat - Ordinary Day (12'' Mix) [B9]
+
+#24    Random talk   (177 records found)
+URL   = http://c12.radioboss.fm:8173/autodj
+GENRE = Talk
+TITLE = The Older Brother Podcast 81 - The "Agency To Escape Poverty" Episode
+
+#25    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/noogaradio
+GENRE = Talk
+TITLE = No Title Found!
+
+#26    Random talk   (177 records found)
+URL   = http://stream.wide-net.org:80/orizzonti
+GENRE = TALK Radio
+TITLE = Emma - Lisola
+
+#27    Random talk   (177 records found)
+URL   = http://stream.radiomeloy.no:8000/nordreisa.kommunestyre
+GENRE = Talk
+TITLE = No Details Available!
+
+#28    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:2850/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = As a church By Brian Lubega
+
+#29    Random talk   (177 records found)
+URL   = http://live.radiom.fr/live024.mp3
+GENRE = Folk Student Electro Talk Dance Rock Various
+TITLE = Urban Species - Predictably Unpredictable
+
+#30    Random talk   (177 records found)
+URL   = http://uk5.internet-radio.com:8107/autodj
+GENRE = ska Electronic Techno Drum Bass northern dub and House Reggae roots soul talk
+TITLE = Unknown - THE FORT RADIO SHOW RECORDING 16 01 2020 19 02
+
+#31    Random talk   (177 records found)
+URL   = http://nr9.newradio.it:9002/stream2
+GENRE = Talk Rock Pop
+TITLE = ANTONELLA RUGGIERO - Una Miniera
+
+#32    Random talk   (177 records found)
+URL   = http://188.128.117.99:8000/echoekb_aacplus
+GENRE = Talk
+TITLE = No Title Found!
+
+#33    Random talk   (177 records found)
+URL   = http://stream002.radio.hu:80/mr1.ogg
+GENRE = News Hungary Talk
+TITLE = No Title Found!
+
+#34    Random talk   (177 records found)
+URL   = http://c11.radioboss.fm:8128/autodj
+GENRE = Talk Christian
+TITLE = Evangelist King, A Female Exorcist - How to Be Liberated from the Opinion of Mankind
+
+#35    Random talk   (177 records found)
+URL   = http://stream.radio-unicc.de:8000/clt_v5_lq.mp3
+GENRE = Talk
+TITLE = No Details Available!
+
+#36    Random talk   (177 records found)
+URL   = http://80.167.205.32:8000/stream
+GENRE = Talkradio
+TITLE = No Title Found!
+
+#37    Random talk   (177 records found)
+URL   = http://streams.primesite7.com:8000/GuyFinleyRadio.mp3
+GENRE = talk
+TITLE = GF_DEC12_IR_#892
+
+#38    Random talk   (177 records found)
+URL   = http://radio.viaflux.com:5533/live
+GENRE = News Sertanejo Talk Gaucha
+TITLE = No Title Found!
+
+#39    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/awr
+GENRE = Talk
+TITLE = No Title Found!
+
+#40    Random talk   (177 records found)
+URL   = http://s4.yesstreaming.net:7018/ra.mp3
+GENRE = Talk
+TITLE = No Title Found!
+
+#41    Random talk   (177 records found)
+URL   = http://live.lora924.de:8000/loramp3.mp3
+GENRE = varios other news community talk alternative
+TITLE = Mainly Jazz - Mostly Women, von Do 16Uhr (nur Internet) (LQ mp3-Version)
+
+#42    Random talk   (177 records found)
+URL   = http://streaming315.radionomy.com:80/foxnews
+GENRE = News Talk
+TITLE = ADBRK_END
+
+#43    Random talk   (177 records found)
+URL   = http://stream002.radio.hu:80/mr1.mp3
+GENRE = News Hungary Talk
+TITLE = Szombat delutan Banner Gezaval - kivansagokkal ismetles
+
+#44    Random talk   (177 records found)
+URL   = http://mcp-2.mm-stream.nl:8093/stream
+GENRE = Talk
+TITLE = No Details Available!
+
+#45    Random talk   (177 records found)
+URL   = http://stream.radio-unicc.de:8000/clt_v7_lq.mp3
+GENRE = Talk
+TITLE = No Details Available!
+
+#46    Random talk   (177 records found)
+URL   = http://s2.stationplaylist.com:7102/listen.aac
+GENRE = NewsTalk
+TITLE = No Title Found!
+
+#47    Random talk   (177 records found)
+URL   = http://radiosunnah.my:8000/idle
+GENRE = Talk Islamic
+TITLE = Sheikh Mishary Rashid Al-Afasy - TaÂ­Ha
+
+#48    Random talk   (177 records found)
+URL   = http://radio.syros.aegean.gr:8000/playlist.mp3
+GENRE = Ambient Misc Greece Talk Dance College Rock University Pop Various
+TITLE = No Title Found!
+
+#49    Random talk   (177 records found)
+URL   = http://azura.sparknewmedia.com:8020/radio.aac
+GENRE = Talk
+TITLE = FOX News Radio - 1PM EDT 02/21/2020 Newscast
+
+#50    Random talk   (177 records found)
+URL   = http://c3.radioboss.fm:8069/autodj
+GENRE = Talk
+TITLE = Liberty Radio Network | LRN.FM
+
+#51    Random talk   (177 records found)
+URL   = http://ss.deprogrammedradio.com:8000/deprogrammedradio.ogg
+GENRE = Talk
+TITLE = No Title Found!
+
+#52    Random talk   (177 records found)
+URL   = http://s4.yesstreaming.net:7018/ra2
+GENRE = Talk
+TITLE = No Title Found!
+
+#53    Random talk   (177 records found)
+URL   = http://s6.voscast.com:7612/live
+GENRE = Talk Radio
+TITLE = 2020-08-31 - Tha Jackals Head [Final Cut]
+
+#54    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:2660/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Sonnie Badu - Yes You Are The Lord
+
+#55    Random talk   (177 records found)
+URL   = http://master01-ent.shoutcast.com:8000/foxnews
+GENRE = News Talk
+TITLE = ADBRK_END
+
+#56    Random talk   (177 records found)
+URL   = http://nuzbox.com:8000/live.mp3
+GENRE = Talk
+TITLE = No Title Found!
+
+#57    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/rathenow
+GENRE = hits charts top40 talk
+TITLE = Now playing: Rathenow Radio
+
+#58    Random talk   (177 records found)
+URL   = http://streaming211.radionomy.com:80/AmericanFreedomNetwork
+GENRE = Talk
+TITLE = No Title Found!
+
+#59    Random talk   (177 records found)
+URL   = http://radio.streemlion.com:3860/stream
+GENRE = News amp Talk
+TITLE = Covid-19 Radio - Updates from BBC
+
+#60    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/AmericanFreedomNetwork
+GENRE = Talk
+TITLE = No Title Found!
+
+#61    Random talk   (177 records found)
+URL   = http://185.39.195.90:8000/minir
+GENRE = Talk
+TITLE = No Title Found!
+
+#62    Random talk   (177 records found)
+URL   = http://ssl.rockhost.com:8011/autodj
+GENRE = Talk
+TITLE = Firebrand Studios - WICS Fallback [70V]
+
+#63    Random talk   (177 records found)
+URL   = http://stream.radio-unicc.de:8000/clt_v7_mq.mp3
+GENRE = Talk
+TITLE = No Details Available!
+
+#64    Random talk   (177 records found)
+URL   = http://live.lora924.de:8000/lora.ogg
+GENRE = varios other news community talk alternative
+TITLE = No Title Found!
+
+#65    Random talk   (177 records found)
+URL   = http://streaming316.radionomy.com:80/awr
+GENRE = Talk
+TITLE = No Title Found!
+
+#66    Random talk   (177 records found)
+URL   = http://streaming211.radionomy.com:80/awr
+GENRE = Talk
+TITLE = No Title Found!
+
+#67    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/mens-world-radio
+GENRE = Talk Music
+TITLE = Matthew Wilder - Break My Stride - 100 Hits: The Best Eighties Album
+
+#68    Random talk   (177 records found)
+URL   = http://s2.voscast.com:7920/stream
+GENRE = Messianic Talk
+TITLE = The Voice of YaHWeH (Psalms 29)_by Fragrance of Heaven
+
+#69    Random talk   (177 records found)
+URL   = http://centova32.instainternet.com:8111/autodj
+GENRE = Talk Hop Hip
+TITLE = Take No Prisoners Radio - Have Outside Forces Hijacked the Movement for Social Justice?
+
+#70    Random talk   (177 records found)
+URL   = http://s4.yesstreaming.net:7018/ra3
+GENRE = Talk
+TITLE = No Title Found!
+
+#71    Random talk   (177 records found)
+URL   = http://manager4.streamradio.fr:1570/stream
+GENRE = Classic Talk Top40
+TITLE = Radio Grand Lac
+
+#72    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/awr
+GENRE = Talk
+TITLE = No Title Found!
+
+#73    Random talk   (177 records found)
+URL   = http://s4.yesstreaming.net:7018/ra2.mp3
+GENRE = Talk
+TITLE = No Title Found!
+
+#74    Random talk   (177 records found)
+URL   = http://46.61.148.62:8000/echoekb32
+GENRE = Talk
+TITLE = No Title Found!
+
+#75    Random talk   (177 records found)
+URL   = http://ais-sa2-dal01-1.cdnstream.com:80/2114_64.aac
+GENRE = Business Talk
+TITLE =  - 
+
+#76    Random talk   (177 records found)
+URL   = http://polaris.dribbcast.com:1190/stream
+GENRE = Talk
+TITLE = Luc_21
+
+#77    Random talk   (177 records found)
+URL   = http://kdx.hopto.org:8000/kdx.ogg
+GENRE = News Talk
+TITLE = No Title Found!
+
+#78    Random talk   (177 records found)
+URL   = http://sc1.shoutcaststreaming.us:7300/ftl_mount
+GENRE = Talk
+TITLE = Latest Episode - Next Live Show At 7pm ET
+
+#79    Random talk   (177 records found)
+URL   = http://s4.yesstreaming.net:7018/ra4
+GENRE = Talk
+TITLE = No Title Found!
+
+#80    Random talk   (177 records found)
+URL   = http://streaming211.radionomy.com:80/wnpv-am
+GENRE = Talk
+TITLE = 2-11 Sentimental Lady -  - Single
+
+#81    Random talk   (177 records found)
+URL   = http://radio.fairmormon.org:8000/stream
+GENRE = LDS Mormon Talk Religious
+TITLE = RT-Lesson-10-Take-My-Yoke-UponRT-Lesson-10-Take-My-Yoke-Upon - RT-Lesson-10-Take-My-Yoke-UponRT-Lesson-10-Take-My-Yoke-UponRT-Lesson-10-Take-My-Yoke-Upon
+
+#82    Random talk   (177 records found)
+URL   = http://streaming.azpm.org:80/kuaz48.mp3
+GENRE = Talk
+TITLE = Arizona Spotlight (Radio)                         
+
+#83    Random talk   (177 records found)
+URL   = http://188.128.117.99:8000/echoekb
+GENRE = Talk
+TITLE = No Title Found!
+
+#84    Random talk   (177 records found)
+URL   = http://stream.nazar.fm:8088/32_mp3_autodj
+GENRE = Talk
+TITLE = ÐÐ¾ÑÑÐ¼Ð¶Ð°Ð½ Ð¢Ð°Ò£Ð°ÑÐ°ÑÐ¾Ð² - Ð¡ÓÐ»ÐµÐ¼ ÒÐ°Ð·Ð°Ò Ð´Ð°Ð»Ð°ÑÑ
+
+#85    Random talk   (177 records found)
+URL   = http://23.251.93.86:8010/listen
+GENRE = NEWS TALK
+TITLE = No Title Found!
+
+#86    Random talk   (177 records found)
+URL   = http://nepatriots.streamguys1.com:80/live.mp3
+GENRE = nfl patriots sports talk football
+TITLE = No Title Found!
+
+#87    Random talk   (177 records found)
+URL   = http://thassos.cdnstream.com:5146/dj
+GENRE = and of music variety talk
+TITLE = Live - Scott Douglas 
+
+#88    Random talk   (177 records found)
+URL   = http://audioout.gvstream.net:80/supermedios-radiofelicidad.aac
+GENRE = Talkshow
+TITLE = No Title Found!
+
+#89    Random talk   (177 records found)
+URL   = http://stream.wide-net.org:80/orizzontiogg
+GENRE = TALK Radio
+TITLE = No Title Found!
+
+#90    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/mens-world-radio
+GENRE = Talk Music
+TITLE = Chris Rea - On the Beach - On the Beach
+
+#91    Random talk   (177 records found)
+URL   = http://c5.radioboss.fm:8110/autodj
+GENRE = Talk
+TITLE = The Spec Sheet - 26 November, 2013
+
+#92    Random talk   (177 records found)
+URL   = http://46.61.148.62:8000/echoekb_aacplus
+GENRE = Talk
+TITLE = No Title Found!
+
+#93    Random talk   (177 records found)
+URL   = http://stream.radio-unicc.de:8000/clt_v3_hq.ogg
+GENRE = Talk
+TITLE = No Details Available!
+
+#94    Random talk   (177 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2113_64.aac
+GENRE = News-Talk
+TITLE = The Real Side -  - 
+
+#95    Random talk   (177 records found)
+URL   = http://master02-ent.shoutcast.com:8000/foxnews
+GENRE = News Talk
+TITLE = ADBRK_END
+
+#96    Random talk   (177 records found)
+URL   = http://wav.carbonwav.com:1410/stream
+GENRE = Urban Talk Music mix
+TITLE = Managing Mental Health B Tonia Jones
+
+#97    Random talk   (177 records found)
+URL   = http://streaming.azpm.org:80/kuaz128.mp3
+GENRE = Talk
+TITLE = Arizona Spotlight (Radio)                         
+
+#98    Random talk   (177 records found)
+URL   = http://s2.stationplaylist.com:7028/listen.mp3
+GENRE = Talk Maine Rock
+TITLE = No Title Found!
+
+#99    Random talk   (177 records found)
+URL   = http://cora.cdnstream.com:80/1408_64
+GENRE = Talk
+TITLE = No Title Found!
+
+#100    Random talk   (177 records found)
+URL   = http://centova.pure-isp.eu:8009/ultra_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = BB & Q Band - On The Beat (12in) [vH]
+
+#101    Random talk   (177 records found)
+URL   = http://radio.viaflux.com:1600/radio.mp3
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+#102    Random talk   (177 records found)
+URL   = http://live.lora924.de:8000/lora-hq.mp3
+GENRE = varios other news community talk alternative
+TITLE = Mainly Jazz - Mostly Women, von Do 16Uhr (nur Internet)
+
+#103    Random talk   (177 records found)
+URL   = http://s2.stationplaylist.com:7078/listen.mp3
+GENRE = Talk Show Christian Rock
+TITLE = No Title Found!
+
+#104    Random talk   (177 records found)
+URL   = http://stream.radiocumbernauld.uk:8004/stream
+GENRE = Top 40 Talk 90s Pop 80s
+TITLE = Freddie Mercury - The Great Pretender
+
+#105    Random talk   (177 records found)
+URL   = http://46.61.148.62:8000/echoekb
+GENRE = Talk
+TITLE = No Title Found!
+
+#106    Random talk   (177 records found)
+URL   = http://psn3.prostreaming.net:8154/autodj
+GENRE = Talk
+TITLE = Billboard Top 100 Hits Of 2001 - 049 - Case-Missing You
+
+#107    Random talk   (177 records found)
+URL   = http://stream002.radio.hu:80/mr4.aac
+GENRE = Minority Hungary Talk
+TITLE = A nemzetisegek radioja
+
+#108    Random talk   (177 records found)
+URL   = http://usa6.fastcast4u.com:5055/autodj
+GENRE = Talk Civism Education
+TITLE = BIC - Pa fÃ¨ vyolans sou moun ki gen kowonaviris [2eOr]
+
+#109    Random talk   (177 records found)
+URL   = http://streaming211.radionomy.com:80/rathenow
+GENRE = hits charts top40 talk
+TITLE = Now playing: Rathenow Radio
+
+#110    Random talk   (177 records found)
+URL   = http://audioout.gvstream.net:80/radiotvmexico-wradio977.aac
+GENRE = TALK
+TITLE = No Title Found!
+
+#111    Random talk   (177 records found)
+URL   = http://streaming.azpm.org:80/kuaz192.mp3
+GENRE = Talk
+TITLE = Arizona Spotlight (Radio)                         
+
+#112    Random talk   (177 records found)
+URL   = http://stream.radio-unicc.de:8000/clt_v7_lq.ogg
+GENRE = Talk
+TITLE = No Details Available!
+
+#113    Random talk   (177 records found)
+URL   = http://stream002.radio.hu:80/mr1.aac
+GENRE = News Hungary Talk
+TITLE = Szombat delutan Banner Gezaval - kivansagokkal ismetles
+
+#114    Random talk   (177 records found)
+URL   = http://challenger.phil21.net:8000/stream
+GENRE = Comedy Talk
+TITLE = LoveLine - 08.30.00
+
+#115    Random talk   (177 records found)
+URL   = http://listen.wofr.org:8000/air
+GENRE = Faith Teaching Talk Christian Word Inspirational
+TITLE = 1 - Rick Renner The Necessary Attitude To Develop Spiritually
+
+#116    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:1210/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Kathryn Scott - Hungry (Falling On My Knees) [1ViD]
+
+#117    Random talk   (177 records found)
+URL   = http://stream.nazar.fm:8088/64_mp3_autodj
+GENRE = Talk
+TITLE = ÐÐ¾ÑÑÐ¼Ð¶Ð°Ð½ Ð¢Ð°Ò£Ð°ÑÐ°ÑÐ¾Ð² - ÐÐ¿Ð¿Ð°Ò ÒÑÐ·
+
+#118    Random talk   (177 records found)
+URL   = http://ssl.rockhost.com:8011/live
+GENRE = Talk
+TITLE = THE CRIME CLUB - The Gypsy Sings of Death
+
+#119    Random talk   (177 records found)
+URL   = http://radio.praying4you.org:8007/live
+GENRE = Talk Spoken Word Christian Music
+TITLE = GOSPEL R&B MIX
+
+#120    Random talk   (177 records found)
+URL   = http://equinox.shoutca.st:8805/autodj
+GENRE = TALK EDM DANCE
+TITLE = Unknown - I got what your looking fo [1KNr]
+
+#121    Random talk   (177 records found)
+URL   = http://mmrmedia.xs4all.nl:8000/mmrmedia.ogg
+GENRE = Talk International Various
+TITLE = No Title Found!
+
+#122    Random talk   (177 records found)
+URL   = http://uk3.internet-radio.com:11168/live
+GENRE = funk indie electronic soul talk jazz
+TITLE =  - Birthm4rk - Skies On Fire
+
+#123    Random talk   (177 records found)
+URL   = http://centova.pure-isp.eu:8009/low_autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = BB & Q Band - On The Beat (12in) [vH]
+
+#124    Random talk   (177 records found)
+URL   = http://streaming211.radionomy.com:80/noogaradio
+GENRE = Talk
+TITLE = No Title Found!
+
+#125    Random talk   (177 records found)
+URL   = http://ss.deprogrammedradio.com:8000/mobile-mono.mp3
+GENRE = Talk
+TITLE = Deprogrammed Radio World - The Opperman Report - More John S Captain Train Wrecks
+
+#126    Random talk   (177 records found)
+URL   = http://cp12.cdnwz.net:80/ashams
+GENRE = Talk
+TITLE = No Title Found!
+
+#127    Random talk   (177 records found)
+URL   = http://96.74.133.115:8000/stream
+GENRE = Talk Music
+TITLE = No Title Found!
+
+#128    Random talk   (177 records found)
+URL   = http://cloud.viaflux.com.br:1600/radio.mp3
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+#129    Random talk   (177 records found)
+URL   = http://c5.radioboss.fm:8213/autodj
+GENRE = Irish Celtic Talk
+TITLE = Kate Crossan  - An Fharraige ChiÃºin - Away
+
+#130    Random talk   (177 records found)
+URL   = http://ais-sa2-nyc02-1.cdnstream.com:80/2449_128.mp3
+GENRE = Talk
+TITLE = Car Clinic Network - Bobby Likis' Car Clinic Minute
+
+#131    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:1570/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Elijah_Oyelade_-_Highly_Lifted_[Official_Video](1)
+
+#132    Random talk   (177 records found)
+URL   = http://s6.yesstreaming.net:8000/listen_live
+GENRE = Old Time Talk Radio
+TITLE = Gunsmoke - Sep 12, 1953: (73) Prairie Happy
+
+#133    Random talk   (177 records found)
+URL   = http://centova1.cheapshoutcast.com:8041/autodj
+GENRE = Talk Radio
+TITLE = Jim Malliard - Call in Ghosts
+
+#134    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/rathenow
+GENRE = hits charts top40 talk
+TITLE = Now playing: Rathenow Radio
+
+#135    Random talk   (177 records found)
+URL   = http://c11.radioboss.fm:8109/autodj
+GENRE = pop soca Reggae rnb talk
+TITLE = 5 Star Akil - On Lock (Tuff Spot Riddim) 2020 Soca (Trinidad)
+
+#136    Random talk   (177 records found)
+URL   = http://ss.deprogrammedradio.com:8000/deprogrammedradio.mp3
+GENRE = Talk
+TITLE = Deprogrammed Radio World - The Opperman Report - More John S Captain Train Wrecks
+
+#137    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:1850/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Kathryn Scott - Hungry (Falling On My Knees) [1ViD]
+
+#138    Random talk   (177 records found)
+URL   = http://streaming211.radionomy.com:80/wlaq
+GENRE = Talk
+TITLE = No Title Found!
+
+#139    Random talk   (177 records found)
+URL   = http://c30.radioboss.fm:8135/autodj
+GENRE = talk
+TITLE = trojka - bez-sternika-2020-08-26
+
+#140    Random talk   (177 records found)
+URL   = http://192.99.37.181:8000/live.mp3
+GENRE = Talk
+TITLE = Tomaso Albinoni - Adagio In G Minor (Realised Giazotto) (Extract)
+
+#141    Random talk   (177 records found)
+URL   = http://patmos.cdnstream.com:9581/stream.mp3
+GENRE = information news blind talk
+TITLE = Billy Ocean - Love Really Hurts Without You -  
+
+#142    Random talk   (177 records found)
+URL   = http://streams.radiomast.io/ebca0c3d-4178-4386-88a1-4db6b7d9e291
+GENRE = Top 40 Talk Scotland UK Glasgow FLAC 90s Pop 80s
+TITLE = Freddie Mercury - The Great Pretender
+
+#143    Random talk   (177 records found)
+URL   = http://23.251.93.86:8000/listen
+GENRE = NEWS TALK
+TITLE = No Title Found!
+
+#144    Random talk   (177 records found)
+URL   = http://93.100.61.75:8026/
+GENRE = Russian Talk Christian Spiritual Pop
+TITLE = ÐÐ¸Ð±Ð»Ð¸Ñ. ÐÐµÑÑÐ¸Ð¹ ÐÐ°Ð²ÐµÑ - 05 ÐÐ½Ð¸Ð³Ð° ÐÑÐ¸ÑÑÐµÐ¹ * anima.sknt.ru
+
+#145    Random talk   (177 records found)
+URL   = http://manager2.creativradio.com:1390/stream
+GENRE = Compas Talk Show
+TITLE = RTVHF: New Artist - 03-Deception,Feat.Nickenson Pr
+
+#146    Random talk   (177 records found)
+URL   = http://radio.viaflux.com:5522/live
+GENRE = TALK POPULAR COUNTRY
+TITLE = No Title Found!
+
+#147    Random talk   (177 records found)
+URL   = http://s4.yesstreaming.net:7018/ra3.mp3
+GENRE = Talk
+TITLE = No Title Found!
+
+#148    Random talk   (177 records found)
+URL   = http://144.217.158.59:5208/autodj
+GENRE = Talk
+TITLE = Dave Baker - Every Little Thing
+
+#149    Random talk   (177 records found)
+URL   = http://centova32.instainternet.com:8284/autodj
+GENRE = Talk Black Radio
+TITLE = Rhonda Mary - LIVE The Revolution Will Not Be Corporatized
+
+#150    Random talk   (177 records found)
+URL   = http://eu1.reliastream.com:7017/MDR48
+GENRE = News Electronic Talk Show Dance
+TITLE = ZIGER, MATAN CASPI  - CLING CLONG (ORIGINAL MIX)  
+
+#151    Random talk   (177 records found)
+URL   = http://icecast.voiceopia.com:80/1013thebuzz.mp3
+GENRE = Talk
+TITLE = No Title Found!
+
+#152    Random talk   (177 records found)
+URL   = http://streams.primesite7.com:8000/achieve.mp3
+GENRE = Talk
+TITLE = No Title Found!
+
+#153    Random talk   (177 records found)
+URL   = http://sh.uk.audio-stream.com:8000/stream
+GENRE = ambient talk
+TITLE = Lugn musik. Ambient musik. - The Owl - winter smoke
+
+#154    Random talk   (177 records found)
+URL   = http://streams.primesite7.com:8000/Radio-Dobbstown.mp3
+GENRE = Talk
+TITLE = 1989-10-04--Bob_and_Myke--pt4
+
+#155    Random talk   (177 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2354_64.aac
+GENRE = Talk
+TITLE = No Title Found!
+
+#156    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/wlaq
+GENRE = Talk
+TITLE = No Title Found!
+
+#157    Random talk   (177 records found)
+URL   = http://radio.viaflux.com:9050/radio.aac
+GENRE = News Folk Talk Brazilian Pop Pop
+TITLE = E BOM ESTAR COM VOCE 
+
+#158    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/2cr-radio
+GENRE = Talk Chinese
+TITLE = No Title Found!
+
+#159    Random talk   (177 records found)
+URL   = http://manager2.creativradio.com:2680/stream
+GENRE = CC Talk and Music
+TITLE = Mario J'em Marchand: Niki J Crawford - Countosh - Niki J Crawford - The Second Truth
+
+#160    Random talk   (177 records found)
+URL   = http://ais-sa2.wdc01.cdnstream.com:80/2114_64.aac
+GENRE = Business Talk
+TITLE =  - 
+
+#161    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:1980/stream
+GENRE = Live Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Unknown Artist - Track 1
+
+#162    Random talk   (177 records found)
+URL   = http://stream002.radio.hu:80/mr4.mp3
+GENRE = Minority Hungary Talk
+TITLE = A nemzetisegek radioja
+
+#163    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:2010/stream
+GENRE = Live Sermons Praise & Worship Talk Gospel Music Prayers
+TITLE = Unknown Artist - Track 1
+
+#164    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/wnpv-am
+GENRE = Talk
+TITLE = 1-03 Love And Marriage -  - Single
+
+#165    Random talk   (177 records found)
+URL   = http://gtrk22.ru:8000/vesti22
+GENRE = News Talk
+TITLE = No Title Found!
+
+#166    Random talk   (177 records found)
+URL   = http://streaming307.radionomy.com:80/noogaradio
+GENRE = Talk
+TITLE = No Title Found!
+
+#167    Random talk   (177 records found)
+URL   = http://c3.radioboss.fm:8071/autodj
+GENRE = Talk
+TITLE = Into The Parabnormal - Ep. #348: Disclosure - Hindsight 2020 w/ Stephen Bassett [2hLZ]
+
+#168    Random talk   (177 records found)
+URL   = http://cheetah.streemlion.com:1240/stream
+GENRE = News Live Teachings Sermons Praise &amp; Worship Talk Gospel Music Prayers
+TITLE = Laura Story - Blessings [1VhU]
+
+#169    Random talk   (177 records found)
+URL   = http://74.208.47.97:8000/live
+GENRE = Talk
+TITLE = No Title Found!
+
+#170    Random talk   (177 records found)
+URL   = http://centova.pure-isp.eu:8012/autodj
+GENRE = Rhumba Talkshows 70s Reggae Top40 Salsa 90s Rock 80s Various
+TITLE = Marc Anthony - NO ME AMES [2Z4]
+
+#171    Random talk   (177 records found)
+URL   = http://streaming308.radionomy.com:80/wnpv-am
+GENRE = Talk
+TITLE = Ramsey Lewis Trio - The 'In' Crowd - Your Hit Parade '60s Instrumentals
+
+#172    Random talk   (177 records found)
+URL   = http://stream002.radio.hu:80/mr4.ogg
+GENRE = Minority Hungary Talk
+TITLE = No Title Found!
+
+#173    Random talk   (177 records found)
+URL   = http://188.128.117.99:8000/echovolgograd32
+GENRE = Talk
+TITLE = No Title Found!
+
+#174    Random talk   (177 records found)
+URL   = http://nepatriots.streamguys1.com:80/live
+GENRE = nfl patriots sports talk football
+TITLE = No Title Found!
+
+#175    Random talk   (177 records found)
+URL   = http://streaming211.radionomy.com:80/mens-world-radio
+GENRE = Talk Music
+TITLE = OneRepublic - Counting Stars - Counting Stars (CDS)
+
+#176    Random talk   (177 records found)
+URL   = http://188.128.117.99:8000/echoekb32
+GENRE = Talk
+TITLE = No Title Found!
+
+#177    Random talk   (177 records found)
+URL   = http://radio.viaflux.com:1600/radio.aac
+GENRE = News Talk Country
+TITLE = No Title Found!
+
+Runtime (in seconds): 173
+
