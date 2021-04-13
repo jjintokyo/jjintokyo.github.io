@@ -1,0 +1,17 @@
+[[protocols]]
+name = "CGV-EXPAND"
+protocol = "nec"
+[protocols.scancodes]
+0x1fddc = "KEY_POWER"
+0x1fdd6 = "KEY_AUDIO"
+0x1fd95 = "KEY_HOMEPAGE"
+0x1fdca = "KEY_UP"
+0x1fdd2 = "KEY_DOWN"
+0x1fd99 = "KEY_LEFT"
+0x1fdc1 = "KEY_RIGHT"
+0x1fdce = "KEY_OK"
+0x1fdb8 = "KEY_VOLUMEDOWN"
+0x1fda1 = "KEY_VOLUMEUP"
+0x1fdd0 = "KEY_PREVIOUS"
+0x1fdd8 = "KEY_NEXT"
+0x1fdc5 = "KEY_PLAYPAUSE"
