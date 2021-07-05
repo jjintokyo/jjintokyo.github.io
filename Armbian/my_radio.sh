@@ -16,7 +16,7 @@
 #                                                  #
 ####################################################
 
-flite='/root/flite.wav'; remote='/root/CGV-EXPAND.toml'; device='/dev/input/event*';
+flite='/tmp/flite.wav'; remote='/root/Strong_SRT_2023.toml'; device='/dev/input/event*';
 page=3; preset=0; stop=0; volume=25; volume_step=1; equal=1;
 
 t2m_fm_radio="fm radio"; t2m_dab_plus_radio="dab plus radio"; t2m_internet_radio_page_one="internet radio page one";
@@ -67,7 +67,7 @@ remote_key_next='*EV_KEY	KEY_NEXT	1*'
 remote_key_play='*EV_KEY	KEY_PLAYPAUSE	1*'
 
 talk_2_me()          { if [ "$stop" -eq 1 ]; then
-                       /usr/local/bin/flite -t "$1" -o $flite -voice slt --setf duration_stretch=.9 --setf int_f0_target_mean=237 &>/dev/null &&
+                       /usr/bin/flite -t "$1" -o $flite -voice slt --setf duration_stretch=.9 --setf int_f0_target_mean=237 &>/dev/null &&
                        /usr/bin/play -qV0 -v 1.5 $flite reverb &>/dev/null; fi; }
 page_up()            { ((page+=1)); if [ "$page" -eq 9 ]; then page=1; fi; say_page "$page"; }
 page_down()          { ((page-=1)); if [ "$page" -eq 0 ]; then page=8; fi; say_page "$page"; }
@@ -98,8 +98,8 @@ play_preset()        { stop_radio; if [ "$stop" -eq 0 ]; then /usr/bin/sleep 1; 
                      elif [ "$page" -eq 7 ]; then talk_2_me "$t2m_play $t2m_random ${t2m_random_table[$preset]}"; play_random "${play_random[$preset]}";
                      elif [ "$page" -eq 8 ]; then talk_2_me "$t2m_play $t2m_random $t2m_mp3"; play_mp3; fi; stop=0; }
 stop_radio()         { /usr/bin/pkill softfm; /usr/bin/pkill dab-rtlsdr-3; /usr/bin/pkill vlc2; /usr/bin/pkill aplay; /usr/bin/mpc stop &>/dev/null; }
-play_fm()            { /usr/local/bin/softfm -t rtlsdr ${fm[$1]} -r 48000 -b 2 -R - | aplay -D equal -r 48000 -f S16_LE -t raw -c 2 & }
-play_dab()           { /usr/local/bin/dab-rtlsdr-3 -M 1 -B "BAND III" ${dab[$1]} -G 30 -Q | aplay -D equal -r 48000 -f S16_LE -t raw -c 2 & }
+play_fm()            { /usr/local/bin/softfm -t rtlsdr ${fm[$1]} -r 48000 -b 2 -R - | /usr/bin/aplay -D equal -r 48000 -f S16_LE -t raw -c 2 & }
+play_dab()           { /usr/local/bin/dab-rtlsdr-3 -M 1 -B "BAND III" ${dab[$1]} -G 30 -Q | /usr/bin/aplay -D equal -r 48000 -f S16_LE -t raw -c 2 & }
 play_internet()      { /usr/bin/mpc play "$1" &>/dev/null; }
 play_random()        { while true; do
                           cmd=$(/root/random/random_run.py "$1");

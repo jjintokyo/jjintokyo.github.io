@@ -1,0 +1,16 @@
+[[protocols]]
+name = "Strong_SRT_2023"
+protocol = "nec"
+[protocols.scancodes]
+0x6fe00 = "KEY_POWER"
+0x6fe58 = "KEY_AUDIO"
+0x6fe5c = "KEY_HOMEPAGE"
+0x6fe59 = "KEY_UP"
+0x6fe51 = "KEY_DOWN"
+0x6fe54 = "KEY_LEFT"
+0x6fe15 = "KEY_RIGHT"
+0x6fe55 = "KEY_OK"
+0x6fe0b = "KEY_VOLUMEDOWN"
+0x6fe48 = "KEY_VOLUMEUP"
+0x6fe19 = "KEY_PLAYPAUSE"
+0x6fe40 = "KEY_NEXT"
