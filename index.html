@@ -15,7 +15,7 @@
 <HEAD>
    <TITLE>JJ's ArduiPi Radio!</TITLE>
    <META name="description" content="JJ's ArduiPi Radio!">
-   <META name="keywords" content="JJ, ArduiPi, Radio, Arduino, Raspberry, Pi, RTL-SDR, Lego, OpenWrt, OpenWrtRadio, PC.RADIO">
+   <META name="keywords" content="JJ, ArduiPi, Radio, Arduino, Raspberry, Pi, RTL-SDR, LEGO, OpenWrt, OpenWrtRadio, PC.RADIO">
 </HEAD>
 
 <BODY BGCOLOR="Lavender" TEXT="Black">
@@ -281,8 +281,8 @@ fi
 <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=12>
    <TR ALIGN="center">
       <TD COLSPAN="5">
-         <H1><I>Lego ArduiPi Radio!</I></H1>
-         <FONT SIZE=4 COLOR="Black"><B>July 2020: New member of the team, ArduiPi Radio #2, enclosure entirely made of Lego bricks!<BR>It was a lot of fun building it and use the proper pieces so all the components are kept firmly in place...<BR>And I think it does look pretty cool, don't you?</B>
+         <H1><I>LEGO ArduiPi Radio!</I></H1>
+         <FONT SIZE=4 COLOR="Black"><B>July 2020: New member of the team, ArduiPi Radio #2, enclosure entirely made of LEGO bricks!<BR>It was a lot of fun building it and use the proper pieces so all the components are kept firmly in place...<BR>And I think it does look pretty cool, don't you?</B>
       </TD>
    </TR>
    <TR ALIGN="center">
@@ -413,7 +413,7 @@ fi
    </TR>
    <TR ALIGN="left">
       <TD COLSPAN="5">
-         <FONT SIZE=4 COLOR="Black"><B>All my Linux shell scripts have been rewritten in Python 2, so you will need it in Windows 10. You can download Python 2.7.10 <A HREF="http://www.gcndevelopment.com/gnuradio/downloads/libraries/python27/gr-python27.7z">HERE</A>, it's a ZIP file that is only 22 Megabytes. No installation needed, just extract to "C:\Program Files\GNURadio-3.7\gr-python27", it will expand to 160 Megabytes and that's it, you're good to go! For the radio player, I'm still using MPD & MPC, both work well under Windows 10 too :-)<BR>Check out the <FONT COLOR="Orange">PC.RADIO<FONT COLOR="Black"> folder!</B>
+         <FONT SIZE=4 COLOR="Black"><B>All my Linux shell scripts have been rewritten in Python 2, so you will need it in Windows 10. You can download Python 2.7.10 <A HREF="http://www.gcndevelopment.com/gnuradio/downloads/libraries/python27/gr-python27.7z">HERE</A>, it's a ZIP file that is only 22 megabytes. No installation needed, just extract to "C:\Program Files\GNURadio-3.7\gr-python27", it will expand to 160 megabytes and that's it, you're good to go! For the radio player, I'm still using MPD & MPC, both work well under Windows 10 too :-)<BR>Check out the <FONT COLOR="Orange">PC.RADIO<FONT COLOR="Black"> folder!</B>
       </TD>
    </TR>
 </TABLE>
@@ -490,6 +490,35 @@ fi
    <TR ALIGN="center">
       <TD COLSPAN="3">
          <FONT SIZE=4 COLOR="Black"><B>15 hours non-stop playing DAB+ (most CPU intensive), no hiccups, CPU temperature is reasonable, box stays cool... LINUX ROCKS!<BR>Here's the radio main script:&nbsp;&nbsp;&nbsp;<A HREF="https://github.com/jjintokyo/jjintokyo.github.io/blob/master/Armbian/my_radio.sh">my_radio.sh</A></B>
+      </TD>
+   </TR>
+</TABLE>
+
+<HR><BR>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=10>
+   <TR ALIGN="center">
+      <TD COLSPAN="3">
+         <H1><I>Back to OpenWrt this summer with my new (tiny) friend!</I></H1>
+         <FONT SIZE=4 COLOR="Black"><B>Stumbled upon a <A HREF="https://www.tp-link.com/us/home-networking/wifi-router/tl-wr902ac/">TP-LINK TL-WR902AC V3</A> travel router at my local store that was inexpensive and had a USB port.<BR>I knew right away I had to have it and YES it's compatible with <A HREF="https://openwrt.org/toh/tp-link/tl-wr902ac_v3">OpenWrt</A> :-)</B>
+      </TD>
+   </TR>
+   <TR ALIGN="center">
+      <TD>
+         <A HREF="pix/OpenWrtRadio - OpenWrt on TL-WR902AC to make a great portable internet radio!.jpg"><IMG SRC="pix/OpenWrtRadio - OpenWrt on TL-WR902AC to make a great portable internet radio! [ small ].jpg" ALT="OpenWrtRadio - OpenWrt on TL-WR902AC to make a great portable internet radio!" WIDTH=320 HEIGHT=240 BORDER=1></A>
+         <A HREF="video/OpenWrtRadio - OpenWrt on TL-WR902AC to make a great portable internet radio!.mp4">video</A>
+      </TD>
+      <TD>
+         <FONT SIZE=4 COLOR="Black"><B>But it has only 8 megabytes of flash storage. So had to use <A HREF="https://openwrt.org/docs/guide-user/additional-software/imagebuilder">OpenWrt Image Builder</A> feature to make a custom firmware, including the packages I need (mpc / mpd-mini, triggerhappy, curl, apache + my config and scripts) and removing all the other stuff I don't need.<BR><BR>I ended up using a small USB hub on it with 4 devices, a wireless mouse, a wireless keypad, the USB sound card of course but also a 32 GB flash drive to hold my MP3 files.</B>
+      </TD>
+      <TD>
+         <A HREF="pix/OpenWrtRadio - OpenWrt on TP-LINK TL-WR902AC with some Lego bricks to make a cute internet radio!.jpg"><IMG SRC="pix/OpenWrtRadio - OpenWrt on TP-LINK TL-WR902AC with some Lego bricks to make a cute internet radio! [ small ].jpg" ALT="OpenWrtRadio - OpenWrt on TP-LINK TL-WR902AC with some Lego bricks to make a cute internet radio!" WIDTH=320 HEIGHT=240 BORDER=1></A>
+         <A HREF="video/OpenWrtRadio - OpenWrt on TP-LINK TL-WR902AC with some Lego bricks to make a cute internet radio!.mp4">video</A>
+      </TD>
+   </TR>
+   <TR ALIGN="center">
+      <TD COLSPAN="3">
+         <FONT SIZE=4 COLOR="Black"><B>That welcome extra storage allowed me to install additional packages that couldn't possibly fit into the router's flash (python-light for the random mode, espeak / svox for voice announcement and mpg123 to play MP3s).<BR>The router can go portable and runs a long time on a 5V 10000mAh power bank. The Wi-Fi coverage is excellent too.<BR>Here's the main script:&nbsp;&nbsp;&nbsp;<A HREF="https://github.com/jjintokyo/jjintokyo.github.io/blob/master/OpenWrtRadio/my_radio.sh">my_radio.sh</A></B>
       </TD>
    </TR>
 </TABLE>
