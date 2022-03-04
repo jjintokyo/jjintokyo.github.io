@@ -17,3 +17,5 @@
 <p float="left">
    <A HREF="https://jjintokyo.github.io"><IMG SRC="pix/Which one do you prefer (small).jpg" ALT="Which one do you prefer?" WIDTH=200 HEIGHT=150 BORDER=0></A>
 </p>
+
+# :notes:
