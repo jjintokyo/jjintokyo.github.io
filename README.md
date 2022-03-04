@@ -9,9 +9,7 @@
 <p float="left">
    <A HREF="https://jjintokyo.github.io"><FONT SIZE=7 COLOR="Blue"><H1>https://jjintokyo.github.io</A><BR><BR>:-)</H1></B>
 </p>
-
 ###### ...including other radio projects with OpenWrt and Armbian...
-
 <p float="left">
    <A HREF="https://jjintokyo.github.io"><IMG SRC="pix/Which one do you prefer (small).jpg" ALT="Which one do you prefer?" WIDTH=200 HEIGHT=150 BORDER=0></A>
 </p>
