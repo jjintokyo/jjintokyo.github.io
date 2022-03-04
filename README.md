@@ -20,7 +20,9 @@
  <TD>
 <FONT SIZE=4><B>...including other radio projects with OpenWrt and Armbian...</B>
 </TD>
+</TR>
 
+<TR ALIGN="center">
 <TD>
 <A HREF="https://jjintokyo.github.io"><IMG SRC="pix/Which one do you prefer (small).jpg" ALT="Which one do you prefer?" WIDTH=200 HEIGHT=150 BORDER=0></A>
 </TD>
