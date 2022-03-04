@@ -6,12 +6,12 @@
    <A HREF="https://jjintokyo.github.io"><IMG SRC="pix/ArduiPi Radio! [ LEGO ].jpg" ALT="ArduiPi Radio! [ LEGO ]" WIDTH=200 HEIGHT=150 BORDER=0></A>
 </p>
 
-###### Explanations, pictures & videos:
+###### Explanations, pictures & videos: :thumbsup:
 <p float="left">
-   <A HREF="https://jjintokyo.github.io"><FONT SIZE=7 COLOR="Blue"><H1>https://jjintokyo.github.io</H1></A> :thumbsup:
+   <A HREF="https://jjintokyo.github.io"><FONT SIZE=7 COLOR="Blue"><H1>https://jjintokyo.github.io</H1></A>
 </p>
 
-###### ...including other radio projects with OpenWrt and Armbian...
+###### ...including other radio projects with OpenWrt and Armbian... :smiley:
 <p float="left">
    <A HREF="https://jjintokyo.github.io"><IMG SRC="pix/Which one do you prefer (small).jpg" ALT="Which one do you prefer?" WIDTH=200 HEIGHT=150 BORDER=0></A>
 </p>
