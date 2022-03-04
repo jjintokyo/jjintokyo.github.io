@@ -8,7 +8,7 @@
 
 ###### Explanations, pictures & videos:
 <p float="left">
-   <A HREF="https://jjintokyo.github.io"><FONT SIZE=7 COLOR="Blue"><H1>https://jjintokyo.github.io</A><BR><BR>:-)</H1></B>
+   <A HREF="https://jjintokyo.github.io"><FONT SIZE=7 COLOR="Blue"><H1>https://jjintokyo.github.io</H1></A> :thumbsup:
 </p>
 
 ###### ...including other radio projects with OpenWrt and Armbian...
