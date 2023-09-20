@@ -1,0 +1,15 @@
+### playlist.dab1 - 10 DAB PRESETS FOR my_radio.sh using dab-rtlsdr-2
+### format: "DESCRIPTION" | "COMMAND"
+### lines starting with "#" will be ignored
+### blank lines will be ignored too
+
+"Melody"  | "-C 10C -P Melody CH"
+"SPOON"   | "-C 10C -P SPOON ROCK"
+"Kiss"    | "-C 10C -P Kiss Collector"
+"Star"    | "-C 10C -P Rock Star"
+"Global"  | "-C 10C -P Global CH"
+"BALLADS" | "-C 8C  -P ROCK BALLADS -Q"
+"GOAT"    | "-C 8C  -P GOATGreatestHits -Q"
+"OPTION"  | "-C 12A -P OPTION MUSIQUE+ -Q"
+"S.Pop"   | "-C 12A -P Swiss Pop+ -Q"
+"S.Class" | "-C 12A -P SuisseClassique+ -Q"

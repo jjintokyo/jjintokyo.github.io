@@ -1,0 +1,15 @@
+### playlist.dab2 - 10 DAB PRESETS FOR my_radio.sh using welle-cli
+### format: "DESCRIPTION" | "COMMAND"
+### lines starting with "#" will be ignored
+### blank lines will be ignored too
+
+"Melody"  | "-c 10C -p Melody CH"
+"SPOON"   | "-c 10C -p SPOON ROCK"
+"Kiss"    | "-c 10C -p Kiss Collector"
+"Star"    | "-c 10C -p Rock Star"
+"Global"  | "-c 10C -p Global CH"
+"BALLADS" | "-c 8C  -p ROCK BALLADS -g -1"
+"GOAT"    | "-c 8C  -p GOATGreatestHits -g -1"
+"OPTION"  | "-c 12A -p OPTION MUSIQUE+ -g -1"
+"S.Pop"   | "-c 12A -p Swiss Pop+ -g -1"
+"S.Class" | "-c 12A -p SuisseClassique+ -g -1"

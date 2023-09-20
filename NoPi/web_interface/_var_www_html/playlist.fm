@@ -1,0 +1,15 @@
+### playlist.fm - 10 FM PRESETS FOR my_radio.sh using softfm
+### format: "DESCRIPTION" | "COMMAND"
+### lines starting with "#" will be ignored
+### blank lines will be ignored too
+
+"Nostalgie" | "-c freq=98100000,srate=300000"
+"RTL"       | "-c freq=107600000,srate=300000"
+"Europe 2"  | "-c freq=99600000,srate=300000"
+"La Radio+" | "-c freq=93000000,srate=300000"
+"Sud Radio" | "-c freq=104000000,srate=300000"
+"Classique" | "-c freq=102100000,srate=300000"
+"One FM"    | "-c freq=107200000,srate=300000"
+"La Radio+" | "-c freq=98900000,srate=300000"
+"Rouge"     | "-c freq=106500000,srate=300000,gain=32.8,agc -M"
+"RTS 1"     | "-c freq=102600000,srate=300000,gain=37.2,agc -M"

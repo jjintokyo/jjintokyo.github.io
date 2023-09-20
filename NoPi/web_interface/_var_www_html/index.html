@@ -1,0 +1,400 @@
+<html>
+<head>
+<title>FM / DAB+ / INTERNET / MP3 Radio</title>
+<link rel="icon" type="image/x-icon" href="pix/favicon.ico">
+
+<style>
+html { background: url("pix/wood1.jpg") no-repeat center fixed; background-size: 100% 100%; }
+body { color: Black; }
+</style>
+</head>
+
+<script>
+    var auto_random_var = false;
+    var duration = 0;
+    var timeleft = 0;
+    var do_random_var;
+    var do_count_down_var;
+
+    function read_playlist_db() {
+        var db = "playlist.db"
+        var rawFile = new XMLHttpRequest();
+        rawFile.open("GET", db, true);
+        rawFile.onreadystatechange = function () {
+            if (rawFile.readyState === 4) {
+                if (rawFile.status === 200 || rawFile.status == 0) {
+                    var lines = rawFile.responseText.split("\n");
+                    var ps = document.getElementById("net.preset");
+                    for (var line = 0; line < lines.length - 1; line++) {
+                        var index = line + 1;
+                        if (index < 10) {index = "0" + index};
+                        ps.options[line + 1] = new Option(index + " --- " + lines[line], line + 1);
+                    }
+                }
+            }
+        }
+        rawFile.send(null);
+    }
+
+    function read_playlist_fm() {
+        var db = "playlist.fm"
+        var rawFile = new XMLHttpRequest();
+        rawFile.open("GET", db, true);
+        rawFile.onreadystatechange = function () {
+            if (rawFile.readyState === 4) {
+                if (rawFile.status === 200 || rawFile.status == 0) {
+                    var lines = rawFile.responseText.split("\n");
+                    var ps = document.getElementById("fm.preset");
+                    var index = 0;
+                    var index2 = 0;
+                    var delimiter = 0;
+                    var description = "";
+                    var command = "";
+                    for (var line = 0; line < lines.length - 1; line++) {
+                        if (! lines[line].startsWith("#") && lines[line] != "") {
+                            delimiter = lines[line].indexOf("|");
+                            if (delimiter != -1) {
+                                description = lines[line].substring(0, delimiter);
+                                description = description.trim().slice(1, -1);
+                                command = lines[line].substring(delimiter + 1);
+                                command = command.trim().slice(1, -1);
+                                index = index + 1;
+                                if (index < 10) { index2 = "0" + index; } else { index2 = index; }
+                                ps.options[index] = new Option(index2 + " --- " + description, command);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        rawFile.send(null);
+    }
+
+    function read_playlist_dab1() {
+        var db = "playlist.dab1"
+        var rawFile = new XMLHttpRequest();
+        rawFile.open("GET", db, true);
+        rawFile.onreadystatechange = function () {
+            if (rawFile.readyState === 4) {
+                if (rawFile.status === 200 || rawFile.status == 0) {
+                    var lines = rawFile.responseText.split("\n");
+                    var ps = document.getElementById("dab1.preset");
+                    var index = 0;
+                    var index2 = 0;
+                    var delimiter = 0;
+                    var description = "";
+                    var command = "";
+                    for (var line = 0; line < lines.length - 1; line++) {
+                        if (! lines[line].startsWith("#") && lines[line] != "") {
+                            delimiter = lines[line].indexOf("|");
+                            if (delimiter != -1) {
+                                description = lines[line].substring(0, delimiter);
+                                description = description.trim().slice(1, -1);
+                                command = lines[line].substring(delimiter + 1);
+                                command = command.trim().slice(1, -1);
+                                index = index + 1;
+                                if (index < 10) { index2 = "0" + index; } else { index2 = index; }
+                                ps.options[index] = new Option(index2 + " --- " + description, command);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        rawFile.send(null);
+    }
+
+    function read_playlist_dab2() {
+        var db = "playlist.dab2"
+        var rawFile = new XMLHttpRequest();
+        rawFile.open("GET", db, true);
+        rawFile.onreadystatechange = function () {
+            if (rawFile.readyState === 4) {
+                if (rawFile.status === 200 || rawFile.status == 0) {
+                    var lines = rawFile.responseText.split("\n");
+                    var ps = document.getElementById("dab2.preset");
+                    var index = 0;
+                    var index2 = 0;
+                    var delimiter = 0;
+                    var description = "";
+                    var command = "";
+                    for (var line = 0; line < lines.length - 1; line++) {
+                        if (! lines[line].startsWith("#") && lines[line] != "") {
+                            delimiter = lines[line].indexOf("|");
+                            if (delimiter != -1) {
+                                description = lines[line].substring(0, delimiter);
+                                description = description.trim().slice(1, -1);
+                                command = lines[line].substring(delimiter + 1);
+                                command = command.trim().slice(1, -1);
+                                index = index + 1;
+                                if (index < 10) { index2 = "0" + index; } else { index2 = index; }
+                                ps.options[index] = new Option(index2 + " --- " + description, command);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        rawFile.send(null);
+    }
+
+    function auto_random() {
+        if (auto_random_var == false) {
+            auto_random_var = true;
+            duration = document.getElementById("auto_random_duration").value;
+            timeleft = duration;
+            document.getElementById("count_down_timer").textContent = timeleft;
+            document.getElementById("count_down_timer").style.visibility="visible";
+            document.getElementById("auto_random_gif").style.visibility="visible";
+            document.getElementById("do_random").click();
+            count_down();
+            do_random_var = setInterval(function(){ document.getElementById("do_random").click(); count_down(); }, duration * 1000 + 1000);
+        }
+        else {
+            auto_random_var = false;
+            clearInterval(do_random_var);
+            clearInterval(do_count_down_var);
+            document.getElementById("count_down_timer").style.visibility="hidden";
+            document.getElementById("auto_random_gif").style.visibility="hidden";
+        }
+    }
+
+    function count_down() {
+        clearInterval(do_count_down_var);
+        timeleft = duration;
+        document.getElementById("count_down_timer").textContent = timeleft;
+        do_count_down_var = setInterval(function(){ timeleft--; document.getElementById("count_down_timer").textContent = timeleft; if (timeleft <= 0) clearInterval(do_count_down_var); }, 1000);
+    }
+
+    function power_down_system() {
+        var reply = confirm("Power Down System...   Really?");
+        return reply;
+    }
+</script>
+
+<body onload="read_playlist_db(); read_playlist_fm(); read_playlist_dab1(); read_playlist_dab2();">
+
+<div align="center">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align: bottom">
+        <td width="10%" align="left">
+            <img src="pix/RADIO1.png" alt="RADIO1">
+        </td>
+        <td width="10%" align="center">
+            <h1><span name="count_down_timer" id="count_down_timer" style="visibility: hidden;">0</span></h1>
+        </td>
+        <td width="60%" align="center">
+            <h1>FM / DAB+ / INTERNET / MP3 Radio</h1>
+        </td>
+        <td width="10%" align="center" style="vertical-align: middle">
+            <img src="pix/auto_random.gif" name="auto_random_gif" id="auto_random_gif" width="64" height="64" style="visibility: hidden;">
+        </td>
+        <td width="10%" align="right">
+            <img src="pix/RADIO2.png" alt="RADIO2">
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align: top">
+        <td>
+            <form action="cgi-bin/play.py" method="POST" target=status>
+                <input type="image" src="pix/play.png" title="play" alt="play" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/next.py" method="POST" target=status>
+                <input type="image" src="pix/next.png" title="next" alt="next" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/prev.py" method="POST" target=status>
+                <input type="image" src="pix/prev.png" title="previous" alt="prev" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/stop.py" method="POST" target=status>
+                <input type="image" src="pix/stop.png" title="stop" alt="stop" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/volume_up.py" method="POST" target=status>
+                <input type="image" src="pix/volume_up.png" title="volume up" alt="volume_up" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/volume_down.py" method="POST" target=status>
+                <input type="image" src="pix/volume_down.png" title="volume down" alt="volume_down" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/what.py" method="POST" target=status>
+                <input type="image" src="pix/what.png" title="what?" alt="what" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/stations.py" method="POST" target=status>
+                <input type="image" src="pix/stations.png" title="internet presets?" alt="stations" width="64" height="64" border="0">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
+        </td>
+        <td>
+            <form action="cgi-bin/shutdown.py" method="POST" target=status>
+                <input type="image" onclick="return power_down_system()" src="pix/shutdown.png" title="shutdown!" alt="shutdown" width="64" height="64" border="0">
+            </form>
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align: center">
+        <td align="center">
+            <h1>NET:&nbsp;&nbsp;</h1>
+        </td>
+        <td align="center">
+            <form method="GET" action="cgi-bin/play.py" target="status">
+                <select name="net.preset" id="net.preset" onchange="javascript:this.form.submit()" style="background-color: BurlyWood;">
+                    <option value="" disabled selected style="display: none;">Select a memory preset --- from 01 to 40:</option>
+                </select>
+            </form>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align: top">
+        <td>
+            <form method="GET" action="cgi-bin/do_random.py" target="status">
+                <input type="image" name="do_random" id="do_random" src="pix/do_random.png" title="random internet!" alt="do_random" width="64" height="64" border="0">
+                <select name="random_selection" id="random_selection" style="background-color: BurlyWood; position: relative; bottom: 28px; left: 15px;">
+                    <option value="Everything" selected>Everything</option>
+                    <option value="Talk">Talk</option>
+                    <option value="Classical">Classical</option>
+                    <option value="Alternative">Alternative</option>
+                    <option value="Country">Country</option>
+                    <option value="Oldies">Oldies</option>
+                    <option value="50">50s</option>
+                    <option value="60">60s</option>
+                    <option value="70">70s</option>
+                    <option value="80">80s</option>
+                    <option value="90">90s</option>
+                    <option value="Christmas">Christmas</option>
+                    <option value="Disco">Disco</option>
+                    <option value="Jazz">Jazz</option>
+                    <option value="Pop">Pop</option>
+                    <option value="Rock">Rock</option>
+                    <option value="News">News</option>
+                    <option value="Easy">Easy</option>
+                    <option value="Indie">Indie</option>
+                    <option value="Top40">Top40</option>
+                    <option value="Generaliste">Generaliste</option>
+                    <option value="Ambient">Ambient</option>
+                    <option value="Scanner">Scanner</option>
+                    <option value="Dummy">Dummy</option>
+                </select>
+            </form>
+        </td>
+        <td width="12%"></td>
+        <td>
+            <input type="image" onclick="auto_random()" src="pix/auto_random.png" title="auto-random" alt="auto_random" width="64" height="64" border="0">
+            <select name="auto_random_duration" id="auto_random_duration" style="background-color: BurlyWood; position: relative; bottom: 28px; left: 15px;">
+                <option value="5">5 seconds</option>
+                <option value="10" selected>10 seconds</option>
+                <option value="20">20 seconds</option>
+                <option value="30">30 seconds</option>
+                <option value="60">60 seconds</option>
+                <option value="90">90 seconds</option>
+                <option value="120">120 seconds</option>
+                <option value="180">180 seconds</option>
+                <option value="240">240 seconds</option>
+                <option value="300">300 seconds</option>
+                <option value="600">600 seconds</option>
+            </select>
+        </td>
+        <td width="12%"></td>
+        <td>
+            <form action="cgi-bin/get_details.py" method="POST" target="status">
+                <input type="image" src="pix/get_details.png" title="details?" alt="get_details" width="64" height="64" border="0">
+            </form>
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align: center">
+        <td align="center">
+            <h1>FM:&nbsp;&nbsp;</h1>
+        </td>
+        <td align="center">
+            <form method="GET" action="cgi-bin/fm.py" target="status">
+                <select name="fm.preset" id="fm.preset" onchange="javascript:this.form.submit()" style="background-color: BurlyWood;">
+                    <option value="" disabled selected style="display: none;">Select a FM preset:</option>
+                </select>
+            </form>
+        </td>
+        <td width="8%"></td>
+        <td align="center">
+            <h1>DAB1:&nbsp;&nbsp;</h1>
+        </td>
+        <td align="center">
+            <form method="GET" action="cgi-bin/dab1.py" target="status">
+                <select name="dab1.preset" id="dab1.preset" onchange="javascript:this.form.submit()" style="background-color: BurlyWood;">
+                    <option value="" disabled selected style="display: none;">Select a DAB preset:</option>
+                </select>
+            </form>
+        </td>
+        <td width="8%"></td>
+        <td align="center">
+            <h1>DAB2:&nbsp;&nbsp;</h1>
+        </td>
+        <td align="center">
+            <form method="GET" action="cgi-bin/dab2.py" target="status">
+                <select name="dab2.preset" id="dab2.preset" onchange="javascript:this.form.submit()" style="background-color: BurlyWood;">
+                    <option value="" disabled selected style="display: none;">Select a DAB preset:</option>
+                </select>
+            </form>
+        </td>
+        <td width="8%"></td>
+        <td align="center">
+            <form action="cgi-bin/mp3.py" method="POST" target=status>
+                <input type="image" src="pix/mp3.png" title="play random mp3!" alt="mp3" width="64" height="64" border="0">
+            </form>
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+<iframe src="status.html" name="status" style="border: 3px solid Black;" height="25%" width="60%" title="status"></iframe>
+
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr style="vertical-align: bottom">
+        <td align="right">
+            <form action="cgi-bin/pi.py" method="GET" target="blank">
+                <input type="submit" value="&pi;" style="border: 0; background-color: transparent; font-family: serif; font-size: 40px;">
+            </form>
+        </td>
+    </tr>
+</table>
+
+</div>
+</body>
+</html>
