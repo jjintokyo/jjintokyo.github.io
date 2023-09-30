@@ -1,0 +1,240 @@
+dab-scanner-rtlsdr -G 80 -Q &> dab_results_jj.txt
+
+dab_scanner V 1.0alfa,
+Copyright 2018 J van Katwijk, Lazy Chair Computing
+2018 Hayati Ayguen
+2019 J van Katwijk
+2020 J van Katwijk
+going for rtlsdr 174928000 80
+OK, functions seem to be loaded
+Found Rafael Micro R820T tuner
+[R82XX] PLL not locked!
+samplerate set to 2048000
+Supported gain values (29): 0.0 0.9 1.4 2.7 3.7 7.7 8.7 12.5 14.4 15.7 16.6 19.7 20.7 22.9 25.4 28.0 29.7 32.8 33.8 36.4 37.2 38.6 40.2 42.1 43.4 43.9 44.5 48.0 49.6 
+effective gain: gain 42.1
+Allocating 15 zero-copy buffers
+checking data in channel 5A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 5B
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 5C
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 5D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 6A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 6B
+43210
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 6C
+43210
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 6D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 7A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 7B
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 7C
+43ensemble ANNECY 7C is (F045) recognized
+
+dab processor will stop
+Allocating 15 zero-copy buffers
+checking data in channel 7D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 8A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 8B
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 8C
+43ensemble DIG F03 - VD     is (4442) recognized
+
+dab processor will stop
+Allocating 15 zero-copy buffers
+checking data in channel 8D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 9A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 9B
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 9C
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 9D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 10A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 10B
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 10C
+4ensemble DABCOM - F04     is (4452) recognized
+
+dab processor will stop
+Allocating 15 zero-copy buffers
+checking data in channel 10D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 11A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 11B
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 11C
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 11D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 12A
+4ensemble SRG SSR F01      is (4041) recognized
+
+
+
+Ensemble ANNECY 7C; ensembleId F045; channel 7C; 
+
+
+Audio services
+program name;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+ADO dab+;F21B;2;132;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+Melody;F9F5;3;198;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+OUI FM dab+;F21D;6;396;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+CHANTE FRANCE;FE43;7;462;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+FG. DJ Radio;F22C;9;594;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+RADIO MONT-BLANC;F847;10;660;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+RADIO SCOOP;F865;11;726;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+BLEU PAYS SAVOIE;F20A;12;792;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+RCF SMB;F20C;0;0;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+SUD RADIO;F650;1;66;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+Radio NOVA;F22A;4;264;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+CROONER RADIO;FEE8;5;330;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+TSF Jazz;F223;8;528;66;88;DAB+;0;EEP 3-A;1/2;unknown;
+
+
+Ensemble DIG F03 - VD    ; ensembleId 4442; channel 8C; 
+
+
+Audio services
+program name;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+Back2Noize Radio;4EAD;1;0;36;48;DAB+;15;EEP 3-A;1/2;unknown;
+AirZen Radio    ;F2FE;2;36;54;72;DAB+;9;EEP 3-A;1/2;unknown;
+LA RADIO PLUS   ;F832;3;90;54;72;DAB+;0;EEP 3-A;1/2;unknown;
+RedLine Radio   ;4DBE;4;144;54;72;DAB+;9;EEP 3-A;1/2;unknown;
+2 THAALAM THAMIL;4DEA;5;198;54;72;DAB+;0;EEP 3-A;1/2;unknown;
+OPENBROADCAST   ;4DA4;6;252;54;72;DAB+;15;EEP 3-A;1/2;unknown;
+albradio ON AIR ;4DE6;7;306;54;72;DAB+;9;EEP 3-A;1/2;unknown;
+RADIO NET+      ;4D63;8;360;54;72;DAB+;15;EEP 3-A;1/2;unknown;
+WRS VD+         ;4DBB;9;414;54;72;DAB+;3;EEP 3-A;1/2;unknown;
+Lifestyle 74    ;4DA9;10;468;24;48;DAB+;15;EEP 4-A;3/4;unknown;
+ROCK BALLADS    ;4DF6;11;492;54;72;DAB+;11;EEP 3-A;1/2;unknown;
+GOATGreatestHits;4FD9;12;546;54;72;DAB+;27;EEP 3-A;1/2;unknown;
+MAGIC RADIO VD+ ;4DBF;14;600;54;72;DAB+;15;EEP 3-A;1/2;unknown;
+VIRAGE RADIO CH ;4EAF;15;654;54;72;DAB+;11;EEP 3-A;1/2;unknown;
+RadioBus        ;4D66;16;708;54;72;DAB+;15;EEP 3-A;1/2;unknown;
+Positive        ;4EDD;18;762;54;72;DAB+;15;EEP 3-A;1/2;unknown;
+
+
+Ensemble DABCOM - F04    ; ensembleId 4452; channel 10C; 
+
+
+Audio services
+program name;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+URBN            ;4EAA;1;0;54;72;DAB+;11;EEP 3-A;1/2;unknown;
+Kiss Collector  ;4DEB;2;54;54;72;DAB+;10;EEP 3-A;1/2;unknown;
+Rock Star       ;4DF8;3;108;54;72;DAB+;11;EEP 3-A;1/2;unknown;
+Global CH       ;4DF2;4;162;54;72;DAB+;4;EEP 3-A;1/2;unknown;
+ONEWORLD        ;4EF5;5;216;54;72;DAB+;15;EEP 3-A;1/2;unknown;
+Rouge Music +   ;4EF2;6;270;54;72;DAB+;9;EEP 3-A;1/2;unknown;
+1 THAALAM THAMIL;4DE7;7;324;48;64;DAB+;10;EEP 3-A;1/2;unknown;
+SPOON ROCK      ;4DBA;8;372;54;72;DAB+;11;EEP 3-A;1/2;unknown;
+JAZZ RADIO CH   ;4DFC;9;426;54;72;DAB+;24;EEP 3-A;1/2;unknown;
+Latina CH       ;4DE5;10;480;54;72;DAB+;15;EEP 3-A;1/2;unknown;
+IP music        ;4DC0;11;534;60;80;DAB+;10;EEP 3-A;1/2;unknown;
+MaXXima         ;4DB0;13;594;60;80;DAB+;15;EEP 3-A;1/2;unknown;
+M La Radio      ;4DEC;14;654;96;128;DAB+;10;EEP 3-A;1/2;unknown;
+Melody CH       ;4DFB;15;750;54;72;DAB+;27;EEP 3-A;1/2;unknown;
+LUX Radio       ;4DFD;16;804;54;72;DAB+;10;EEP 3-A;1/2;unknown;
+
+
+Ensemble SRG SSR F01     ; ensembleId 4041; channel 12A; 
+
+
+Audio services
+program name;serviceId;subchannelId;start address;length (CU); bit rate;DAB/DAB+; genre; prot level; code rate; language
+
+RTS-1ERE+       ;43D1;7;300;54;72;DAB+;3;EEP 3-A;1/2;French;
+SRF 3+          ;43B3;2;54;48;64;DAB+;10;EEP 3-A;1/2;German;
+Rete Tre+       ;43E3;17;768;48;64;DAB+;10;EEP 3-A;1/2;Italian;
+Swiss Pop+      ;42F1;13;648;48;64;DAB+;10;EEP 3-A;1/2;German;
+OPTION MUSIQUE+ ;43D4;10;486;60;80;DAB+;12;EEP 3-A;1/2;French;
+Radio RTR+      ;43A1;5;192;54;72;DAB+;9;EEP 3-A;1/2;Romansh;
+1ERE-BIS+       ;44D1;14;696;36;48;DAB+;3;EEP 3-A;1/2;French;
+COULEUR 3+      ;43D3;9;426;60;80;DAB+;11;EEP 3-A;1/2;French;
+Swiss Jazz+     ;42F3;12;600;48;64;DAB+;24;EEP 3-A;1/2;German;
+ESPACE 2+       ;43D2;8;354;72;96;DAB+;7;EEP 3-A;1/2;Frencdab processor will stop
+Allocating 15 zero-copy buffers
+checking data in channel 12B
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 12C
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 12D
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 13A
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 13B
+43210
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 13C
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 13D
+43210
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 13E
+Allocating 15 zero-copy buffers
+dab processor will stop
+checking data in channel 13F
+h;
+SuisseClassique+;43F4;11;546;54;72;DAB+;13;EEP 3-A;1/2;French;
+SRF 4 News+     ;43B6;3;102;42;56;DAB+;2;EEP 3-A;1/2;German;
+SRF 2 Kultur+   ;43B2;18;816;48;64;DAB+;7;EEP 3-A;1/2;German;
+SRF 1 BE FR VS+ ;44B1;1;0;54;72;DAB+;3;EEP 3-A;1/2;German;
+SRF Musikwelle+ ;43B4;4;144;48;64;DAB+;26;EEP 3-A;1/2;German;
+Rete Uno+       ;43E1;6;246;54;72;DAB+;9;EEP 3-A;1/2;Italian;
+
+
+
+Data Services
+program name;;serviceId;subchannelId;start address;length (CU); bit rate; FEC; prot level; appType; DSCTy; subService; 
+
+SRG_SPI          (data);E1400103;16;756;12;16;no FEC;EEP 3-A;unknown;Multimedia Object Transfer (MOT);no;
+TPEG_SRGSSR      (data);E1400101;15;732;24;32;no FEC;EEP 3-A;TPEG;Transparent Data Channel (TDC);no;
+dab processor will stop

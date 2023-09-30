@@ -1,0 +1,2 @@
+play_fm()  { /usr/local/bin/softfm -t rtlsdr ${fm[$1]} -r 48000 -b 1 -R - | AUDIODEV=equal AUDIODRIVER=alsa /usr/bin/play -t raw -e signed-integer -b 16 -r 48000 -c 2 -qV0 -v 0.1 - & }
+play_dab() { /usr/local/bin/dab-rtlsdr-3 -M 1 -B "BAND III" ${dab[$1]} -G 70 -Q | AUDIODEV=equal AUDIODRIVER=alsa /usr/bin/play -t raw -e signed-integer -b 16 -r 48000 -c 2 -qV0 -v 0.05 - & }

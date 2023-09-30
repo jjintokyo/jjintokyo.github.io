@@ -1,0 +1,300 @@
+=========================================================
+root@Ubuntu3:~/arduino# ./arduino-cli sketch new my_radio
+Sketch created in: /root/arduino/my_radio
+=========================================================
+root@Ubuntu3:~/arduino# ./arduino-cli board list
+Port         Protocol Type              Board Name FQBN Core
+/dev/ttyUSB0 serial   Serial Port (USB) Unknown
+=========================================================
+./arduino-cli lib search LiquidCrystal-I2C
+=========================================================
+root@Ubuntu3:~/arduino# ./arduino-cli lib install LiquidCrystal I2C
+Downloading LiquidCrystal@1.0.7...
+LiquidCrystal@1.0.7 downloaded
+Installing LiquidCrystal@1.0.7...
+Installed LiquidCrystal@1.0.7
+Downloading I2C@1.0.3...
+I2C@1.0.3 downloaded
+Installing I2C@1.0.3...
+Installed I2C@1.0.3
+=========================================================
+./arduino-cli core uninstall arduino:avr
+Uninstalling arduino:avr@1.8.6...
+Platform arduino:avr@1.8.6 uninstalled
+Uninstalling arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7, tool is no more required...
+Tool arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7 uninstalled
+Uninstalling arduino:avrdude@6.3.0-arduino17, tool is no more required...
+Tool arduino:avrdude@6.3.0-arduino17 uninstalled
+Uninstalling arduino:arduinoOTA@1.3.0, tool is no more required...
+Tool arduino:arduinoOTA@1.3.0 uninstalled
+=========================================================
+./arduino-cli core uninstall arduino:samd
+Uninstalling arduino:samd@1.8.13...
+Platform arduino:samd@1.8.13 uninstalled
+Uninstalling arduino:arm-none-eabi-gcc@7-2017q4, tool is no more required...
+Tool arduino:arm-none-eabi-gcc@7-2017q4 uninstalled
+Uninstalling arduino:bossac@1.7.0-arduino3, tool is no more required...
+Tool arduino:bossac@1.7.0-arduino3 uninstalled
+Uninstalling arduino:openocd@0.10.0-arduino7, tool is no more required...
+Tool arduino:openocd@0.10.0-arduino7 uninstalled
+Uninstalling arduino:CMSIS@4.5.0, tool is no more required...
+Tool arduino:CMSIS@4.5.0 uninstalled
+Uninstalling arduino:CMSIS-Atmel@1.2.0, tool is no more required...
+Tool arduino:CMSIS-Atmel@1.2.0 uninstalled
+Uninstalling arduino:arduinoOTA@1.2.1, tool is no more required...
+Tool arduino:arduinoOTA@1.2.1 uninstalled
+=========================================================
+S T A R T   H E R E
+=========================================================
+root@Ubuntu3:~/arduino# ./arduino-cli config init
+Config file written to: /root/.arduino15/arduino-cli.yaml
+
+root@Ubuntu3:~/arduino# ./arduino-cli core update-index
+Downloading index: library_index.tar.bz2 downloaded
+Downloading index: package_index.tar.bz2 downloaded
+Downloading index: package_index.tar.bz2 downloaded
+
+root@Ubuntu3:~/arduino# ./arduino-cli board listall mkr
+Downloading missing tool builtin:ctags@5.8-arduino11...
+builtin:ctags@5.8-arduino11 downloaded
+Installing builtin:ctags@5.8-arduino11...
+Skipping tool configuration....
+builtin:ctags@5.8-arduino11 installed
+Downloading missing tool builtin:serial-discovery@1.4.0...
+builtin:serial-discovery@1.4.0 downloaded
+Installing builtin:serial-discovery@1.4.0...
+Skipping tool configuration....
+builtin:serial-discovery@1.4.0 installed
+Downloading missing tool builtin:mdns-discovery@1.0.9...
+builtin:mdns-discovery@1.0.9 downloaded
+Installing builtin:mdns-discovery@1.0.9...
+Skipping tool configuration....
+builtin:mdns-discovery@1.0.9 installed
+Downloading missing tool builtin:serial-monitor@0.13.0...
+builtin:serial-monitor@0.13.0 downloaded
+Installing builtin:serial-monitor@0.13.0...
+Skipping tool configuration....
+builtin:serial-monitor@0.13.0 installed
+Downloading missing tool builtin:dfu-discovery@0.1.2...
+builtin:dfu-discovery@0.1.2 downloaded
+Installing builtin:dfu-discovery@0.1.2...
+Skipping tool configuration....
+builtin:dfu-discovery@0.1.2 installed
+Board Name FQBN
+
+root@Ubuntu3:~/arduino# ./arduino-cli core install arduino:avr
+Downloading packages...
+arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7 downloaded
+arduino:avrdude@6.3.0-arduino17 downloaded
+arduino:arduinoOTA@1.3.0 downloaded
+arduino:avr@1.8.6 downloaded
+Installing arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7...
+Configuring tool....
+arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7 installed
+Installing arduino:avrdude@6.3.0-arduino17...
+Configuring tool....
+arduino:avrdude@6.3.0-arduino17 installed
+Installing arduino:arduinoOTA@1.3.0...
+Configuring tool....
+arduino:arduinoOTA@1.3.0 installed
+Installing platform arduino:avr@1.8.6...
+Configuring platform....
+Platform arduino:avr@1.8.6 installed
+
+root@Ubuntu3:~/arduino# ./arduino-cli lib install LiquidCrystal I2C
+Already installed LiquidCrystal@1.0.7
+Already installed I2C@1.0.3
+
+root@Ubuntu3:~/arduino# ./arduino-cli board list
+Port         Protocol Type              Board Name FQBN Core
+/dev/ttyUSB0 serial   Serial Port (USB) Unknown
+
+root@Ubuntu3:~/arduino# ./arduino-cli board listall
+Board Name                       FQBN
+Adafruit Circuit Playground      arduino:avr:circuitplay32u4cat
+Arduino BT                       arduino:avr:bt
+Arduino Duemilanove or Diecimila arduino:avr:diecimila
+Arduino Esplora                  arduino:avr:esplora
+Arduino Ethernet                 arduino:avr:ethernet
+Arduino Fio                      arduino:avr:fio
+Arduino Gemma                    arduino:avr:gemma
+Arduino Industrial 101           arduino:avr:chiwawa
+Arduino Leonardo                 arduino:avr:leonardo
+Arduino Leonardo ETH             arduino:avr:leonardoeth
+Arduino Mega ADK                 arduino:avr:megaADK
+Arduino Mega or Mega 2560        arduino:avr:mega
+Arduino Micro                    arduino:avr:micro
+Arduino Mini                     arduino:avr:mini
+Arduino NG or older              arduino:avr:atmegang
+Arduino Nano                     arduino:avr:nano
+Arduino Pro or Pro Mini          arduino:avr:pro
+Arduino Robot Control            arduino:avr:robotControl
+Arduino Robot Motor              arduino:avr:robotMotor
+Arduino Uno                      arduino:avr:uno
+Arduino Uno Mini                 arduino:avr:unomini
+Arduino Uno WiFi                 arduino:avr:unowifi
+Arduino Yún                      arduino:avr:yun
+Arduino Yún Mini                 arduino:avr:yunmini
+LilyPad Arduino                  arduino:avr:lilypad
+LilyPad Arduino USB              arduino:avr:LilyPadUSB
+Linino One                       arduino:avr:one
+
+root@Ubuntu3:~/arduino# ./arduino-cli board details --fqbn arduino:avr:nano
+Board name:                Arduino Nano
+FQBN:                      arduino:avr:nano
+Board version:             1.8.6
+
+Official Arduino board:    ✔
+
+Identification properties: board=nano
+
+Package name:              arduino
+Package maintainer:        Arduino
+Package URL:               https://downloads.arduino.cc/packages/package_index.tar.bz2
+Package website:           http://www.arduino.cc/
+Package online help:       http://www.arduino.cc/en/Reference/HomePage
+
+Platform name:             Arduino AVR Boards
+Platform category:         Arduino
+Platform architecture:     avr
+Platform URL:              http://downloads.arduino.cc/cores/staging/avr-1.8.6.tar.bz2
+Platform file name:        avr-1.8.6.tar.bz2
+Platform size (bytes):     7127080
+Platform checksum:         SHA-256:ff1d17274b5a952f172074bd36c3924336baefded0232e10982f8999c2f7c3b6
+
+Required tool: arduino:arduinoOTA        1.3.0
+Required tool: arduino:avr-gcc           7.3.0-atmel3.6.1-arduino7
+Required tool: arduino:avrdude           6.3.0-arduino17
+
+Option:        Processor                                                cpu
+               ATmega328P                ✔                              cpu=atmega328
+               ATmega328P (Old Bootloader)                                cpu=atmega328old
+               ATmega168                                                cpu=atmega168
+Programmers:   ID                        Name
+               arduinoasisp              Arduino as ISP
+               jtag3isp                  Atmel JTAGICE3 (ISP mode)
+               avrisp                    AVR ISP
+               stk500                    Atmel STK500 development board
+               usbasp                    USBasp
+               atmel_ice                 Atmel-ICE (AVR)
+               arduinoasispatmega32u4    Arduino as ISP (ATmega32U4)
+               arduinoisporg             ArduinoISP.org
+               parallel                  Parallel Programmer
+               usbGemma                  Arduino Gemma
+               jtag3                     Atmel JTAGICE3 (JTAG mode)
+               usbtinyisp                USBtinyISP
+               avrispmkii                AVRISP mkII
+               arduinoisp                ArduinoISP
+               buspirate                 BusPirate as ISP
+
+root@Ubuntu3:~/arduino# ./arduino-cli compile --fqbn arduino:avr:nano:cpu=atmega328old MyFirstSketch/
+Sketch uses 444 bytes (1%) of program storage space. Maximum is 30720 bytes.
+Global variables use 9 bytes (0%) of dynamic memory, leaving 2039 bytes for local variables. Maximum is 2048 bytes.
+
+Used platform Version Path
+arduino:avr   1.8.6   /root/.arduino15/packages/arduino/hardware/avr/1.8.6
+
+root@Ubuntu3:~/arduino# ./arduino-cli upload -v -p /dev/ttyUSB0 --fqbn arduino:avr:nano:cpu=atmega328old MyFirstSketch/
+"/root/.arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/bin/avrdude" "-C/root/.arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/etc/avrdude.conf" -v -V -patmega328p -carduino "-P/dev/ttyUSB0" -b57600 -D "-Uflash:w:/tmp/arduino/sketches/625ABE2D0C06E3591444ADD5DE7F3AFC/MyFirstSketch.ino.hex:i"
+
+avrdude: Version 6.3-20190619
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2014 Joerg Wunsch
+
+         System wide configuration file is "/root/.arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/etc/avrdude.conf"
+         User configuration file is "/root/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/ttyUSB0
+         Using Programmer              : arduino
+         Overriding Baud Rate          : 57600
+         AVR Part                      : ATmega328P
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PC2
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    20     4    0 no       1024    4      0  3600  3600 0xff 0xff
+           flash         65     6   128    0 yes     32768  128    256  4500  4500 0xff 0xff
+           lfuse          0     0     0    0 no          1    0      0  4500  4500 0x00 0x00
+           hfuse          0     0     0    0 no          1    0      0  4500  4500 0x00 0x00
+           efuse          0     0     0    0 no          1    0      0  4500  4500 0x00 0x00
+           lock           0     0     0    0 no          1    0      0  4500  4500 0x00 0x00
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : Arduino
+         Description     : Arduino
+         Hardware Version: 2
+         Firmware Version: 1.16
+         Vtarget         : 0.0 V
+         Varef           : 0.0 V
+         Oscillator      : Off
+         SCK period      : 0.1 us
+
+avrdude: AVR device initialized and ready to accept instructions
+
+Reading | ################################################## | 100% 0.00s
+
+avrdude: Device signature = 0x1e950f (probably m328p)
+avrdude: reading input file "/tmp/arduino/sketches/625ABE2D0C06E3591444ADD5DE7F3AFC/MyFirstSketch.ino.hex"
+avrdude: writing flash (444 bytes):
+
+Writing | ################################################## | 100% 0.15s
+
+avrdude: 444 bytes of flash written
+
+avrdude done.  Thank you.
+
+root@Ubuntu3:~/arduino# ./arduino-cli monitor -p /dev/ttyUSB0 --describe
+ID        Setting   Default Values
+
+baudrate  Baudrate  9600    300, 600, 750, 1200, 2400, 4800, 9600, 19200, 31250, 38400, 57600, 74880, 115200, 230400, 250000, 460800, 500000, 921600, 1000000, 2000000
+dtr       DTR       on      on, off
+
+bits      Data bits 8       5, 6, 7, 8, 9
+
+parity    Parity    none    none, even, odd, mark, space
+
+rts       RTS       on      on, off
+
+stop_bits Stop bits 1       1, 1.5, 2
+
+root@Ubuntu3:~/arduino# wget https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library/archive/refs/heads/master.zip
+root@Ubuntu3:~/arduino# mv master.zip Arduino-LiquidCrystal-I2C-library.zip
+root@Ubuntu3:~/arduino# nano /root/.arduino15/arduino-cli.yaml
+  enable_unsafe_install: true
+
+root@Ubuntu3:~/arduino# ./arduino-cli lib install --zip-path /root/arduino/Arduino-LiquidCrystal-I2C-library.zip
+--git-url and --zip-path flags allow installing untrusted files, use it at your own risk.
+Library installed
+
+root@Ubuntu3:~/arduino# ./arduino-cli compile --fqbn arduino:avr:nano:cpu=atmega328old TestSketch/
+Sketch uses 3468 bytes (11%) of program storage space. Maximum is 30720 bytes.
+Global variables use 289 bytes (14%) of dynamic memory, leaving 1759 bytes for local variables. Maximum is 2048 bytes.
+
+Used library                             Version Path
+Wire                                     1.0     /root/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries/Wire
+Arduino-LiquidCrystal-I2C-library-master         /root/Arduino/libraries/Arduino-LiquidCrystal-I2C-library-master
+
+Used platform Version Path
+arduino:avr   1.8.6   /root/.arduino15/packages/arduino/hardware/avr/1.8.6
+
+root@Ubuntu3:~/arduino# ./arduino-cli upload --port /dev/ttyUSB0 --fqbn arduino:avr:nano:cpu=atmega328old TestSketch/
+=========================================================
+S T O P   H E R E
+=========================================================
