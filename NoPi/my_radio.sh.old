@@ -20,7 +20,7 @@
 
 page=4; preset=0; stop=0; volume=45; VOLUME_STEP=1; mute=0; equal=1; lcd_on_off=0; lcd_backlight=1; FLITE_VOLUME=0.5;
 AUDIO_DEVICE="equal"; MY_RADIO_PIPE="/tmp/my_radio_pipe"; ARDUINO="/dev/ttyUSB0"; FLITE="/tmp/FLITE.WAV";
-REMOTE="/root/OneForAll_URC6820_Zapper+.toml"; INPUT_DEVICES="/dev/input/event*"; CONNECTING_TO_WIFI="/root/WIFI-1.WAV";
+REMOTE="/root/Hama_Big_Zapper.toml"; INPUT_DEVICES="/dev/input/event*"; CONNECTING_TO_WIFI="/root/WIFI-1.WAV";
 CONNECTED_TO_WIFI="/root/WIFI-2.WAV"; UPDATE_DB_WARNING="/root/DIVE.WAV"; POWER_DOWN_SYSTEM_WARNING="/root/BELL.WAV";
 RANDOM_EVERYTHING_PGM="/root/random/random_run.sh"; RANDOM_BY_GENRE_PGM="/root/random/random_run.py";
 FM_PGM="/usr/local/bin/softfm"; DAB_1_PGM="/usr/local/bin/dab-rtlsdr-2"; DAB_2_PGM="/usr/local/bin/welle-cli";
@@ -99,12 +99,6 @@ REMOTE_0="*KEY_NUMERIC_0	0	command*"
 REMOTE_AUDIO="*KEY_AUDIO	0	command*"
 REMOTE_MENU="*KEY_MENU	0	command*"
 REMOTE_MODE="*KEY_MODE	0	command*"
-REMOTE_UP="*KEY_UP	0	command*"
-REMOTE_DOWN="*KEY_DOWN	0	command*"
-REMOTE_LEFT="*KEY_LEFT	0	command*"
-REMOTE_RIGHT="*KEY_RIGHT	0	command*"
-REMOTE_BACK="*KEY_BACK	0	command*"
-REMOTE_EXIT="*KEY_EXIT	0	command*"
 
 initialization()     { /usr/bin/echo "my_radio.sh is starting..... `/usr/bin/date`" > /dev/kmsg;
                        /usr/bin/stty -F "$ARDUINO" 9600 cs8 -cstopb -parenb -hupcl -echo cread clocal -crtscts -ixon
@@ -366,16 +360,10 @@ while true; do
          ($REMOTE_VOLUMEUP_LONG)	volume_up	"$(($VOLUME_STEP*2))";;
          ($REMOTE_VOLUMEDOWN)		volume_down	"$VOLUME_STEP";;
          ($REMOTE_VOLUMEDOWN_LONG)	volume_down	"$(($VOLUME_STEP*2))";;
-         ($REMOTE_CHANNELUP	|\
-          $REMOTE_UP)			page_up;;
-         ($REMOTE_CHANNELDOWN	|\
-          $REMOTE_DOWN)			page_down;;
-         ($REMOTE_RIGHT)		preset_up;;
-         ($REMOTE_LEFT)			preset_down;;
-         ($REMOTE_OK)			play_preset "$preset";;
+         ($REMOTE_CHANNELUP)		page_up;;
+         ($REMOTE_CHANNELDOWN)		page_down;;
          ($REMOTE_MUTE)			mute;;
-         ($REMOTE_BACK		|\
-          $REMOTE_EXIT)			radio_play_stop;;
+         ($REMOTE_OK)			radio_play_stop;;
          ($REMOTE_0)			play_preset "0";;
          ($REMOTE_1)			play_preset "1";;
          ($REMOTE_2)			play_preset "2";;
