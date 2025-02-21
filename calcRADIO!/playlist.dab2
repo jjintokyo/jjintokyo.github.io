@@ -1,0 +1,15 @@
+### playlist.dab2 - 10 DAB PRESETS FOR calcRADIO.sh using welle-cli
+### format: "DESCRIPTION" | "COMMAND"
+### lines starting with "#" will be ignored
+### blank lines will be ignored too
+
+"Melody CH"      | "-c 10C -p 'Melody CH'"
+"SPOON ROCK"     | "-c 10C -p 'SPOON ROCK'"
+"Kiss Collector" | "-c 10C -p 'Kiss Collector'"
+"Rock Star"      | "-c 10C -p 'Rock Star'"
+"IP music"       | "-c 10C -p 'IP music'"
+"ROCK BALLADS"   | "-c 8C  -p 'ROCK BALLADS'"
+"ROCK CLASSICS"  | "-c 8C  -p 'ROCK CLASSICS'"
+"Option Musique" | "-c 12A -p 'RTS OptionMusiq+'"
+"Swiss Pop"      | "-c 12A -p 'Swiss Pop+'"
+"RTS La 1ere"    | "-c 12A -p 'RTS Première+'"

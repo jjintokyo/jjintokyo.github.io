@@ -1,0 +1,15 @@
+### playlist.fm - 10 FM PRESETS FOR calcRADIO.sh using softfm
+### format: "DESCRIPTION" | "COMMAND"
+### lines starting with "#" will be ignored
+### blank lines will be ignored too
+
+"Sud Radio"       | "-c freq=104000000,srate=300000"
+"RTL"             | "-c freq=107600000,srate=300000"
+"Europe 2"        | "-c freq=99600000,srate=300000"
+"Nostalgie"       | "-c freq=98100000,srate=300000"
+"La Radio Plus"   | "-c freq=93000000,srate=300000"
+"Radio Classique" | "-c freq=102100000,srate=300000"
+"One FM"          | "-c freq=107200000,srate=300000"
+"Rouge FM"        | "-c freq=106500000,srate=300000"
+"Radio Lac"       | "-c freq=95600000,srate=300000"
+"LFM"             | "-c freq=103300000,srate=300000"

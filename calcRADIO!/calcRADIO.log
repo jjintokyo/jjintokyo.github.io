@@ -1,0 +1,385 @@
+The radio is on ... Tue 26 Nov 2024 01:02:30 AM CET
+DATA=calc_on=1 | OPERATION=calc_on | PARAMETER=1
+DATA=set_mode=1 | OPERATION=set_mode | PARAMETER=1
+DATA=set_preset=0 | OPERATION=set_preset | PARAMETER=0
+   franceinfo-midfi.mp3^
+DATA=set_volume_down=65 | OPERATION=set_volume_down | PARAMETER=65
+DATA=set_volume_down=64 | OPERATION=set_volume_down | PARAMETER=64
+DATA=set_volume_down=63 | OPERATION=set_volume_down | PARAMETER=63
+DATA=set_volume_down=62 | OPERATION=set_volume_down | PARAMETER=62
+DATA=set_volume_down=61 | OPERATION=set_volume_down | PARAMETER=61
+DATA=set_volume_down=60 | OPERATION=set_volume_down | PARAMETER=60
+DATA=set_volume_down=59 | OPERATION=set_volume_down | PARAMETER=59
+DATA=set_volume_down=58 | OPERATION=set_volume_down | PARAMETER=58
+DATA=set_volume_down=57 | OPERATION=set_volume_down | PARAMETER=57
+DATA=set_volume_down=56 | OPERATION=set_volume_down | PARAMETER=56
+DATA=set_volume_down=55 | OPERATION=set_volume_down | PARAMETER=55
+DATA=set_volume_down=54 | OPERATION=set_volume_down | PARAMETER=54
+DATA=set_volume_down=53 | OPERATION=set_volume_down | PARAMETER=53
+DATA=set_volume_down=52 | OPERATION=set_volume_down | PARAMETER=52
+DATA=set_volume_down=51 | OPERATION=set_volume_down | PARAMETER=51
+DATA=set_volume_down=50 | OPERATION=set_volume_down | PARAMETER=50
+DATA=set_volume_down=49 | OPERATION=set_volume_down | PARAMETER=49
+DATA=set_volume_down=48 | OPERATION=set_volume_down | PARAMETER=48
+DATA=set_volume_down=47 | OPERATION=set_volume_down | PARAMETER=47
+DATA=set_volume_down=46 | OPERATION=set_volume_down | PARAMETER=46
+DATA=set_volume_down=45 | OPERATION=set_volume_down | PARAMETER=45
+DATA=set_volume_down=44 | OPERATION=set_volume_down | PARAMETER=44
+DATA=set_volume_down=43 | OPERATION=set_volume_down | PARAMETER=43
+DATA=set_volume_down=42 | OPERATION=set_volume_down | PARAMETER=42
+DATA=set_volume_down=41 | OPERATION=set_volume_down | PARAMETER=41
+DATA=set_volume_down=40 | OPERATION=set_volume_down | PARAMETER=40
+DATA=set_volume_down=39 | OPERATION=set_volume_down | PARAMETER=39
+DATA=set_volume_down=38 | OPERATION=set_volume_down | PARAMETER=38
+DATA=set_volume_down=37 | OPERATION=set_volume_down | PARAMETER=37
+DATA=set_volume_down=36 | OPERATION=set_volume_down | PARAMETER=36
+DATA=set_volume_down=35 | OPERATION=set_volume_down | PARAMETER=35
+DATA=set_volume_down=34 | OPERATION=set_volume_down | PARAMETER=34
+DATA=set_volume_down=33 | OPERATION=set_volume_down | PARAMETER=33
+DATA=set_volume_down=32 | OPERATION=set_volume_down | PARAMETER=32
+DATA=set_volume_down=31 | OPERATION=set_volume_down | PARAMETER=31
+DATA=set_volume_down=30 | OPERATION=set_volume_down | PARAMETER=30
+DATA=set_volume_down=29 | OPERATION=set_volume_down | PARAMETER=29
+DATA=set_volume_down=28 | OPERATION=set_volume_down | PARAMETER=28
+DATA=set_volume_down=27 | OPERATION=set_volume_down | PARAMETER=27
+DATA=set_volume_down=26 | OPERATION=set_volume_down | PARAMETER=26
+DATA=set_volume_down=25 | OPERATION=set_volume_down | PARAMETER=25
+DATA=set_volume_down=24 | OPERATION=set_volume_down | PARAMETER=24
+DATA=set_volume_down=23 | OPERATION=set_volume_down | PARAMETER=23
+DATA=set_volume_down=22 | OPERATION=set_volume_down | PARAMETER=22
+DATA=set_volume_down=21 | OPERATION=set_volume_down | PARAMETER=21
+DATA=set_volume_down=20 | OPERATION=set_volume_down | PARAMETER=20
+DATA=set_volume_up=21 | OPERATION=set_volume_up | PARAMETER=21
+DATA=set_volume_up=22 | OPERATION=set_volume_up | PARAMETER=22
+DATA=set_volume_up=23 | OPERATION=set_volume_up | PARAMETER=23
+DATA=set_volume_up=24 | OPERATION=set_volume_up | PARAMETER=24
+DATA=set_volume_up=25 | OPERATION=set_volume_up | PARAMETER=25
+DATA=set_preset=1 | OPERATION=set_preset | PARAMETER=1
+   franceinter-midfi.aac^
+DATA=set_preset=2 | OPERATION=set_preset | PARAMETER=2
+   https://europe1.lmn.fm/europe1.mp3^
+   Europe1^
+DATA=set_preset=3 | OPERATION=set_preset | PARAMETER=3
+   https://icecast.rtl.fr/rtl-1-44-128^
+DATA=set_preset=4 | OPERATION=set_preset | PARAMETER=4
+   https://audio.bfmtv.com/rmcradio_128.mp3^
+DATA=set_preset=5 | OPERATION=set_preset | PARAMETER=5
+   no name^
+DATA=set_preset=6 | OPERATION=set_preset | PARAMETER=6
+   NOSTA SAT MP3^
+   1641 - 1641^
+DATA=set_preset=7 | OPERATION=set_preset | PARAMETER=7
+   Nostalgie Best Of 70 128mp3^
+   42099 - 39888^
+DATA=set_preset=8 | OPERATION=set_preset | PARAMETER=8
+   NOSTALGIE BEST OF 80 mp3^
+   14669 - 13404^
+DATA=set_preset=9 | OPERATION=set_preset | PARAMETER=9
+   53167 - 49915^
+   18198 - 16325^
+DATA=play_stop=1 | OPERATION=play_stop | PARAMETER=1
+DATA=init_mode=1 | OPERATION=init_mode | PARAMETER=1
+DATA=play_special=1 | OPERATION=play_special | PARAMETER=1
+   https://audio.bfmtv.com/bfmradio_128.mp3^
+DATA=play_stop=1 | OPERATION=play_stop | PARAMETER=1
+DATA=set_mode=2 | OPERATION=set_mode | PARAMETER=2
+DATA=set_preset=0 | OPERATION=set_preset | PARAMETER=0
+   Fox News Radio^
+DATA=set_preset=1 | OPERATION=set_preset | PARAMETER=1
+   NPR Program Stream^
+DATA=set_preset=2 | OPERATION=set_preset | PARAMETER=2
+   -^
+DATA=set_preset=3 | OPERATION=set_preset | PARAMETER=3
+   BBC Radio^
+DATA=set_preset=4 | OPERATION=set_preset | PARAMETER=4
+   Radio 74^
+DATA=set_preset=5 | OPERATION=set_preset | PARAMETER=5
+   /RTS4-Option-Musique_Room1^
+   Raphael - Ne partons pas f?ch?s^
+DATA=set_preset=6 | OPERATION=set_preset | PARAMETER=6
+   /SwissPOP_Room2^
+   Queen - You're My Best Friend^
+   Radio Swiss Pop - www.radioswisspop.ch^
+   Hothouse Flowers - Don't Go^
+   Lilly Martin - Good Love^
+DATA=set_preset=7 | OPERATION=set_preset | PARAMETER=7
+   Domenico Scarlatti - Sonate en r? mineur^
+   Radio Suisse Classique - www.radiosuisseclassique.ch^
+   Jacques Offenbach - Divertissement des songes et des heures de "Orph?e aux Enfers"^
+DATA=set_preset=8 | OPERATION=set_preset | PARAMETER=8
+   /spoonradio-high^
+   U2 - Luckiest Man In The World^
+   Simple Plan - Wake Me Up (When This Nightmare's Over)^
+DATA=set_preset=9 | OPERATION=set_preset | PARAMETER=9
+   /verticalradio-128^
+DATA=set_mode=3 | OPERATION=set_mode | PARAMETER=3
+DATA=set_preset=0 | OPERATION=set_preset | PARAMETER=0
+   113.fm Awesome 80's^
+   Now back to the music!^
+   The Cure - Close to Me - Remastered^
+DATA=set_preset=1 | OPERATION=set_preset | PARAMETER=1
+   https://113fm-atunwadigital.streamguys1.com/1056^
+   113.fm Retro!^
+   Now back to the music!^
+   Earth, Wind & Fire - Saturday Nite^
+DATA=set_preset=2 | OPERATION=set_preset | PARAMETER=2
+   https://113fm-atunwadigital.streamguys1.com/1012^
+   Eagles - I Can't Tell You Why^
+DATA=set_preset=3 | OPERATION=set_preset | PARAMETER=3
+   https://113fm-atunwadigital.streamguys1.com/1063^
+   Led Zeppelin - Going to California - Remaster^
+DATA=set_preset=4 | OPERATION=set_preset | PARAMETER=4
+   181.FM Awesome 80s^
+   Bobby Brown - Every Little Step (Radio Version) ^
+DATA=set_preset=5 | OPERATION=set_preset | PARAMETER=5
+   181.FM The Eagle (Classic)^
+   Aerosmith - Dude (Looks Like A Lady) ^
+DATA=set_preset=6 | OPERATION=set_preset | PARAMETER=6
+   181.FM Highway 181^
+   Hank Williams, Jr. - Family Tradition ^
+DATA=set_preset=7 | OPERATION=set_preset | PARAMETER=7
+   181.FM Classic Hits 181^
+   181.fm - Music Promo60 ^
+   181.fm - Music Promo30 ^
+   Listen.FM - Listen.FM ^
+   Prince - Let's Go Crazy (Original Single Version) ^
+DATA=set_preset=8 | OPERATION=set_preset | PARAMETER=8
+   http://listen.181fm.com/181-70s_128k.mp3^
+   Listen.FM - Listen.FM ^
+   Santana - Evil Ways ^
+DATA=set_preset=9 | OPERATION=set_preset | PARAMETER=9
+   181.FM 90s Alternative^
+   Toad The Wet Sprocket - Walk On The Ocean ^
+   No Doubt - Just A Girl ^
+   Tragically Hip - Courage ^
+   Cake - The Distance ^
+   Creed - One (Radio Edit) ^
+   Eve 6 - Inside Out (Album Version) ^
+   181.fm - Music Promo60 ^
+   Listen.FM - Listen.FM ^
+   Lenny Kravitz - It Ain't Over 'Til It's Over ^
+   Smashing Pumpkins - Bullet With Butterfly Wings ^
+   Alice In Chains - Don't Follow ^
+   Garbage - Stupid Girl ^
+   Everclear - Everything To Everyone ^
+   Nirvana - Rape Me ^
+   Soup Dragons - Divine Thing (7' Edit) ^
+   R.E.M. - Crush With Eyeliner ^
+   181.fm - Music Promo60 ^
+   181.fm - Music Promo30 ^
+   Listen.FM - Listen.FM ^
+   Bush - Everything Zen (Clean Radio Edit) ^
+DATA=play_stop=1 | OPERATION=play_stop | PARAMETER=1
+DATA=set_mode=4 | OPERATION=set_mode | PARAMETER=4
+DATA=set_preset=0 | OPERATION=set_preset | PARAMETER=0
+   AD^
+   CHARLES AZNAVOUR - JE M'VOYAIS DEJA^
+DATA=set_volume_down=24 | OPERATION=set_volume_down | PARAMETER=24
+DATA=set_volume_down=23 | OPERATION=set_volume_down | PARAMETER=23
+DATA=set_volume_down=22 | OPERATION=set_volume_down | PARAMETER=22
+DATA=set_volume_down=21 | OPERATION=set_volume_down | PARAMETER=21
+DATA=set_volume_down=20 | OPERATION=set_volume_down | PARAMETER=20
+DATA=set_volume_down=19 | OPERATION=set_volume_down | PARAMETER=19
+DATA=set_volume_down=18 | OPERATION=set_volume_down | PARAMETER=18
+DATA=set_volume_down=17 | OPERATION=set_volume_down | PARAMETER=17
+DATA=set_volume_down=16 | OPERATION=set_volume_down | PARAMETER=16
+DATA=set_volume_down=15 | OPERATION=set_volume_down | PARAMETER=15
+DATA=set_volume_down=14 | OPERATION=set_volume_down | PARAMETER=14
+DATA=set_volume_down=13 | OPERATION=set_volume_down | PARAMETER=13
+DATA=set_volume_down=12 | OPERATION=set_volume_down | PARAMETER=12
+DATA=set_volume_down=11 | OPERATION=set_volume_down | PARAMETER=11
+DATA=set_volume_down=10 | OPERATION=set_volume_down | PARAMETER=10
+    - NOEL - TOUTE LA JOURNEE, LES PLUS BELLES CHANSONS^
+   ANDY WILLIAMS - HAPPY HOLIDAY^
+    - PUB - MELODY 3^
+    - 2024 - PODCAST OLIVIER LEJEUNE^
+    - GENE SALARIE TPE  ELECTI^
+    - ARCOM SIGNALETIQUE ENFAN^
+    - BLACK FRIDAY 930242^
+    - M2 MINI COUNTRYMAN ELEC^
+    - RACROCHAGES PUBS^
+    - 2024S - LA RADIO VINTAGE 03 (DYNAMIQUE)^
+   CARLOS SANTANA - OYE COMO VA^
+   HERVE CRISTIANI - IL EST LIBRE MAX^
+    - ACCA 5 - MELODY repeat^
+   JOE DASSIN - DANS LES YEUX D' EMILIE^
+    - 2024S - 60 70 80 1 SEULE RADIO^
+   FRANCOISE HARDY - ETONNEZ MOI^
+   CLAUDE FRANCOIS - MARCHE TOUT DROIT^
+    - R2023 - LINER -VOUS ÉCOUTEZ LA RADIO VINTAGE A V2^
+   ROBERT PALMER - EVERY KINDA PEOPLE^
+   CERRONE - SUPERNATURE^
+   NICOLAS PEYRAC - ET MON PERE^
+   MICHEL POLNAREFF - LA MOUCHE^
+   ROSE LAURENS - QUAND TU PARS^
+    - AMELI BONS USAGES DU MED^
+    - M3 BEV RANGE IX1 ELEC DL^
+    - RACROCHAGES PUBS^
+    - 2022 - LINER - LES RADIOS ONT LA MÉMOIRE COURTE V2^
+   BARRY MANILOW - COPACABANA^
+    - 2024 - LES RADIOS LES ONT OUBLIES^
+   PIERRE BACHELET - VINGT ANS^
+    - MD.VINTAGE NON STOP (hf)^
+   ABBA - SOS^
+    - TOP MELODY 21H^
+    - TOP HORAIRE LDG^
+   CHRISTOPHE - PETITE FILLE DU SOLEIL^
+    - 2024 - SOUVENIRS NON STOP^
+   DAVE - ALLO ELISA^
+    - 2024 - TROIS DECENIES ESSENTIELLES^
+   DIANA ROSS - Chain Reaction^
+    - 2024 PROMO - WEBRADIO SOUL COLLECTION^
+    - M3 MINI COUNTRYMAN ELEC^
+    - RACROCHAGES PUBS^
+   NICOLE CROISILLE - TELEPHONE MOI^
+   BRIGITTE BARDOT - MOI, JE JOUE^
+   DIONNE WARWICK - DON'T MAKE ME OVER^
+    - LINER FLUX - PROG DE STARS JUSQU'A 22H00^
+   SERGE GAINSBOURG - LE POINCONNEUR DES LILAS^
+    - R2023 - NOUS JOUONS TOUTES LES MUSIQUES^
+   JOHN LENNON - Woman^
+   MICHEL SARDOU - LES VIEUX MARIES^
+    - ACCA 13 - MELODY FEMININ^
+   FRANCOIS VALERY - AIMONS-NOUS VIVANTS^
+    - 2024 - LA MEMOIRE MUSICALE^
+   MIKE BRANT - VIENS CE SOIR^
+    - LINER FLUX - PROG DE STARS CHAQUE SOIR^
+   OLIVIA NEWTON JOHN - HOPELESSLY DEVOTED TO YOU ^
+   SYLVIE VARTAN - NICOLAS^
+    - 2024 PROMO - SEVENTIES COLLECTION^
+    - AMELI BONS USAGES DU MED^
+    - RACROCHAGES PUBS^
+   DAVID CASSIDY - DAYDREAMER^
+DATA=set_preset=1 | OPERATION=set_preset | PARAMETER=1
+   fip-midfi.mp3^
+DATA=set_preset=2 | OPERATION=set_preset | PARAMETER=2
+   Gold London^
+   The Police - Message In A Bottle^
+   Andy Williams - It's The Most Wonderful Time Of The Year^
+   Donna Summer - Hot Stuff^
+   Van Halen - Jump^
+   Four Tops - It's The Same Old Song^
+DATA=set_preset=3 | OPERATION=set_preset | PARAMETER=3
+   http://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3^
+   Michael McDonald - Sweet Freedom^
+   Def Leppard - Hysteria^
+   Jackson Browne - Somebody's Baby^
+   Bobby Brown - My Perogative^
+   Air Supply - The One That You Love^
+   Foreigner - Juke Box Hero^
+DATA=set_preset=4 | OPERATION=set_preset | PARAMETER=4
+   Roxette - Dangerous^
+   Tal Bachman - She's So High^
+   Lauryn Hill - Doo Wop (That Thing)^
+   Bon Jovi - Always^
+   Mariah Carey - Dream Lover^
+DATA=set_preset=5 | OPERATION=set_preset | PARAMETER=5
+   Radio 10 60&70's Hits^
+DATA=set_preset=6 | OPERATION=set_preset | PARAMETER=6
+   https://kathy.torontocast.com:2310/stream^
+   Abba - Mamma Mia^
+   The Kinks - A Well Respected Man^
+   The Fouryo's - Ik Zie Je Elke Morgen^
+   Paul Jones - I've Been A Bad Bad Boy^
+   Shirley & Company - Shame, Shame, Shame^
+DATA=set_preset=7 | OPERATION=set_preset | PARAMETER=7
+   https://dr2101.ice.infomaniak.ch/dr2101.mp3^
+   THE POINTER SISTERS - I'M SO EXCITED^
+   CELINE DION - EN ATTENDANT SES PAS^
+   EUROPE - THE FINAL COUNTDOWN^
+   ELECTRIC LIGHT ORCHESTRA - LAST TRAIN TO LONDON^
+   LAID BACK - SUNSHINE REGGAE^
+   LEANN RIMES - CAN'T FIGHT THE MOONLIGHT^
+   CLAUDE BARZOTTI - LE RITAL^
+   YAZOO - SITUATION^
+   OASIS - WHATEVER^
+   MICHAEL JACKSON - OFF THE WALL^
+   MADNESS - OUR HOUSE^
+   SUPERTRAMP - LADY^
+   STEPHAN EICHER - DEJEUNER EN PAIX^
+   MILLI VANILLI - GIRL YOU KNOW IT'S TRUE^
+   BONEY M - MA BAKER^
+   POLICE - DE DO DO DO, DE DA DA DA^
+   JEAN-JACQUES GOLDMAN - ON IRA^
+   LIONEL RICHIE - SAY YOU, SAY ME^
+   THE CURE - BOYS DON'T CRY^
+   TECHNOTRONIC - PUMP UP THE JAM^
+   THE CRANBERRIES - LINGER^
+   PETER CETERA - GLORY OF LOVE^
+   ARETHA FRANKLIN - I SAY A LITTLE PRAYER^
+   WILLIAM PITT - CITY LIGHTS^
+   JEAN LOUIS AUBERT - LES PLAGES^
+   THE RUBETTES - TONIGHT^
+   BOYS TOWN GANG - CAN'T TAKE MY EYES OFF YOU.^
+   VERONIQUE SANSON - BERNARD'S SONG^
+   GEORGE MICHAEL - AS^
+   HAROLD FALTERMEYER - AXEL F^
+   JULIO IGLESIAS - JE N'AI PAS CHANGE^
+   DEPECHE MODE - EVERTHING COUNTS^
+   LENNY KRAVITZ - I BELONG TO YOU^
+   KATE BUSH - RUNNING UP THAT HILL^
+   NICOLE CROSILLE - TELEPHONE-MOI^
+   BRONSKI BEAT - SMALLTOWN BOY^
+   LAURENT VOULZY - LE POUVOIR DES FLEURS^
+   BONNIE TYLER - HOLDING OUT FOR A HERO^
+   JACQUES DUTRONC - L'OPPORTUNISTE^
+   FINE YOUNG CANNIBALS - SHE DRIVES ME CRAZY^
+   FLORENT PAGNY - ET UN JOUR UNE FEMME^
+   ROGER GLOVER - LOVE IS ALL (feat.Ronnie Dio)^
+   SMOKEY ROBINSON - BEING WITH YOU^
+   MAXIME LE FORESTIER - EDUCATION SENTIMENTALE^
+   LADY - EASY LOVE^
+   THE SILENCERS - THE REAL McCOY^
+DATA=set_preset=8 | OPERATION=set_preset | PARAMETER=8
+   IP music - MP3@320 Kb/s^
+    *** www.ipmusic.ch^
+   Imagination - In And Out Of Love *** www.ipmusic.ch^
+    *** www.ipmusic.ch^
+   Agnetha Faltskog - Fly Me To The Moon *** www.ipmusic.ch^
+   The Cranberries - Zombie (Live) *** www.ipmusic.ch^
+    *** www.ipmusic.ch^
+   Aha - Summer Moved On *** www.ipmusic.ch^
+    *** www.ipmusic.ch^
+   Crystal Bowersox - Up To The Mountain *** www.ipmusic.ch^
+   Eros Ramazzotti & Anastacia - I Belong To You *** www.ipmusic.ch^
+    *** www.ipmusic.ch^
+   Sheryl Crow - Firts cut is the deepest *** www.ipmusic.ch^
+    *** www.ipmusic.ch^
+   All Stars - Never Give Up *** www.ipmusic.ch^
+   Peter Cincotti - Good Bye Philadelphia *** www.ipmusic.ch^
+DATA=set_preset=9 | OPERATION=set_preset | PARAMETER=9
+   Stream^
+   Akai Tori - Tsubasa wo Kudasai^
+   Moriyama Ryoko - Utatte yo Yuuhi no Uta o^
+   Go Hiromi - Otoko no Ko Onna no Ko^
+   Kai Band - Hero^
+   Okita Hiroyuki - E Kimochi^
+   Teresa Teng - Doki no Nagare ni Mi wo Makase^
+   Hound Dog - ff Forutishimo^
+   Four Saints - Chisana Nikki^
+   Yamaguchi Momoe - Fuyu no Shoku^
+   Alfee, The - Mary Ann^
+   Chage and Aska - Morning Moon^
+   Checkers - NANA^
+   Matsutoya Yumi - VOYAGER-Hizuke no Nai Bohyou^
+   Ueda Masaki - Osaka Bay Blues^
+   Kisugi Takao - Yume no Tochu^
+   Okumura Chiyo - Shuchakueki^
+   Tayama Masamitsu - Haru Urara^
+   Sen Masao - Hoshikage no Waltz^
+   Grape - Shourou Nagashi^
+   Matsuyama Chiharu - Tabi no Sora Kara^
+   Fuse Akira - Tsumiki no Heya^
+   Hirota Mieko - Kodomo Chanaino (Dont Treat Me^
+   Saijo Hideki - Little Girl^
+   Moriyama Kayoko - Melon no Kimochi^
+   Nakajou Kiyoshi - Usunasake^
+   Pink Lady - 2PL-nagisa_no_sindbad^
+   Nakajou Kiyoshi - Usunasake^
+   Hamada Mari - Heart and Soul^
+   Ihara Shizuko - Ikebukuro no Yoru^
+   Los Indios - Shiri Sugita no ne^
+   Asaki Yui - Niji no Dreamer^
+   Nakamura Masatoshi - Oretachi no Tabi^
+   Off Course - Yes-No^
+DATA=play_stop=1 | OPERATION=play_stop | PARAMETER=1

@@ -1,0 +1,15 @@
+### playlist.dab1 - 10 DAB PRESETS FOR calcRADIO.sh using dab-rtlsdr-2
+### format: "DESCRIPTION" | "COMMAND"
+### lines starting with "#" will be ignored
+### blank lines will be ignored too
+
+"Melody CH"      | "-C 10C -P 'Melody CH'"
+"SPOON ROCK"     | "-C 10C -P 'SPOON ROCK'"
+"Kiss Collector" | "-C 10C -P 'Kiss Collector'"
+"Rock Star"      | "-C 10C -P 'Rock Star'"
+"IP music"       | "-C 10C -P 'IP music'"
+"ROCK BALLADS"   | "-C 8C  -P 'ROCK BALLADS'"
+"ROCK CLASSICS"  | "-C 8C  -P 'ROCK CLASSICS'"
+"Option Musique" | "-C 12A -P 'RTS OptionMusiq+'"
+"Swiss Pop"      | "-C 12A -P 'Swiss Pop+'"
+"RTS La 1ere"    | "-C 12A -P 'RTS Première+'"
