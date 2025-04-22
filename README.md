@@ -17,6 +17,7 @@
 <p float="left">
    <IMG SRC="pix/Which%20one%20do%20you%20prefer%20(small).jpg"  ALT="Which one do you prefer?" WIDTH=200 HEIGHT=150 BORDER=0>
    <IMG SRC="NoPi/NoPi.jpg"                                      ALT="NoPi!"                    WIDTH=200 HEIGHT=150 BORDER=0>
+   <BR>
    <IMG SRC="calcRADIO!/pix/calcRADIO-6.small.jpg"               ALT="calcRADIO!"               WIDTH=200 HEIGHT=150 BORDER=0>
    <IMG SRC="bluetooth_audio/pix/raspberrypizero2w-small-02.jpg" ALT="raspberrypizero2w"        WIDTH=200 HEIGHT=150 BORDER=0>
 </p>
