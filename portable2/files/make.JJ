@@ -1,0 +1,3 @@
+cd "openwrt-imagebuilder-19.07.10-ramips-mt76x8.Linux-x86_64"
+make clean
+make image PROFILE="tplink_tl-wr902ac-v3" PACKAGES="kmod-usb2 kmod-usb-storage kmod-fs-f2fs kmod-usb-audio kmod-sound-core kmod-sound-hda-codec-cmedia kmod-usb-serial kmod-usb-serial-ch341 mpc mpd-mini coreutils-stty nano htop curl sysstat usbutils alsa-utils sshpass -ppp -ppp-mod-pppoe -ip6tables -odhcp6c -kmod-ipv6 -kmod-ip6tables -odhcpd-ipv6only -odhcpd -iptables -firewall -dnsmasq" FILES="/home/jj/PI/portable2/files" BIN_DIR="/home/jj/PI/portable2/JJ" EXTRA_IMAGE_NAME="JJ" DISABLED_SERVICES="sysntpd sysstat"
