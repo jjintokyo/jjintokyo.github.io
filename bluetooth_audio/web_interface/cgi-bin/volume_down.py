@@ -1,0 +1,20 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# sudo adduser www-data audio
+# sudo systemctl restart apache2
+
+import subprocess
+
+command = "/usr/bin/amixer sset SoftVolume 1%-"
+try:
+    returned_output = subprocess.check_output(command, shell=True, stderr=subprocess.STDOUT)
+except Exception as e:
+    returned_output = e.output
+
+print("Content-Type: text/html; charset=UTF-8\r\n\r\n")
+print("<html>")
+print("<body background='../pix/background2.jpg' bgcolor='DimGray' text='Silver'>")
+print("<h1>Volume -</h1>")
+print("<h3><pre>" + str(returned_output.decode('utf8')) + "</pre></h3>")
+print("</body>")
+print("</html>")
